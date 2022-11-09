@@ -1,0 +1,2186 @@
+﻿id,name,team,countablePlays,averagePPA.all,totalPPA.all,totalPPA.pass,totalPPA.rush,position,season
+500455,Zack Wynn,Western Michigan,1,-2.321,-2.321,-2.321,,QB,2013
+517283,Andrew Frerking,Baylor,2,-2.015,-4.031,,-4.031,QB,2013
+513408,Hassan Dixon,Temple,1,-1.8,-1.8,,-1.8,RB,2013
+511390,Rob Burns,Virginia,1,-1.437,-1.437,-1.437,,TE,2013
+530721,Jamel Harbison,Minnesota,1,-1.395,-1.395,,-1.395,WR,2013
+514780,Devin Boutte,Tulane,1,-1.317,-1.317,,-1.317,WR,2013
+481154,Jake Bernards,San Diego State,1,-1.159,-1.159,-1.159,,QB,2013
+522941,Chris Burrell,Cincinnati,1,-1.158,-1.158,-1.158,,WR,2013
+521263,Matthew Quinn,UMass,1,-1.158,-1.158,-1.158,,QB,2013
+550180,Dan Monteroso,Purdue,1,-1.157,-1.157,,-1.157,WR,2013
+550592,Dontel James,Fresno State,3,-1.12,-3.36,,-3.36,RB,2013
+530402,Jameson Labady,Miami,4,-1.102,-4.409,,-4.409,RB,2013
+500223,Sam McNearney,Georgia Tech,2,-1.079,-2.158,,-2.158,RB,2013
+505844,Jerick McKinnon,Georgia Southern,1,-1.048,-1.048,-1.048,,WR,2013
+539020,Ricky Fergerson,Appalachian State,2,-1.021,-2.043,,-2.043,RB,2013
+531254,Ishmael Adams,UCLA,1,-1.002,-1.002,,-1.002,WR,2013
+532435,Grant Venham,Ohio,2,-0.899,-1.798,,-1.798,WR,2013
+512223,Trey Fetner,South Alabama,6,-0.885,-5.309,-1.758,-3.551,QB,2013
+514250,Tristin Boykin,Kent State,1,-0.856,-0.856,,-0.856,RB,2013
+536465,Jayson Carter,Rice,1,-0.811,-0.811,,-0.811,RB,2013
+480977,Jeff Manning,Utah State,3,-0.787,-2.362,,-2.362,QB,2013
+551182,Dontravious Wilson,UCF,9,-0.783,-7.051,,-7.051,RB,2013
+512165,Merritt Hall,Georgia,2,-0.775,-1.55,-0.167,-1.383,FB,2013
+502885,Joe McKay,Colorado State,1,-0.771,-0.771,,-0.771,TE,2013
+537015,Haamid Williams,Clemson,3,-0.737,-2.212,,-2.212,RB,2013
+482966,Jimmy Booth,East Carolina,1,-0.703,-0.703,,-0.703,FB,2013
+512238,Julien Valentin,South Alabama,15,-0.681,-10.216,,-10.216,RB,2013
+483219,Charley Loeb,Syracuse,9,-0.674,-6.07,1.922,-7.993,QB,2013
+552226,Rodriguez Moore,Cincinnati,4,-0.663,-2.654,,-2.654,RB,2013
+515206,Corbin Berkstresser,Missouri,1,-0.659,-0.659,-0.659,,QB,2013
+532637,Corey Jones,Toledo,2,-0.64,-1.281,,-1.281,WR,2013
+518229,Darien McNeill,North Carolina,1,-0.622,-0.622,-0.622,,WR,2013
+516371,Patrick Skov,Stanford,1,-0.616,-0.616,-0.616,,FB,2013
+481559,C.J. Zimmerer,Nebraska,1,-0.61,-0.61,-0.61,,FB,2013
+532662,Michael Henry,Western Michigan,1,-0.607,-0.607,-0.607,,WR,2013
+485026,Ammon Olsen,BYU,4,-0.603,-2.412,-2.276,-0.137,QB,2013
+534253,P.J. Gallo,Maryland,1,-0.599,-0.599,-0.599,,TE,2013
+534791,Bilal Marshall,Purdue,1,-0.582,-0.582,-0.582,,WR,2013
+536443,Darmontre Warr,Western Kentucky,2,-0.569,-1.138,,-1.138,RB,2013
+501817,Tyler Gabbert,UCF,3,-0.567,-1.702,-1.702,,QB,2013
+377783,Curt Phillips,Wisconsin,16,-0.561,-8.971,-9.018,0.046,QB,2013
+545968,Marquis Walker,Arkansas State,11,-0.545,-5.998,,-5.998,RB,2013
+530490,Damien Washington,North Carolina,1,-0.533,-0.533,,-0.533,WR,2013
+549960,Josh Taylor,NC State,3,-0.507,-1.52,-0.325,-1.195,QB,2013
+512730,Cole Banham,Minnesota,2,-0.503,-1.006,,-1.006,RB,2013
+535614,Donta Abron,Colorado,21,-0.498,-10.46,,-10.46,RB,2013
+531552,Ozzie Mann,Ball State,9,-0.487,-4.379,-4.379,,QB,2013
+535076,Sam Shisso,Miami (OH),1,-0.484,-0.484,-0.484,,WR,2013
+531427,D'Shaie Landor,Louisiana,8,-0.483,-3.867,-1.373,-2.494,QB,2013
+482556,Jovan Stevenson,Oregon State,2,-0.48,-0.961,,-0.961,RB,2013
+545290,Jalen Latter,Wake Forest,1,-0.477,-0.477,,-0.477,WR,2013
+517520,Cal Spangler,Baylor,1,-0.469,-0.469,-0.469,,WR,2013
+515496,Nate Carter,BYU,1,-0.463,-0.463,,-0.463,RB,2013
+550195,Falon Lee,Miami (OH),4,-0.462,-1.847,0.329,-2.175,RB,2013
+534334,Ricardo Young,Maryland,4,-0.457,-1.829,,-1.829,QB,2013
+552932,Devaris Brunson,East Carolina,1,-0.453,-0.453,-0.453,,TE,2013
+484066,Cody Wilson,Tulsa,3,-0.44,-1.319,-1.319,,FB,2013
+483086,Korvic Neat,Ole Miss,1,-0.418,-0.418,,-0.418,WR,2013
+504722,Mitchel Bartolo,California,3,-0.412,-1.237,,-1.237,RB,2013
+532959,Myles Carr,Fresno State,5,-0.409,-2.043,-3.643,1.6,WR,2013
+535582,Nick Tompkins,Michigan State,6,-0.405,-2.428,,-2.428,RB,2013
+482013,Broderick Alexander,Akron,1,-0.404,-0.404,,-0.404,FB,2013
+530527,Joel Caleb,Virginia Tech,2,-0.398,-0.795,-0.407,-0.388,WR,2013
+545627,Devonte Butler,Ohio State,3,-0.398,-1.195,,-1.195,RB,2013
+481854,Jacob Karam,Memphis,9,-0.398,-3.583,-0.636,-2.948,QB,2013
+519812,Garrett Krstich,SMU,4,-0.396,-1.583,-1.583,,QB,2013
+512649,Nathan Lytle,Nevada,16,-0.394,-6.308,,-6.308,RB,2013
+511336,Josh Grady,Vanderbilt,8,-0.393,-3.146,-3.065,-0.081,WR,2013
+552969,Todd Porter,Western Kentucky,10,-0.393,-3.929,-2.66,-1.269,QB,2013
+545653,Jonathon Weymann,East Carolina,1,-0.386,-0.386,-0.386,,QB,2013
+508708,Keith Sconiers,Akron,2,-0.384,-0.769,-0.769,,WR,2013
+503492,Jeremy Hester,Southern Mississippi,6,-0.379,-2.272,,-2.272,RB,2013
+518323,Zack Oliver,Northwestern,2,-0.379,-0.757,-0.757,,QB,2013
+503408,Jeffrey Lewis,Wisconsin,3,-0.376,-1.128,,-1.128,RB,2013
+535531,Jordan Shelley-Smith,Kansas,1,-0.37,-0.37,-0.37,,TE,2013
+531232,Tyler Matthews,TCU,6,-0.368,-2.209,-1.287,-0.922,QB,2013
+529616,D.J. Abnar,Liberty,3,-0.365,-1.095,0.683,-1.778,RB,2013
+513677,Corey McCarron,Alabama,1,-0.338,-0.338,-0.338,,TE,2013
+546216,Rayvean Moore,New Mexico State,1,-0.335,-0.335,-0.335,,WR,2013
+381494,Christian Stewart,BYU,2,-0.334,-0.668,-0.668,,QB,2013
+546396,Osirius Burke,San José State,7,-0.333,-2.333,,-2.333,RB,2013
+551181,Micah Reed,UCF,7,-0.333,-2.331,,-2.331,RB,2013
+512983,Mark Iannotti,Eastern Michigan,1,-0.331,-0.331,-0.331,,QB,2013
+545841,Gerald Howse,Georgia State,14,-0.33,-4.622,,-4.622,RB,2013
+532274,James Flanders,Tulsa,2,-0.329,-0.658,,-0.658,RB,2013
+505319,Ricky Seale,Stanford,11,-0.329,-3.617,,-3.617,RB,2013
+536517,Justin Hicks,Houston,18,-0.327,-5.886,0.451,-6.336,RB,2013
+550408,Jerin McClendon,Fresno State,1,-0.324,-0.324,-0.324,,TE,2013
+539035,Demario Kohn,Air Force,5,-0.32,-1.601,,-1.601,RB,2013
+552050,John Thompson,Washington State,2,-0.318,-0.636,-0.636,,WR,2013
+535983,Zach Conque,UT San Antonio,1,-0.316,-0.316,,-0.316,QB,2013
+530415,Kanler Coker,North Carolina,4,-0.315,-1.26,-0.622,-0.638,QB,2013
+509419,Robert Ratliff,Ole Miss,7,-0.309,-2.163,-2.163,,QB,2013
+533314,Malin Jones,Northwestern,4,-0.308,-1.231,0.141,-1.372,RB,2013
+529583,Lorenzo Taliaferro,Coastal Carolina,13,-0.307,-3.997,-0.304,-3.693,WR,2013
+551099,Joey Herrick,Kentucky,4,-0.302,-1.208,1.289,-2.496,WR,2013
+532154,Rex Rollins,North Texas,17,-0.3,-5.107,2,-7.106,RB,2013
+511979,Melvin Emesibe,UCLA,1,-0.297,-0.297,,-0.297,RB,2013
+551308,Altee Tenpenny,Alabama,22,-0.296,-6.517,-0.086,-6.432,RB,2013
+512671,Tyler Ervin,San José State,2,-0.295,-0.591,,-0.591,RB,2013
+535075,Jamire Westbrook,Miami (OH),8,-0.294,-2.353,0.298,-2.651,RB,2013
+514634,Tyler Williams,Akron,6,-0.286,-1.713,-1.713,,WR,2013
+512642,Randy Horton,Nevada,1,-0.284,-0.284,-0.284,,TE,2013
+511699,Thomas Rawls,Michigan,2,-0.278,-0.556,,-0.556,RB,2013
+551276,Alfonso Randolph,Florida International,25,-0.274,-6.855,,-6.855,RB,2013
+536220,Nate McLaurin,Nevada,12,-0.27,-3.24,,-3.24,RB,2013
+546224,Thomas Sperbeck,Boise State,6,-0.269,-1.612,-1.612,,WR,2013
+546510,Omar Stover,Wyoming,10,-0.268,-2.68,,-2.68,RB,2013
+546228,Derrick Thomas,Boise State,30,-0.262,-7.849,0.091,-7.94,RB,2013
+514827,John Barnes-Smith,East Carolina,2,-0.262,-0.524,,-0.524,RB,2013
+504744,Kenny Bassett,Oregon,16,-0.261,-4.177,,-4.177,RB,2013
+546714,Derrick Green,Michigan,79,-0.259,-20.461,-1.009,-19.453,RB,2013
+535880,Nate Holmes,Arkansas,6,-0.257,-1.541,,-1.541,RB,2013
+519979,Shane Coleman,Florida International,10,-0.255,-2.545,,-2.545,RB,2013
+515139,Antoinne Jimmerson,North Texas,102,-0.253,-25.769,-0.614,-25.154,RB,2013
+501690,D.J. Howard,Clemson,61,-0.247,-15.065,1.692,-16.757,RB,2013
+502332,Cody Kater,Central Michigan,7,-0.246,-1.722,-0.998,-0.723,QB,2013
+481394,Phillip Butterfield,Arkansas State,2,-0.246,-0.492,0.635,-1.127,QB,2013
+481048,Daniel Prior,North Texas,7,-0.246,-1.721,0.065,-1.786,TE,2013
+518139,Dustin Garrison,West Virginia,4,-0.242,-0.968,,-0.968,RB,2013
+499830,Blake Jurich,San José State,12,-0.24,-2.88,-2.695,-0.184,QB,2013
+511941,Remound Wright,Stanford,19,-0.239,-4.546,,-4.546,RB,2013
+532124,Brice Dolezal,Texas A&M,22,-0.238,-5.243,-0.558,-4.685,RB,2013
+537102,Jeremy Gaskins,Florida Atlantic,2,-0.236,-0.471,,-0.471,RB,2013
+535474,Kevin Rodriguez,Marshall,3,-0.235,-0.706,,-0.706,RB,2013
+511829,Chandler Shakespeare,Auburn,11,-0.234,-2.576,,-2.576,RB,2013
+546062,Aaron Bailey,Illinois,18,-0.234,-4.22,-1.746,-2.474,QB,2013
+534529,Jai Steib,Memphis,29,-0.23,-6.681,0.319,-6.999,RB,2013
+531747,Jack Fields,Boise State,42,-0.23,-9.643,-0.26,-9.383,RB,2013
+500856,Anthony Joyner,New Mexico State,1,-0.228,-0.228,-0.228,,TE,2013
+511306,Milton Hall,NC State,9,-0.227,-2.045,,-2.045,RB,2013
+503233,Donnell Kirkwood,Minnesota,53,-0.222,-11.791,1.49,-13.28,RB,2013
+500364,Corvin Lamb,Louisville,4,-0.218,-0.871,,-0.871,RB,2013
+533234,Jazzmar Clax,Connecticut,7,-0.217,-1.517,,-1.517,FB,2013
+530691,Cameron Coffman,Indiana,9,-0.215,-1.938,-1.938,,QB,2013
+515941,Kody Walker,Arkansas,6,-0.213,-1.276,,-1.276,RB,2013
+532976,Ikaika Woolsey,Hawai'i,46,-0.213,-9.8,-11.256,1.457,QB,2013
+514737,Kendal Thompson,Oklahoma,16,-0.21,-3.364,-3.679,0.315,QB,2013
+501580,Corey Carmichael,Middle Tennessee,27,-0.203,-5.49,-0.603,-4.887,FB,2013
+530299,Sean Maguire,Florida State,20,-0.203,-4.063,-5.586,1.523,QB,2013
+547241,Tyler Rouse,Boston College,23,-0.201,-4.628,,-4.628,RB,2013
+537103,Martese Jackson,Florida Atlantic,7,-0.199,-1.394,,-1.394,RB,2013
+517002,Kyle Boehm,California,4,-0.199,-0.797,,-0.797,QB,2013
+513325,Dreamius Smith,West Virginia,100,-0.198,-19.758,0.189,-19.946,RB,2013
+508212,Rush Hendricks,South Alabama,2,-0.198,-0.397,-0.397,,TE,2013
+530330,Dominique Gibson,Wake Forest,59,-0.197,-11.604,4.091,-15.695,RB,2013
+535360,Jody Fuller,South Carolina,2,-0.197,-0.395,-0.291,-0.104,WR,2013
+502883,Jake Levin,Colorado State,5,-0.194,-0.969,,-0.969,TE,2013
+518217,Eric Adams,Duke,3,-0.192,-0.577,,-0.577,RB,2013
+530349,Lynx Hawthorne,Baylor,3,-0.19,-0.569,0.806,-1.375,WR,2013
+536056,Juwan Lewis,Eastern Michigan,2,-0.189,-0.378,,-0.378,RB,2013
+481255,Monterrell Washington,Louisiana Monroe,25,-0.188,-4.706,-0.975,-3.731,RB,2013
+551280,Silas Spearman,Florida International,127,-0.186,-23.614,3.314,-26.928,RB,2013
+531458,Martez Walker,Central Michigan,11,-0.185,-2.038,0.978,-3.017,RB,2013
+504731,Austin Hinder,California,7,-0.182,-1.275,-1.223,-0.052,QB,2013
+481752,Jeremy Smith,Oklahoma State,122,-0.182,-22.18,0.37,-22.55,RB,2013
+546867,Robert Wheelwright,Wisconsin,1,-0.18,-0.18,-0.18,,WR,2013
+547338,Tyrone Swoopes,Texas,30,-0.179,-5.361,-5.987,0.625,QB,2013
+531082,Jalen Overstreet,Texas,18,-0.178,-3.203,,-3.203,RB,2013
+546017,Teddy Williamson,Ball State,70,-0.177,-12.41,-1.864,-10.545,RB,2013
+535521,Michael Cummings,Kansas,11,-0.176,-1.935,0.412,-2.347,QB,2013
+537098,Robert Lohnes,Florida Atlantic,2,-0.176,-0.352,0.701,-1.053,WR,2013
+537314,Desmon Peoples,Rutgers,7,-0.175,-1.228,-0.152,-1.076,RB,2013
+551272,Shug Oyegunle,Florida International,6,-0.172,-1.035,-1.035,,WR,2013
+517007,Darren Ervin,California,37,-0.172,-6.369,-0.867,-5.502,RB,2013
+530670,Devin Church,Illinois,6,-0.172,-1.034,0.307,-1.341,RB,2013
+550203,Grant Niemiec,Miami (OH),32,-0.171,-5.477,0.04,-5.517,TE,2013
+500415,Venric Mark,Northwestern,36,-0.17,-6.126,2.545,-8.671,RB,2013
+487571,Brandon Murie,Buffalo,7,-0.17,-1.187,,-1.187,RB,2013
+514749,Matt Floyd,South Florida,21,-0.169,-3.548,-2.845,-0.703,QB,2013
+546098,Nick Byrne,Louisiana,1,-0.167,-0.167,-0.167,,TE,2013
+546279,Don Jackson,Nevada,81,-0.167,-13.533,2.696,-16.229,RB,2013
+515372,Stephen Fraser,Army,9,-0.167,-1.504,,-1.504,RB,2013
+550715,Jack Killian,UNLV,1,-0.165,-0.165,-0.165,,WR,2013
+482048,Zurlon Tipton,Central Michigan,61,-0.165,-10.085,-0.14,-9.946,RB,2013
+504519,Mike Levandowski,Kent State,1,-0.164,-0.164,-0.164,,TE,2013
+536555,Kelvin Lee,Utah State,14,-0.164,-2.299,,-2.299,RB,2013
+508159,Kendall Houston,South Alabama,60,-0.163,-9.787,-0.686,-9.1,RB,2013
+549956,Bryant Shirreffs,NC State,36,-0.161,-5.812,-3.517,-2.295,QB,2013
+549802,Darius Tice,South Florida,35,-0.16,-5.608,-0.151,-5.457,RB,2013
+514162,Zack Langer,Tulsa,15,-0.16,-2.402,1.093,-3.494,RB,2013
+512362,Harley Scioneaux,Louisiana Monroe,16,-0.158,-2.523,-2.523,,TE,2013
+515427,Chris Nutall,Texas State,42,-0.158,-6.622,3.595,-10.218,RB,2013
+552650,Austin Green,Miami (OH),5,-0.156,-0.782,0.207,-0.989,WR,2013
+535495,Devin Chafin,Baylor,47,-0.156,-7.324,,-7.324,RB,2013
+501364,Travis Evans,Georgia State,109,-0.155,-16.851,3.522,-20.373,RB,2013
+552645,Lorenzo Woodley,UMass,87,-0.154,-13.439,1.121,-14.56,RB,2013
+482262,Nick Sizemore,Kansas,1,-0.154,-0.154,,-0.154,TE,2013
+505644,Javonti Greene,Eastern Michigan,39,-0.153,-5.985,0.385,-6.37,RB,2013
+534863,Austin Apodaca,Washington State,45,-0.153,-6.894,-7.499,0.604,QB,2013
+550864,Terrell Smith,Texas State,2,-0.152,-0.304,-0.304,,WR,2013
+548436,Marcus Cox,Appalachian State,25,-0.152,-3.812,-0.219,-3.594,RB,2013
+545840,Kyler Neal,Georgia State,24,-0.147,-3.517,2.367,-5.883,RB,2013
+532065,Nathan Peterman,Tennessee,25,-0.141,-3.534,-2.63,-0.904,QB,2013
+550366,Rodney Hall,Texas Tech,1,-0.14,-0.14,,-0.14,RB,2013
+512840,Savon Huggins,Rutgers,92,-0.139,-12.813,-0.685,-12.128,RB,2013
+480520,Damien Thigpen,UCLA,20,-0.139,-2.783,1.367,-4.15,RB,2013
+505596,Jauan Latney,James Madison,4,-0.139,-0.558,,-0.558,RB,2013
+551146,Jamir Tillman,Navy,3,-0.138,-0.414,-0.414,,WR,2013
+547176,Aofaga Wily,Hawai'i,13,-0.138,-1.788,0.964,-2.751,RB,2013
+515500,Terenn Houk,BYU,2,-0.137,-0.275,-0.275,,WR,2013
+481710,Andrew Maxwell,Michigan State,35,-0.137,-4.788,-5.558,0.77,QB,2013
+534755,Frederick Gammage,Arizona State,6,-0.132,-0.791,-0.791,,WR,2013
+503611,Shawn Lynch,Navy,7,-0.131,-0.919,1.589,-2.508,WR,2013
+546753,Cris Dinham,South Alabama,52,-0.131,-6.811,2.241,-9.052,RB,2013
+546423,Robby Kolanz,USC,1,-0.13,-0.13,-0.13,,WR,2013
+482555,Mitch Singler,Oregon State,1,-0.129,-0.129,-0.129,,WR,2013
+514294,Spencer Treadwell,Miami (OH),51,-0.124,-6.325,1.822,-8.147,RB,2013
+547172,Diocemy Saint Juste,Hawai'i,54,-0.124,-6.71,-0.923,-5.787,RB,2013
+536030,Michael Pierre,South Florida,45,-0.124,-5.602,4.537,-10.139,RB,2013
+500420,Adonis Smith,UNLV,35,-0.124,-4.343,4.412,-8.755,RB,2013
+508163,T.J. Glover,South Alabama,6,-0.123,-0.738,0.304,-1.042,WR,2013
+536499,Darrion Pollard,Rice,4,-0.123,-0.491,2.016,-2.508,WR,2013
+501548,Anthony Wilkerson,Stanford,88,-0.122,-10.724,4.232,-14.956,RB,2013
+552228,Kyle Nutter,Cincinnati,1,-0.122,-0.122,-0.122,,FB,2013
+550814,Jacquille Veii,Maryland,44,-0.121,-5.332,0.794,-6.127,WR,2013
+518088,Torrey Pierce,Louisiana,38,-0.119,-4.524,,-4.524,RB,2013
+547347,Paco Solano,Air Force,12,-0.119,-1.43,,-1.43,RB,2013
+531402,Jimmy Potepa,Ole Miss,5,-0.119,-0.597,,-0.597,RB,2013
+502934,Adam Dingwell,San Diego State,73,-0.118,-8.602,-7.834,-0.768,QB,2013
+535728,Tion Green,Cincinnati,83,-0.118,-9.796,0.369,-10.165,RB,2013
+518052,Santonio Jones,UAB,3,-0.116,-0.347,0.574,-0.921,FB,2013
+482794,Jonathan George,Kentucky,21,-0.112,-2.345,0.615,-2.96,RB,2013
+535518,Charles Brooks,Kansas,2,-0.112,-0.225,-0.225,,TE,2013
+532925,Kevin Ellison,Georgia Southern,3,-0.111,-0.333,-1.048,0.715,QB,2013
+538425,Colton Huntsman,Air Force,17,-0.111,-1.881,1.604,-3.484,WR,2013
+514452,Adonis Ameen-Moore,Syracuse,5,-0.11,-0.552,,-0.552,RB,2013
+517557,Dillon Root,Fresno State,1,-0.109,-0.109,,-0.109,WR,2013
+381468,Michael Alisa,BYU,29,-0.109,-3.157,,-3.157,RB,2013
+482557,Cody Vaz,Oregon State,18,-0.107,-1.921,1.997,-3.918,QB,2013
+546794,Ryan Green,Florida State,33,-0.107,-3.518,0.998,-4.516,RB,2013
+502967,Stephen Bryant,TCU,1,-0.106,-0.106,-0.106,,TE,2013
+534405,Ty Reed,Alabama,1,-0.106,-0.106,-0.106,,WR,2013
+519225,Anthony Meray,Kent State,57,-0.105,-5.97,0.322,-6.292,RB,2013
+481131,Demarcus Rogers,New Mexico,11,-0.105,-1.152,,-1.152,RB,2013
+518264,Remi Watson,Marshall,32,-0.105,-3.366,-0.245,-3.121,RB,2013
+531996,Brian Kimbrow,Vanderbilt,82,-0.104,-8.545,0.847,-9.393,RB,2013
+537069,Stacey Bedell,UMass,99,-0.103,-10.195,4.726,-14.922,RB,2013
+534654,Caleb Muncrief,Oklahoma State,6,-0.103,-0.618,,-0.618,WR,2013
+505146,Tony Moore,Florida Atlantic,18,-0.103,-1.847,0.646,-2.493,RB,2013
+546271,Brian Burrell,Fresno State,16,-0.103,-1.655,0.406,-2.061,QB,2013
+500517,Ja'Terian Douglas,Tulsa,99,-0.102,-10.094,4.41,-14.504,RB,2013
+514645,Desmond Rice,Liberty,28,-0.1,-2.805,0.778,-3.583,RB,2013
+517248,Joe Hubener,Kansas State,2,-0.099,-0.197,,-0.197,QB,2013
+503732,James Potts,Buffalo,58,-0.098,-5.689,,-5.689,RB,2013
+480702,Beau Blankenship,Ohio,217,-0.095,-20.696,-2.831,-17.864,RB,2013
+500913,Andrew Hendrix,Notre Dame,29,-0.095,-2.765,-3.805,1.04,QB,2013
+550476,R.J. Shelton,Michigan State,22,-0.095,-2.087,-1.917,-0.17,WR,2013
+536053,Darius Jackson,Eastern Michigan,53,-0.094,-4.964,1.095,-6.059,RB,2013
+536149,Prescott Line,SMU,93,-0.093,-8.666,0.101,-8.767,RB,2013
+531012,Jalen Cope-Fitzpatrick,USC,1,-0.092,-0.092,-0.092,,TE,2013
+504101,Michael Dyer,Louisville,43,-0.092,-3.965,-0.307,-3.658,RB,2013
+502309,Lyle McCombs,Connecticut,169,-0.091,-15.336,0.13,-15.466,RB,2013
+515401,Lawrence Scott,Army,8,-0.09,-0.717,,-0.717,RB,2013
+548054,Connor Wingo-Reeves,Virginia,1,-0.088,-0.088,-0.088,,FB,2013
+537720,Lane Roseberry,Oregon,14,-0.088,-1.232,,-1.232,RB,2013
+532191,Sydie London,Tulane,12,-0.086,-1.034,-1.034,,TE,2013
+482947,Matt Schilz,Bowling Green,24,-0.085,-2.03,-1.022,-1.008,QB,2013
+518337,Adam Hine,BYU,39,-0.084,-3.269,1.371,-4.64,RB,2013
+549869,Jeremy Tabuyo,Texas A&M,6,-0.084,-0.504,-0.504,,WR,2013
+486854,Paul Harris,Louisiana Tech,8,-0.083,-0.662,-0.604,-0.058,QB,2013
+547541,Justin Goodwin,Rutgers,112,-0.079,-8.844,-1.686,-7.157,RB,2013
+511566,LaQuintus Dowell,UTEP,12,-0.079,-0.947,,-0.947,RB,2013
+517334,Dallas Burroughs,Boise State,4,-0.078,-0.313,-0.238,-0.074,WR,2013
+381491,Iona Pritchard,BYU,5,-0.078,-0.389,0.506,-0.895,RB,2013
+546283,Aaron Baltazar,Boise State,49,-0.077,-3.787,-0.932,-2.855,RB,2013
+517186,Nick Sherry,UNLV,78,-0.077,-6.014,-7.489,1.475,QB,2013
+552707,William Houston,Bowling Green,37,-0.076,-2.811,,-2.811,RB,2013
+501523,Mack Brown,Florida,146,-0.076,-11.086,1.315,-12.401,RB,2013
+482962,Darrell Smith,Clemson,4,-0.075,-0.299,-0.007,-0.293,FB,2013
+514214,Kenzel Doe,Wisconsin,9,-0.074,-0.662,3.057,-3.718,WR,2013
+536225,Chris Solomon,Nevada,84,-0.074,-6.214,5.841,-12.055,RB,2013
+489457,Ryan Boykin,Ohio,104,-0.073,-7.605,4.835,-12.44,RB,2013
+536396,Tyler Van Tubbergen,Western Michigan,195,-0.072,-14.052,-16.605,2.553,QB,2013
+532420,Tim Edmond,Ohio,32,-0.071,-2.287,-0.381,-1.906,RB,2013
+501027,Nehemiah Hicks,Texas A&M,1,-0.071,-0.071,-0.071,,TE,2013
+535724,DJ Dowdy,Cincinnati,2,-0.071,-0.143,-0.143,,TE,2013
+511297,Tony Creecy,NC State,51,-0.071,-3.614,2.586,-6.2,RB,2013
+531569,Alec Osborne,Louisiana Monroe,1,-0.07,-0.07,-0.07,,TE,2013
+515831,Shamier Jeffery,South Carolina,7,-0.069,-0.482,-0.482,,WR,2013
+511394,Horactio Banks,Ball State,90,-0.069,-6.253,-0.983,-5.27,RB,2013
+481244,Jyruss Edwards,Louisiana Monroe,110,-0.069,-7.63,-3.06,-4.571,RB,2013
+532975,Taylor Graham,Hawai'i,108,-0.068,-7.338,-7.4,0.062,QB,2013
+514232,Derek Straus,Wisconsin,2,-0.067,-0.134,-0.134,,FB,2013
+503810,Jerome Smith,Syracuse,196,-0.067,-13.181,3.034,-16.215,RB,2013
+535638,Zach Hernandez,UCLA,1,-0.067,-0.067,-0.067,,WR,2013
+545514,Cameron Echols-Luper,TCU,7,-0.067,-0.469,-0.469,,WR,2013
+484114,Karl Williams,Utah,21,-0.066,-1.386,-0.351,-1.035,RB,2013
+552811,Shadrach Abrokwah,UMass,50,-0.064,-3.208,,-3.208,RB,2013
+531356,Brandon Holloway,Mississippi State,17,-0.064,-1.082,1.64,-2.722,RB,2013
+550775,Aaron Kemper,Army,11,-0.063,-0.691,,-0.691,RB,2013
+504248,Nick Griffin,Mississippi State,26,-0.062,-1.61,3.272,-4.882,RB,2013
+483544,Jason Simpson,San José State,65,-0.061,-3.947,0.129,-4.076,RB,2013
+482287,Kendrick Hardy,Southern Mississippi,85,-0.061,-5.145,2.1,-7.245,RB,2013
+502076,Shontrelle Johnson,Iowa State,95,-0.06,-5.689,2.24,-7.929,RB,2013
+514189,Brandon Cottom,Purdue,52,-0.059,-3.062,3.973,-7.035,RB,2013
+537099,Jonathan Wallace,Florida Atlantic,129,-0.059,-7.58,8.5,-16.08,RB,2013
+511341,Derek King,Vanderbilt,5,-0.058,-0.29,,-0.29,RB,2013
+503360,Brandon Hayes,Memphis,212,-0.057,-12.087,5.467,-17.553,RB,2013
+531069,Johnathan Gray,Texas,167,-0.057,-9.512,3.831,-13.343,RB,2013
+535089,Robert Williams III,Miami (OH),8,-0.057,-0.453,,-0.453,RB,2013
+481443,Fitzgerald Toussaint,Michigan,187,-0.057,-10.643,20.108,-30.752,RB,2013
+516201,John Hendrick,Navy,26,-0.057,-1.471,-2.262,0.791,QB,2013
+504111,Patrick Lymon,Auburn,5,-0.055,-0.275,,-0.275,RB,2013
+500803,Reggie Pegram,North Texas,83,-0.053,-4.39,2.751,-7.14,RB,2013
+500428,Dareyon Chance,Western Michigan,165,-0.053,-8.757,2.283,-11.04,RB,2013
+545417,Montell Cozart,Kansas,121,-0.053,-6.406,-4.822,-1.584,QB,2013
+481901,Chris Nwoke,Colorado State,106,-0.052,-5.526,1.221,-6.747,RB,2013
+484574,Dae'Quan Scott,James Madison,31,-0.052,-1.603,-1.722,0.118,WR,2013
+532640,Darrin Duncan,Western Michigan,3,-0.051,-0.154,-0.798,0.644,WR,2013
+511399,Jahwan Edwards,Ball State,206,-0.05,-10.33,0.658,-10.988,RB,2013
+535083,Spencer McInnis,Miami (OH),13,-0.048,-0.622,3.584,-4.206,RB,2013
+515455,Donovonn Young,Illinois,93,-0.048,-4.495,-0.215,-4.28,RB,2013
+482999,Damian Fortner,Florida Atlantic,48,-0.047,-2.277,,-2.277,RB,2013
+514832,Chris Hairston,East Carolina,36,-0.046,-1.669,3.666,-5.336,RB,2013
+511251,Desmond Roland,Oklahoma State,169,-0.045,-7.63,0.456,-8.086,RB,2013
+512791,Germi Morrison,New Mexico State,88,-0.045,-3.983,3.626,-7.61,RB,2013
+550882,Jay Warren,Florida Atlantic,74,-0.045,-3.326,1.094,-4.42,RB,2013
+546675,Tim Boyle,Connecticut,142,-0.045,-6.328,-7.825,1.497,QB,2013
+531903,Conor Hundley,Akron,105,-0.043,-4.463,-3.06,-1.403,RB,2013
+536240,Steven Lakalaka,Hawai'i,121,-0.043,-5.15,1.95,-7.1,RB,2013
+536561,Lamarq Caldwell,Florida International,143,-0.042,-6.065,8.076,-14.141,RB,2013
+531052,Kelvin York,Utah,114,-0.042,-4.753,1.515,-6.268,RB,2013
+483149,LaDarius Perkins,Mississippi State,159,-0.04,-6.376,16.572,-22.948,RB,2013
+531451,Saylor Lavallii,Central Michigan,164,-0.038,-6.189,3.694,-9.884,RB,2013
+500829,De'Andre Johnson,Miami,5,-0.038,-0.19,,-0.19,RB,2013
+480590,William Pratcher,Middle Tennessee,19,-0.037,-0.704,,-0.704,RB,2013
+535268,Zach Kline,California,87,-0.037,-3.228,-3.788,0.56,QB,2013
+544085,Michael Church,Coastal Carolina,7,-0.036,-0.255,-0.333,0.078,QB,2013
+534882,Jeremiah Laufasa,Washington State,36,-0.036,-1.314,1.075,-2.389,RB,2013
+517805,David Glasco II,UT San Antonio,70,-0.034,-2.36,-0.145,-2.215,RB,2013
+501277,Robert Rose,Kansas State,23,-0.034,-0.781,3.149,-3.93,RB,2013
+550797,Kennedy Williams,Utah State,24,-0.032,-0.772,1.039,-1.811,WR,2013
+500231,Tony Zenon,Georgia Tech,15,-0.032,-0.473,0.884,-1.356,RB,2013
+517400,Michael Eubank,Arizona State,15,-0.031,-0.464,4.154,-4.619,QB,2013
+547337,Geoff Swaim,Texas,3,-0.031,-0.093,-0.093,,TE,2013
+534339,Jamie Gilmore,Temple,35,-0.03,-1.033,,-1.033,RB,2013
+512960,Anthony Garland,Central Michigan,30,-0.03,-0.899,1.473,-2.372,RB,2013
+545838,Jonathan Jean-Bart,Georgia State,68,-0.03,-2.01,1.206,-3.216,RB,2013
+512431,Tom Smith,Tennessee,25,-0.029,-0.725,1.526,-2.251,RB,2013
+552882,George Payne,Southern Mississippi,35,-0.029,-1.013,-0.196,-0.817,RB,2013
+530517,Shadrach Thornton,NC State,179,-0.027,-4.819,8.59,-13.408,RB,2013
+531594,Jordan Parker,Middle Tennessee,150,-0.026,-3.944,-1.213,-2.731,RB,2013
+530720,James Gillum,Minnesota,2,-0.026,-0.053,,-0.053,RB,2013
+500557,Patrick Thompson,Wake Forest,7,-0.025,-0.172,-1.665,1.493,QB,2013
+518388,Mark Weisman,Iowa,222,-0.024,-5.351,3.536,-8.886,RB,2013
+530328,Tyler Cameron,Wake Forest,32,-0.024,-0.782,-1.352,0.57,QB,2013
+534207,Andrew Price,UNLV,3,-0.024,-0.071,-0.071,,TE,2013
+517214,Kenny Hilliard,LSU,62,-0.024,-1.463,-0.915,-0.548,RB,2013
+501528,Rod Smith,Ohio State,25,-0.022,-0.562,-1.075,0.513,RB,2013
+530897,Zeke Pike,Louisville,1,-0.021,-0.021,-0.021,,TE,2013
+546651,Rachid Ibrahim,Pittsburgh,34,-0.021,-0.699,1.762,-2.461,RB,2013
+504052,Blake Sims,Alabama,41,-0.021,-0.867,1.868,-2.735,QB,2013
+552232,Hosey Williams,Cincinnati,97,-0.02,-1.96,0.417,-2.376,RB,2013
+518180,Chase Price,San Diego State,18,-0.02,-0.358,-0.271,-0.087,RB,2013
+550049,Gus Edwards,Miami,59,-0.02,-1.187,,-1.187,RB,2013
+514200,Raheem Mostert,Purdue,12,-0.019,-0.229,0.333,-0.562,RB,2013
+551223,Shawn White,Navy,8,-0.018,-0.148,,-0.148,FB,2013
+517965,Daron White,Troy,17,-0.018,-0.312,1.549,-1.86,RB,2013
+518006,Blake Martin,Louisiana Tech,58,-0.017,-0.985,2.159,-3.144,RB,2013
+537727,Bubba Poole,Utah,96,-0.016,-1.573,5.868,-7.442,WR,2013
+512988,Ryan Brumfield,Eastern Michigan,92,-0.015,-1.345,0.901,-2.246,RB,2013
+501673,Andre Williams,Boston College,323,-0.014,-4.485,,-4.485,RB,2013
+546603,Damian Williams,Mississippi State,78,-0.014,-1.073,1.454,-2.527,QB,2013
+551187,William Stanback,UCF,113,-0.013,-1.501,11.471,-12.972,RB,2013
+503003,Tim Cornett,UNLV,274,-0.013,-3.541,11.335,-14.877,RB,2013
+546318,Kelvin Taylor,Florida,95,-0.012,-1.097,3.209,-4.307,RB,2013
+503106,Bobby Eveld,South Florida,110,-0.012,-1.331,-4.801,3.47,QB,2013
+518802,Jamal Wilson,UMass,113,-0.011,-1.199,7.72,-8.919,RB,2013
+515908,Dee Hart,Alabama,20,-0.011,-0.217,,-0.217,RB,2013
+501944,Traylon Shead,SMU,51,-0.009,-0.468,1.551,-2.019,RB,2013
+504320,Matt Milton,Louisville,1,-0.009,-0.009,-0.009,,WR,2013
+538141,Kendrick Daniels,Arkansas State,6,-0.007,-0.044,,-0.044,RB,2013
+500464,Nick Hirschman,Akron,13,-0.007,-0.086,2.309,-2.395,QB,2013
+547724,Jawon Davis,Rice,90,-0.007,-0.634,-0.374,-0.26,RB,2013
+531791,Jalen Richard,Southern Mississippi,92,-0.007,-0.682,6.081,-6.763,RB,2013
+503202,Jeremy Langford,Michigan State,294,-0.006,-1.788,9.805,-11.594,RB,2013
+501647,Josh Bordner,Boston College,5,-0.005,-0.024,0.015,-0.039,WR,2013
+535899,D.J. Jones,Akron,26,-0.004,-0.099,-0.465,0.366,RB,2013
+532151,Bryan Monroe,North Texas,2,-0.003,-0.006,,-0.006,RB,2013
+518390,Damon Bullock,Iowa,133,-0.003,-0.4,5.175,-5.575,RB,2013
+515417,Tim Gay,Texas State,7,-0.003,-0.019,-4.336,4.317,RB,2013
+511640,Isaac Bennett,Pittsburgh,170,-0.002,-0.381,2.55,-2.931,RB,2013
+545379,Aaron Wimberly,Iowa State,149,-0.002,-0.321,11.531,-11.852,RB,2013
+514745,Willie Davis,South Florida,47,-0.001,-0.055,4.224,-4.279,RB,2013
+500310,Tyler Arndt,Texas State,88,-0.001,-0.055,4.377,-4.432,QB,2013
+533276,Sam Cotton,Nebraska,2,-0.001,-0.002,-0.002,,TE,2013
+535917,Matt Jones,Florida,82,-0.001,-0.061,0.032,-0.092,RB,2013
+513397,Clinton Granger,Temple,24,-0.001,-0.032,-1.795,1.763,QB,2013
+481493,John Hubert,Kansas State,198,0,0.097,6.888,-6.791,RB,2013
+517623,Cam McDaniel,Notre Dame,154,0,-0.007,1.271,-1.277,RB,2013
+502940,Dwayne Garrett,San Diego State,12,0.001,0.013,-0.569,0.582,RB,2013
+536047,Maurice Shoemaker-Gilmore,Central Michigan,45,0.001,0.058,3.234,-3.176,RB,2013
+501563,Jake Heaps,Kansas,260,0.003,0.704,3.514,-2.81,QB,2013
+502951,Adam Muema,San Diego State,261,0.004,1.163,3.279,-2.117,RB,2013
+480471,Mike Trumpy,Northwestern,107,0.004,0.439,7.393,-6.954,RB,2013
+536573,De'Andre Jasper,Florida International,14,0.004,0.063,1.641,-1.578,WR,2013
+530996,Jahleel Pinner,USC,7,0.005,0.036,0.036,,FB,2013
+512357,DeVontae McNeal,Louisiana Monroe,30,0.006,0.177,0.997,-0.82,RB,2013
+512099,Max DeLorenzo,Connecticut,100,0.006,0.623,8.227,-7.604,RB,2013
+535147,Drake Johnson,Michigan,2,0.006,0.013,,0.013,RB,2013
+545833,Aaron Jones,UTEP,133,0.007,0.895,0.022,0.873,RB,2013
+550759,Tevin Long,Army,6,0.007,0.044,-0.904,0.948,QB,2013
+512036,Derrick Milton,Mississippi State,10,0.008,0.083,,0.083,RB,2013
+552782,Brogan Roback,Eastern Michigan,112,0.009,1.024,3.439,-2.416,QB,2013
+545834,Darrin Laufasa,UTEP,29,0.01,0.276,0.235,0.04,RB,2013
+514286,Drew Kummer,Miami (OH),66,0.011,0.719,1.439,-0.719,QB,2013
+531892,Mark Lewis,North Texas,17,0.012,0.199,,0.199,RB,2013
+536504,Luke Turner,Rice,36,0.012,0.445,-1.2,1.646,RB,2013
+531430,Jalen Nixon,Louisiana,18,0.012,0.21,0.695,-0.484,QB,2013
+480560,Stephen Jeffers,Nevada,1,0.013,0.013,0.013,,TE,2013
+551103,Jojo Kemp,Kentucky,105,0.014,1.448,6.108,-4.66,RB,2013
+531746,Devan Demas,Boise State,20,0.014,0.283,,0.283,RB,2013
+516321,Brandon Ross,Maryland,176,0.014,2.515,11.123,-8.608,RB,2013
+554528,Nate Romine,Air Force,144,0.015,2.18,5.315,-3.135,QB,2013
+547238,Myles Willis,Boston College,60,0.015,0.927,0.136,0.791,RB,2013
+505663,Jake Medlock,Florida International,183,0.015,2.775,-7.155,9.93,QB,2013
+549512,Doroland Dorceus,Memphis,30,0.015,0.446,,0.446,RB,2013
+535254,Jeffrey Coprich,California,42,0.015,0.628,0.907,-0.28,WR,2013
+552519,Shaquille Murray-Lawrence,UNLV,54,0.016,0.856,4.688,-3.832,RB,2013
+501544,Brennan Clay,Oklahoma,184,0.016,2.916,9.027,-6.111,RB,2013
+503343,Zach Zwinak,Penn State,199,0.018,3.549,2.557,0.993,RB,2013
+512789,Brandon Betancourt,New Mexico State,99,0.018,1.75,1.375,0.375,RB,2013
+531801,James Knapke,Bowling Green,10,0.019,0.188,-0.058,0.245,QB,2013
+513035,D'Angelo Roberts,Indiana,56,0.02,1.129,3.937,-2.808,RB,2013
+531323,Marlon Seets,Louisiana Tech,8,0.02,0.157,,0.157,RB,2013
+547174,Kwamane Bowens,Hawai'i,6,0.02,0.118,-0.734,0.852,WR,2013
+535662,Matt Giachinta,Army,28,0.021,0.583,3.314,-2.731,RB,2013
+514194,Akeem Hunt,Purdue,152,0.021,3.199,20.023,-16.823,RB,2013
+535368,Brendan Nosovitch,South Carolina,4,0.021,0.084,0.206,-0.122,QB,2013
+517540,Darryl Cash,Fresno State,17,0.023,0.399,,0.399,WR,2013
+483985,Austin Boucher,Miami (OH),239,0.023,5.595,7.332,-1.736,QB,2013
+517548,Malique Micenheimer,Fresno State,33,0.023,0.744,0.62,0.125,RB,2013
+530815,Javelle Allen,Arizona,8,0.024,0.195,-0.559,0.754,QB,2013
+505063,Joe Hill,Utah State,64,0.025,1.607,5.852,-4.245,RB,2013
+535893,Jonathan Williams,Arkansas,152,0.025,3.86,1.459,2.401,RB,2013
+533226,David Vega,New Mexico,27,0.026,0.69,-2.05,2.74,QB,2013
+481072,Brian Fields,Western Michigan,161,0.026,4.233,5.483,-1.25,RB,2013
+517528,Jeremiah Bryson,Middle Tennessee,87,0.026,2.304,4.714,-2.41,RB,2013
+511348,Jerron Seymour,Vanderbilt,170,0.028,4.725,1.192,3.534,RB,2013
+532182,Lazedrick Thompson,Tulane,12,0.028,0.335,2.615,-2.28,RB,2013
+531461,Peter Carreon,UTEP,1,0.029,0.029,0.029,,WR,2013
+546169,Damarcus Smith,Western Kentucky,14,0.03,0.421,-2.429,2.85,QB,2013
+502742,Brandon Bourbon,Kansas,55,0.031,1.718,5.609,-3.89,RB,2013
+530326,Jerome Wright,Virginia Tech,10,0.032,0.321,1.716,-1.396,FB,2013
+517604,George Atkinson III,Notre Dame,96,0.032,3.088,4.516,-1.428,RB,2013
+535844,C.J. Beathard,Iowa,36,0.033,1.172,-2.455,3.627,QB,2013
+504322,Rajion Neal,Tennessee,224,0.033,7.443,9.244,-1.801,RB,2013
+546653,James Conner,Pittsburgh,140,0.034,4.716,2.384,2.332,RB,2013
+521159,Broam Hart,Air Force,108,0.034,3.639,,3.639,RB,2013
+483441,Wesley Tate,Vanderbilt,104,0.034,3.576,10.629,-7.052,RB,2013
+533270,Tommy Armstrong Jr.,Nebraska,177,0.034,5.983,9.593,-3.611,QB,2013
+537066,A.J. Doyle,UMass,278,0.034,9.533,5.975,3.558,TE,2013
+503051,Lucky Radley,Utah,66,0.034,2.249,4.042,-1.794,RB,2013
+504709,R.J. Robinson,Arizona State,29,0.036,1.032,0.386,0.646,RB,2013
+486584,Brian Kass,Coastal Carolina,1,0.037,0.037,0.037,,QB,2013
+518349,Paul James,Rutgers,156,0.037,5.827,9.928,-4.101,RB,2013
+514045,Alex Ross,Coastal Carolina,25,0.037,0.918,0.651,0.267,QB,2013
+481287,Casey Pachall,TCU,252,0.038,9.63,4.503,5.127,QB,2013
+504163,Alfred Blue,LSU,75,0.038,2.884,6.479,-3.595,RB,2013
+517001,Brendan Bigelow,California,136,0.038,5.141,11.354,-6.213,RB,2013
+532240,Ryan Garrey,Texas State,1,0.039,0.039,0.039,,WR,2013
+518316,Treyvon Green,Northwestern,139,0.039,5.409,3.619,1.79,RB,2013
+533294,Graham Nabity,Nebraska,5,0.039,0.197,,0.197,RB,2013
+531657,Dareen Owi,UCF,1,0.04,0.04,0.04,,WR,2013
+534276,Romond Deloatch,Temple,5,0.04,0.199,0.199,,TE,2013
+535647,Kelvin White,Army,50,0.04,1.987,0.808,1.179,TE,2013
+512837,Malcolm Brown,Texas,220,0.04,8.832,5.776,3.056,RB,2013
+534462,Damien Williams,Oklahoma,114,0.04,4.575,6.18,-1.605,RB,2013
+530584,Quentin Ezell,Navy,6,0.041,0.244,,0.244,FB,2013
+534485,Taylor McNamara,Oklahoma,1,0.041,0.041,0.041,,TE,2013
+530878,Jake Rodrigues,Oregon,8,0.042,0.337,-2.096,2.433,QB,2013
+530583,Chris Swain,Navy,104,0.042,4.375,-0.226,4.601,FB,2013
+511552,Derrius Vick,Ohio,67,0.042,2.788,1.919,0.869,QB,2013
+500375,Senorise Perry,Louisville,152,0.043,6.476,10.532,-4.056,RB,2013
+545681,Shane Tucker,Middle Tennessee,38,0.043,1.647,-0.082,1.729,WR,2013
+532273,Dane Evans,Tulsa,186,0.044,8.256,2.05,6.206,QB,2013
+545910,Logan Woodside,Toledo,43,0.044,1.905,4.064,-2.159,QB,2013
+500556,Brandon Terry,Wake Forest,1,0.044,0.044,0.044,,WR,2013
+546611,Ashton Shumpert,Mississippi State,45,0.044,1.995,1.689,0.306,RB,2013
+531104,Justin Thomas,Georgia Tech,43,0.044,1.889,2.077,-0.188,QB,2013
+530521,Greyson Lambert,Virginia,73,0.045,3.256,4.606,-1.35,QB,2013
+514727,Trey Metoyer,Oklahoma,1,0.045,0.045,0.045,,WR,2013
+482589,Ryan Hewitt,Stanford,14,0.046,0.646,0.489,0.157,FB,2013
+517209,Terrence Magee,LSU,84,0.046,3.874,2.465,1.409,RB,2013
+514097,Jared Baker,Arizona,28,0.047,1.325,1.246,0.08,RB,2013
+512453,Brendan Downs,Tennessee,12,0.049,0.585,0.585,,TE,2013
+515746,Kendall Brock,Nevada,177,0.049,8.616,3.975,4.642,WR,2013
+514921,K.C. Nlemchi,SMU,65,0.049,3.178,2.757,0.421,RB,2013
+482894,Derrick Hopkins,South Florida,14,0.049,0.693,2.623,-1.93,WR,2013
+532005,Trey Wilkins,Vanderbilt,1,0.05,0.05,0.05,,WR,2013
+545615,Terrell Newby,Nebraska,48,0.051,2.471,0.587,1.883,RB,2013
+501278,DeMarcus Robinson,Kansas State,5,0.051,0.257,,0.257,RB,2013
+536319,Lance Pace,Louisiana,2,0.051,0.103,0.103,,WR,2013
+549633,Marquis Warford,Memphis,58,0.052,3.008,2.012,0.997,RB,2013
+514773,Rob Kelley,Tulane,77,0.052,4.029,10.848,-6.819,RB,2013
+516217,Quinton Singleton,Navy,65,0.052,3.367,0.1,3.266,FB,2013
+535979,Tucker Carter,UT San Antonio,35,0.052,1.812,3.53,-1.719,QB,2013
+503121,Marcus Shaw,South Florida,161,0.052,8.315,9.763,-1.448,RB,2013
+533182,Ryker Fyfe,Nebraska,1,0.053,0.053,0.053,,QB,2013
+538152,Tres Houston,Arkansas State,11,0.053,0.581,0.581,,WR,2013
+531854,Julian Durden,Kent State,5,0.053,0.267,,0.267,RB,2013
+515371,Larry Dixon,Army,111,0.054,5.974,3.122,2.852,RB,2013
+481616,Drew Allen,Syracuse,129,0.054,6.965,5.913,1.053,QB,2013
+530982,Paul Perkins,UCLA,150,0.054,8.164,19.323,-11.159,RB,2013
+487879,Martin Hyppolite,Connecticut,32,0.055,1.747,,1.747,RB,2013
+545631,Kato Mitchell,Ohio State,1,0.056,0.056,0.056,,WR,2013
+505039,Gerard Shillow,Old Dominion,3,0.056,0.169,0.169,,WR,2013
+535470,Kevin Grooms,Marshall,91,0.056,5.127,4.974,0.153,RB,2013
+546705,De'Veon Smith,Michigan,26,0.057,1.471,,1.471,RB,2013
+532000,Patton Robinette,Vanderbilt,135,0.057,7.748,1.998,5.749,QB,2013
+501222,Mark Leal,Virginia Tech,33,0.058,1.92,3.646,-1.726,QB,2013
+501519,Storm Johnson,UCF,222,0.058,12.923,18.089,-5.166,RB,2013
+512737,David Cobb,Minnesota,246,0.059,14.394,13.61,0.784,RB,2013
+379945,Kye Staley,Oklahoma State,7,0.06,0.42,,0.42,FB,2013
+552128,Chris Willson,USC,1,0.06,0.06,0.06,,TE,2013
+505060,Joey DeMartino,Utah State,223,0.06,13.304,6.092,7.213,RB,2013
+539215,Steven Bench,South Florida,76,0.06,4.572,5.556,-0.984,QB,2013
+480975,D.J. Tialavea,Utah State,15,0.061,0.916,0.916,,TE,2013
+501069,Josh Snead,Duke,110,0.062,6.786,-0.629,7.415,RB,2013
+536483,Darik Dillard,Rice,83,0.062,5.128,-0.783,5.911,RB,2013
+531196,Craig Harrison,Utah State,83,0.063,5.254,3.439,1.815,QB,2013
+503923,Kent Brooks,Houston,17,0.063,1.073,-0.831,1.904,RB,2013
+504739,Jacob Wark,California,2,0.064,0.128,0.398,-0.27,TE,2013
+501949,Connor Wood,Colorado,159,0.064,10.226,4.096,6.131,QB,2013
+482030,Dee Frieson,Akron,5,0.064,0.318,0.318,,WR,2013
+500348,Malcolm Jones,UCLA,51,0.064,3.267,0.536,2.731,RB,2013
+531327,Scotty Young,Louisiana Tech,151,0.065,9.868,11.665,-1.797,QB,2013
+546033,Anthony Jennings,LSU,41,0.065,2.685,1.786,0.899,QB,2013
+504955,Joey Iosefa,Hawai'i,128,0.067,8.582,8.379,0.204,RB,2013
+515947,Brandon Fulse,Auburn,1,0.068,0.068,0.068,,TE,2013
+534580,Chad Kelly,Clemson,30,0.068,2.043,0.866,1.178,QB,2013
+500215,Synjyn Days,Georgia Tech,29,0.068,1.966,4.209,-2.243,RB,2013
+503590,Hayden Tippett,Army,34,0.068,2.322,-0.286,2.608,FB,2013
+505202,Centarius Donald,Louisiana Monroe,92,0.068,6.23,3.491,2.74,RB,2013
+482259,Branden Oliver,Buffalo,317,0.069,21.778,10.303,11.475,RB,2013
+501941,Case McCoy,Texas,318,0.069,21.846,17.606,4.24,QB,2013
+511262,David Ash,Texas,102,0.069,7.037,0.644,6.393,QB,2013
+548144,Perry Orth,South Carolina,1,0.071,0.071,0.071,,QB,2013
+482357,Rob Henry,Purdue,162,0.071,11.51,9.076,2.434,QB,2013
+546204,Xavier Hall,New Mexico State,51,0.073,3.726,4.091,-0.365,RB,2013
+553611,D.J. Johnson,Air Force,18,0.073,1.312,,1.312,RB,2013
+505548,Orleans Darkwa,Tulane,109,0.074,8.11,4.962,3.148,RB,2013
+517127,Trevone Boykin,TCU,277,0.075,20.7,21.25,-0.55,QB,2013
+514187,Patrick Bade,Purdue,1,0.075,0.075,0.075,,TE,2013
+551278,Talir Satterfield-Rowe,Florida International,11,0.075,0.83,1.061,-0.231,RB,2013
+535318,Jeff Lindquist,Washington,2,0.076,0.151,,0.151,TE,2013
+550282,Devin Ross,Colorado,5,0.076,0.379,0.379,,WR,2013
+516358,Charlie Hopkins,Stanford,2,0.077,0.155,0.155,,TE,2013
+549515,Adrian Henderson,Memphis,3,0.077,0.232,0.232,,WR,2013
+551063,Jordan Chunn,Troy,131,0.077,10.126,6.396,3.73,RB,2013
+483023,Jordan Luallen,Cincinnati,49,0.078,3.802,0.962,2.84,FB,2013
+532645,Zach Terrell,Western Michigan,265,0.078,20.75,17.406,3.344,QB,2013
+517264,Terron Ward,Oregon State,139,0.079,11.007,18.166,-7.159,RB,2013
+512771,Tevin King,Louisiana Tech,93,0.079,7.367,3.925,3.442,WR,2013
+518090,Adam Savoie,Louisiana,1,0.08,0.08,0.08,,WR,2013
+531469,Autrey Golden,UTEP,31,0.08,2.483,3.508,-1.026,WR,2013
+547255,Rennie Childs,Oklahoma State,43,0.081,3.473,4.554,-1.08,RB,2013
+535722,Bennie Coney,Cincinnati,7,0.081,0.57,2.631,-2.061,QB,2013
+502429,Algernon Brown,BYU,48,0.081,3.894,-0.307,4.201,RB,2013
+483505,Keshawn Simpson,Western Kentucky,36,0.081,2.922,,2.922,RB,2013
+552880,Nick Mullens,Southern Mississippi,256,0.082,21.082,22.155,-1.073,QB,2013
+547077,Fred Coppet,Bowling Green,43,0.082,3.536,0.73,2.807,RB,2013
+515805,DeAndre Washington,Texas Tech,127,0.083,10.535,17.359,-6.824,RB,2013
+530877,Byron Marshall,Oregon,167,0.083,13.8,9.248,4.552,WR,2013
+536273,Charles Bertoli,Boise State,16,0.083,1.323,0.274,1.049,RB,2013
+547203,Alex Collins,Arkansas,195,0.083,16.125,-0.125,16.25,RB,2013
+515808,Kenny Williams,Texas Tech,143,0.084,12.017,15.154,-3.137,RB,2013
+547571,Donnel Pumphrey,San Diego State,138,0.084,11.653,15.616,-3.962,RB,2013
+480797,Christian Matthews,Kansas,18,0.085,1.525,3.283,-1.758,WR,2013
+550944,Tarean Folston,Notre Dame,90,0.086,7.727,3.262,4.465,RB,2013
+545648,Cory Hunter,East Carolina,8,0.086,0.691,0.488,0.203,RB,2013
+512325,Alonzo Harris,Louisiana,188,0.088,16.623,1.109,15.514,RB,2013
+481555,Cody Green,Tulsa,222,0.089,19.838,19.929,-0.091,QB,2013
+549763,Zaire Williams,Temple,108,0.089,9.629,6.515,3.114,RB,2013
+480740,Glasco Martin,Baylor,114,0.089,10.188,2.185,8.003,RB,2013
+483052,Gaston Lamascus,Texas A&M,1,0.089,0.089,0.089,,WR,2013
+536203,I'Tavius Mathers,Ole Miss,101,0.091,9.215,7.3,1.915,RB,2013
+530568,Keenan Reynolds,Navy,371,0.092,34.249,15.904,18.344,QB,2013
+535298,Barry Sanders,Stanford,8,0.092,0.738,0.331,0.407,RB,2013
+536106,Jaylen Walton,Ole Miss,130,0.092,11.979,13.624,-1.645,RB,2013
+480332,Kylan Butler,Arizona,4,0.092,0.368,,0.368,RB,2013
+488054,Essray Taliaferro,Marshall,220,0.094,20.767,13.367,7.4,RB,2013
+514481,Michael Brewer,Texas Tech,12,0.094,1.123,0.589,0.535,QB,2013
+536519,Ryan Jackson,Houston,148,0.094,13.885,15.59,-1.704,RB,2013
+536355,Tim Crawley,San José State,69,0.094,6.503,8.671,-2.168,WR,2013
+531310,Kenneth Dixon,Louisiana Tech,145,0.094,13.657,0.285,13.372,RB,2013
+512424,Justin Worley,Tennessee,189,0.095,17.991,13.146,4.845,QB,2013
+517330,Jay Ajayi,Boise State,242,0.095,22.961,9.241,13.72,RB,2013
+482680,Brandon Mitchell,NC State,219,0.095,20.87,15.248,5.622,QB,2013
+533277,Imani Cross,Nebraska,75,0.095,7.118,-0.068,7.186,RB,2013
+505232,Brandin Byrd,North Texas,191,0.096,18.376,1.73,16.645,RB,2013
+550296,Khalfani Muhammad,California,83,0.096,7.977,12.831,-4.854,RB,2013
+503070,Tedder Easton,Wyoming,45,0.097,4.369,-0.382,4.75,RB,2013
+533307,Stephen Buckley,Northwestern,55,0.098,5.399,4.889,0.51,WR,2013
+518192,Bill Belton,Penn State,165,0.099,16.395,6.822,9.574,RB,2013
+515360,Angel Santiago,Army,242,0.099,23.966,6.449,17.516,QB,2013
+530480,Jela Duncan,Duke,123,0.099,12.116,9.857,2.258,RB,2013
+538156,Fredi Knighten,Arkansas State,88,0.099,8.702,-0.402,9.104,QB,2013
+514253,Trayion Durham,Kent State,194,0.099,19.165,10.679,8.486,RB,2013
+516309,Keenan Montgomery,Wyoming,5,0.099,0.497,0.497,,WR,2013
+517299,Anthony Webb,Baylor,27,0.1,2.688,,2.688,RB,2013
+530483,Shaquille Powell,Duke,68,0.1,6.785,3.918,2.868,RB,2013
+551184,Justin Holman,UCF,17,0.1,1.696,-2.015,3.711,QB,2013
+480697,Jeff Woody,Iowa State,25,0.1,2.504,,2.504,RB,2013
+505067,Robert Marshall,Utah State,96,0.1,9.642,5.068,4.574,RB,2013
+537075,Greg Orekoya,UMass,14,0.101,1.411,,1.411,RB,2013
+536136,Jamaal Williams,BYU,230,0.102,23.356,10.815,12.541,RB,2013
+517034,Vad Lee,Georgia Tech,321,0.102,32.63,38.079,-5.45,QB,2013
+533188,Jarred Gipson,Nevada,10,0.102,1.025,1.025,,TE,2013
+503566,Patrick Laird,Army,2,0.102,0.205,0.205,,WR,2013
+501033,Matt Joeckel,Texas A&M,36,0.102,3.669,4.278,-0.609,QB,2013
+547343,Karson Roberts,Air Force,83,0.103,8.555,0.774,7.781,QB,2013
+512969,Alex Niznak,Central Michigan,31,0.103,3.19,1.493,1.697,QB,2013
+506309,Logan Hallock,Appalachian State,1,0.103,0.103,,0.103,QB,2013
+533220,Jhurell Pressley,New Mexico,27,0.104,2.812,6.812,-4,RB,2013
+546747,Jay Jones,South Alabama,146,0.104,15.234,9.193,6.041,RB,2013
+511984,Steven Manfro,UCLA,31,0.105,3.259,8.787,-5.527,RB,2013
+517431,Daryl Collins,Kentucky,1,0.106,0.106,0.106,,WR,2013
+518058,Darrin Reaves,UAB,202,0.106,21.375,22.643,-1.268,RB,2013
+546540,Joshua Dobbs,Tennessee,143,0.106,15.173,6.843,8.33,QB,2013
+535925,Skyler Mornhinweg,Florida,51,0.106,5.397,8.845,-3.447,QB,2013
+530360,Brandon Radcliff,Louisville,18,0.106,1.908,0.352,1.556,RB,2013
+511361,David Watford,Virginia,473,0.106,50.267,49.357,0.911,QB,2013
+517427,Maxwell Smith,Kentucky,183,0.107,19.637,18.363,1.274,QB,2013
+501576,Reggie Whatley,Middle Tennessee,103,0.107,10.997,-1.293,12.289,RB,2013
+530972,Ahmaad Harris,UCLA,3,0.107,0.32,0.062,0.257,WR,2013
+531864,Colin Reardon,Kent State,369,0.107,39.392,32.323,7.07,WR,2013
+517470,Marlin Lane,Tennessee,106,0.108,11.401,2.503,8.898,RB,2013
+535604,Akeel Lynch,Penn State,59,0.108,6.356,,6.356,RB,2013
+535631,Charley Meyer,Virginia Tech,1,0.108,0.108,0.108,,WR,2013
+517016,Daniel Lasco,California,77,0.109,8.395,3.777,4.618,RB,2013
+503529,Greg Franklin,UAB,19,0.11,2.082,3.718,-1.636,RB,2013
+557540,Marcus Simmons,East Carolina,1,0.11,0.11,,0.11,RB,2013
+513615,Tony Daniel,Buffalo,9,0.114,1.024,1.029,-0.006,QB,2013
+518526,Adam Schulz,Utah,161,0.114,18.323,12.133,6.19,QB,2013
+536365,Jarrod Lawson,San José State,181,0.114,20.679,5.054,15.626,RB,2013
+481165,Chad Young,San Diego State,37,0.115,4.254,-2.027,6.281,FB,2013
+484855,Evans Okotcha,UT San Antonio,80,0.115,9.209,10.433,-1.225,RB,2013
+518923,Richard Burrows,Florida International,1,0.115,0.115,0.115,,WR,2013
+482572,Tyler Gaffney,Stanford,320,0.115,36.796,3.081,33.715,RB,2013
+546200,King Davis,New Mexico State,85,0.116,9.871,5.356,4.516,QB,2013
+514099,Ka'Deem Carey,Arizona,356,0.117,41.558,12.018,29.541,RB,2013
+482107,Dri Archer,Kent State,82,0.117,9.624,5.565,4.059,RB,2013
+512471,Kenneth Farrow,Houston,114,0.118,13.48,4.568,8.912,RB,2013
+514475,Paul Millard,West Virginia,161,0.118,19.025,20.694,-1.669,QB,2013
+504027,Jalston Fowler,Alabama,20,0.119,2.372,-0.508,2.88,RB,2013
+501526,Lache Seastrunk,Baylor,147,0.12,17.702,,17.702,RB,2013
+514617,Kyle Pohl,Akron,416,0.12,49.885,43.651,6.234,QB,2013
+546217,Mark Dodson,Ole Miss,21,0.12,2.523,,2.523,RB,2013
+553610,Devin Rushing,Air Force,45,0.121,5.447,0.108,5.339,RB,2013
+530357,Will Gardner,Louisville,12,0.121,1.451,1.892,-0.441,QB,2013
+501888,Roy Finch,Oklahoma,68,0.122,8.315,2.136,6.179,RB,2013
+515915,Brandon Allen,Arkansas,261,0.122,31.854,20.585,11.27,QB,2013
+501038,Ben Malena,Texas A&M,122,0.122,14.9,9.278,5.622,RB,2013
+518271,Blake Frohnapfel,Marshall,26,0.124,3.213,2.276,0.938,QB,2013
+481133,Kasey Carrier,New Mexico,162,0.124,20.091,1.375,18.716,RB,2013
+482428,Charles Sims,West Virginia,237,0.125,29.628,28.351,1.277,RB,2013
+531589,Austin Grammer,Middle Tennessee,71,0.125,8.903,0.629,8.275,QB,2013
+500975,Connor Reilly,Temple,172,0.126,21.659,10.668,10.991,QB,2013
+511263,Joe Bergeron,Texas,81,0.126,10.196,7.516,2.68,RB,2013
+552904,Jordan Howard,UAB,135,0.127,17.178,3.576,13.602,RB,2013
+500365,Dominique Brown,Louisville,174,0.127,22.115,19.279,2.836,RB,2013
+504768,Blake Stanton,Oregon,2,0.128,0.256,0.256,,WR,2013
+504154,Raymond Sanders,Kentucky,119,0.128,15.286,10.404,4.882,RB,2013
+536183,Jacob Green,Syracuse,1,0.129,0.129,0.129,,TE,2013
+534671,Quayvon Hicks,Georgia,15,0.129,1.942,0.149,1.794,FB,2013
+503197,Nick Hill,Michigan State,69,0.129,8.889,2.548,6.34,RB,2013
+531222,Grant Rohach,Iowa State,204,0.129,26.225,22.835,3.39,QB,2013
+500214,Matt Connors,Georgia Tech,15,0.13,1.957,-0.168,2.125,RB,2013
+512990,Bronson Hill,Eastern Michigan,192,0.13,25.029,7.884,17.145,RB,2013
+550478,Delton Williams,Michigan State,39,0.131,5.093,0.758,4.335,RB,2013
+552214,Michael Colosimo,Cincinnati,2,0.131,0.262,0.262,,QB,2013
+517934,Derrick Teegarden,North Texas,2,0.131,0.262,0.935,-0.673,WR,2013
+538149,Michael Gordon,Arkansas State,114,0.132,15.035,12.004,3.031,RB,2013
+515945,Quan Bray,Auburn,23,0.133,3.048,3.835,-0.787,WR,2013
+513860,Ben McLane,Georgia State,46,0.133,6.111,8.798,-2.687,QB,2013
+536571,E.J. Hilliard,Florida International,142,0.133,18.903,16.561,2.342,QB,2013
+531800,Andre Givens,Bowling Green,41,0.133,5.442,-0.074,5.515,RB,2013
+504823,Connor Halliday,Washington State,683,0.133,90.933,93.339,-2.405,QB,2013
+545355,Deion Sanders Jr.,SMU,11,0.134,1.476,2.585,-1.109,WR,2013
+532121,Trey Williams,Texas A&M,62,0.134,8.308,2.991,5.317,RB,2013
+491976,Brandon Miller,Wyoming,94,0.134,12.604,9.617,2.987,RB,2013
+521269,Mike Wegzyn,UMass,121,0.134,16.257,10.961,5.297,QB,2013
+482478,Taylor McHargue,Rice,416,0.135,56.284,41.803,14.481,QB,2013
+480324,Daniel Jenkins,Arizona,72,0.136,9.769,1.535,8.234,RB,2013
+504525,Tyler Benz,Eastern Michigan,226,0.136,30.654,21.749,8.906,QB,2013
+514866,Crusoe Gongbay,New Mexico,93,0.137,12.736,1.874,10.862,RB,2013
+514152,Joseph Calcagni,Tulsa,19,0.137,2.594,0.892,1.702,QB,2013
+553047,Cam Boyd,Old Dominion,92,0.137,12.613,13.721,-1.108,RB,2013
+530624,Paul Lasike,BYU,64,0.138,8.841,1.678,7.163,RB,2013
+513034,Tre Roberson,Indiana,198,0.138,27.349,21.279,6.07,QB,2013
+513098,Marcus Mason,Washington State,135,0.139,18.822,14.584,4.238,RB,2013
+550873,Greg Hankerson,Florida Atlantic,99,0.143,14.187,11.348,2.839,QB,2013
+551026,Teriyon Gipson,New Mexico,36,0.143,5.159,,5.159,RB,2013
+533264,Chandler Whitmer,Connecticut,128,0.143,18.32,21.812,-3.492,QB,2013
+511549,Kawmae Sawyer,Ohio,3,0.144,0.432,0.432,,WR,2013
+512345,Brayle Brown,Louisiana Monroe,127,0.145,18.439,17.157,1.282,QB,2013
+516220,Noah Copeland,Navy,69,0.145,10.034,3.031,7.003,FB,2013
+534491,Ford Childress,West Virginia,60,0.146,8.788,12.016,-3.228,QB,2013
+539219,Riley McCarron,Iowa,4,0.146,0.586,0.586,,WR,2013
+534328,Caleb Rowe,Maryland,134,0.147,19.675,17.182,2.494,QB,2013
+532072,Alden Hill,Tennessee,9,0.148,1.336,,1.336,RB,2013
+530824,B.J. Denker,Arizona,513,0.148,75.897,51.739,24.158,QB,2013
+541013,C.J. Davidson,Clemson,35,0.149,5.203,3.1,2.103,RB,2013
+502454,Josh Quezada,Fresno State,195,0.15,29.218,11.697,17.521,RB,2013
+483024,David Sims,Georgia Tech,148,0.151,22.383,1.112,21.272,RB,2013
+513703,Zach Laskey,Georgia Tech,77,0.151,11.603,2.316,9.288,RB,2013
+503861,Barry Brunetti,Ole Miss,89,0.151,13.423,-3.883,17.307,QB,2013
+503173,David Piland,Houston,42,0.151,6.324,3.572,2.752,QB,2013
+505302,Jackson Cummings,Stanford,2,0.151,0.302,0.302,,RB,2013
+513021,Stephen Houston,Indiana,118,0.151,17.861,5.844,12.017,RB,2013
+535801,Tevin Coleman,Indiana,134,0.151,20.227,17.641,2.586,RB,2013
+535266,Jonah Hodges,California,4,0.153,0.612,,0.612,RB,2013
+511969,Sam B. Richardson,Iowa State,278,0.153,42.665,19.551,23.115,QB,2013
+501052,Brandon Connette,Duke,211,0.153,32.349,24.105,8.244,QB,2013
+501098,Clint Trickett,West Virginia,241,0.154,37.202,39.25,-2.048,QB,2013
+504776,Tyler Anderson,Oregon State,17,0.155,2.639,5.888,-3.249,FB,2013
+546706,Shane Morris,Michigan,50,0.156,7.791,6.897,0.894,QB,2013
+536444,Leon Allen,Western Kentucky,80,0.156,12.484,9.305,3.179,RB,2013
+484063,Trey Watts,Tulsa,272,0.156,42.488,24.729,17.76,RB,2013
+482955,Roderick McDowell,Clemson,206,0.157,32.435,13.91,18.526,RB,2013
+518344,Gary Nova,Rutgers,305,0.157,47.822,48.768,-0.946,QB,2013
+536005,Brian Vaughn,UT San Antonio,9,0.157,1.416,2.357,-0.941,RB,2013
+513613,Anthone Taylor,Buffalo,85,0.159,13.486,6.777,6.709,RB,2013
+531773,Tyre Bracken,Southern Mississippi,73,0.16,11.698,22.962,-11.264,RB,2013
+531733,Michael Lindsey,Troy,6,0.16,0.958,,0.958,WR,2013
+532170,Terrance Timmons,South Alabama,16,0.16,2.567,,2.567,RB,2013
+546688,Brian Lemelle,Connecticut,17,0.16,2.719,2.241,0.478,WR,2013
+534770,Austin Appleby,Purdue,5,0.16,0.801,0.801,,QB,2013
+501127,Eduardo Clements,Miami,31,0.16,4.963,-0.771,5.734,RB,2013
+531268,Bruce Natson,Utah State,81,0.161,13.045,16.1,-3.055,WR,2013
+530653,Devante McFarlane,Syracuse,53,0.161,8.551,1.345,7.205,RB,2013
+535972,Kale Pearson,Air Force,11,0.162,1.777,1.222,0.555,QB,2013
+532122,Tra Carson,Texas A&M,57,0.162,9.216,3.509,5.707,RB,2013
+550492,Keith Ford,Oklahoma,22,0.163,3.588,,3.588,RB,2013
+500554,Tanner Price,Wake Forest,427,0.163,69.535,59.725,9.811,QB,2013
+482483,Charles Ross,Rice,195,0.163,31.748,1.468,30.281,RB,2013
+545218,Mike Davis,South Carolina,224,0.164,36.787,23.598,13.19,RB,2013
+549780,Tyler Karpinski,Temple,4,0.164,0.655,0.655,,WR,2013
+546233,Kapri Bibbs,Colorado State,258,0.164,42.203,7.025,35.177,RB,2013
+531316,Ryan Higgins,Louisiana Tech,285,0.164,46.807,37.373,9.433,QB,2013
+550009,Shock Linwood,Baylor,123,0.164,20.13,1.125,19.005,RB,2013
+517183,Jake Phillips,UNLV,24,0.164,3.942,3.942,,TE,2013
+481248,Kolton Browning,Louisiana Monroe,346,0.165,57.211,53.195,4.017,QB,2013
+482493,Allan Bridgford,Southern Mississippi,161,0.165,26.529,27.386,-0.857,QB,2013
+518391,Jordan Canzeri,Iowa,77,0.165,12.677,1.428,11.25,RB,2013
+534240,Shaun Wick,Wyoming,174,0.165,28.796,9.936,18.86,RB,2013
+504700,Taylor Kelly,Arizona State,572,0.167,95.573,80.599,14.974,QB,2013
+534423,Jeremy Hill,LSU,203,0.167,33.954,11.581,22.373,RB,2013
+506998,Anthony LaCoste,Air Force,127,0.167,21.237,,21.237,RB,2013
+501046,Anthony Boone,Duke,359,0.168,60.423,62.488,-2.065,QB,2013
+518168,De'Saan Hardwick,San Diego State,1,0.169,0.169,,0.169,RB,2013
+546410,Thomas Tucker,San José State,81,0.169,13.712,13.596,0.116,RB,2013
+501955,Shawn Corker,Texas Tech,3,0.171,0.512,0.512,,WR,2013
+531721,Brandon Burks,Troy,161,0.173,27.863,13.059,14.805,RB,2013
+550170,Danny Etling,Purdue,271,0.173,46.998,39.429,7.569,QB,2013
+501816,James Franklin,Missouri,387,0.173,67.051,28.49,38.562,QB,2013
+500993,Sirgregory Thornton,Arkansas State,63,0.174,10.986,4.614,6.372,RB,2013
+532251,Robert Lowe,Texas State,112,0.174,19.524,12.754,6.769,RB,2013
+512838,Braxton Miller,Ohio State,366,0.174,63.505,32.942,30.564,QB,2013
+514508,Ameer Abdullah,Nebraska,286,0.174,49.738,14.951,34.787,RB,2013
+513425,Ronnie Bell,Georgia State,390,0.174,68.044,55.528,12.516,QB,2013
+534849,Paxton Lynch,Memphis,389,0.174,67.852,54.601,13.251,QB,2013
+511828,Tre Mason,Auburn,294,0.175,51.557,11.182,40.376,RB,2013
+503736,Alex Zordich,Buffalo,24,0.175,4.199,-0.83,5.029,QB,2013
+512882,Kameron Bryant,Appalachian State,42,0.175,7.37,8.457,-1.087,QB,2013
+547401,Jared Goff,California,526,0.175,92.131,94.208,-2.077,QB,2013
+505049,Jeremy Higgins,Hawai'i,9,0.176,1.582,1.582,,QB,2013
+511252,Jeremy Seaton,Oklahoma State,4,0.176,0.703,0.703,,FB,2013
+487797,Kenny Guiton,Ohio State,125,0.176,22.029,7.88,14.149,QB,2013
+500247,Soma Vainuku,USC,16,0.176,2.819,4.515,-1.696,FB,2013
+550720,Darell Garretson,Utah State,232,0.177,40.999,42.261,-1.262,QB,2013
+482627,Leon Brooks,Washington State,9,0.177,1.59,1.59,,RB,2013
+546383,Cameron Artis-Payne,Auburn,85,0.179,15.196,-0.069,15.264,RB,2013
+533282,King Frazier,Nebraska,8,0.179,1.433,,1.433,RB,2013
+534449,Trevor Knight,Oklahoma,183,0.18,32.992,10.291,22.701,QB,2013
+505591,Quintin Hunter,James Madison,5,0.18,0.898,0.898,,WR,2013
+481547,Taylor Martinez,Nebraska,129,0.183,23.633,19.824,3.81,QB,2013
+513614,Joe Licata,Buffalo,382,0.183,70.086,78.963,-8.876,QB,2013
+518380,Jake Rudock,Iowa,368,0.183,67.236,51.646,15.59,QB,2013
+552661,Justin Hunt,Marshall,1,0.183,0.183,0.183,,WR,2013
+545550,John O'Korn,Houston,419,0.183,76.538,64.874,11.664,QB,2013
+501443,Colby Goodwyn,Old Dominion,123,0.184,22.618,16.818,5.801,WR,2013
+550278,Sefo Liufau,Colorado,258,0.185,47.671,48.465,-0.794,QB,2013
+553060,Gerard Johnson,Old Dominion,55,0.185,10.202,3.565,6.637,RB,2013
+546457,De'Marieya Nelson,Arizona State,17,0.185,3.137,5.046,-1.909,TE,2013
+512428,Deanthonie Summerhill,Tennessee,20,0.185,3.7,,3.7,RB,2013
+482756,Sean Schroeder,Hawai'i,369,0.186,68.514,71.437,-2.923,QB,2013
+537017,Daniel Rodriguez,Clemson,6,0.187,1.123,1.013,0.11,WR,2013
+503422,James White,Wisconsin,240,0.187,44.825,19.12,25.705,RB,2013
+482142,Jordan Lynch,Northern Illinois,629,0.187,117.541,59.742,57.799,QB,2013
+535829,Andrew Wilson,Indiana,7,0.188,1.317,,1.317,RB,2013
+514171,Derek Patterson,Tulsa,13,0.188,2.438,2.438,,WR,2013
+511945,Ben Boesen,Iowa State,2,0.188,0.377,0.377,,TE,2013
+547570,Quinn Kaehler,San Diego State,375,0.189,70.774,75.07,-4.296,QB,2013
+535325,Cyler Miles,Washington,77,0.19,14.642,7.118,7.524,QB,2013
+534409,T.J. Yeldon,Alabama,208,0.19,39.621,13.54,26.081,RB,2013
+534291,Frank Epitropoulos,Ohio State,1,0.19,0.19,0.19,,WR,2013
+534897,Theron West,Washington State,6,0.19,1.143,1.846,-0.703,RB,2013
+515588,Orville Reynolds,Wake Forest,18,0.191,3.43,3.687,-0.258,RB,2013
+500311,Terrence Franks,Texas State,36,0.191,6.868,4.62,2.248,RB,2013
+535464,Steward Butler,Marshall,82,0.191,15.623,2.55,13.074,RB,2013
+545804,Eric Thornton,BYU,1,0.192,0.192,0.192,,WR,2013
+504231,Jeff Scott,Ole Miss,81,0.193,15.595,6.175,9.42,RB,2013
+514134,Devonta Freeman,Florida State,178,0.193,34.382,21.812,12.569,RB,2013
+550019,Jeremy Johnson,Auburn,40,0.194,7.744,7.912,-0.167,QB,2013
+550567,Jerico Richardson,Nevada,4,0.194,0.778,0.778,,WR,2013
+530369,Lamar Atkins,Louisville,3,0.195,0.586,0.586,,FB,2013
+13223,Justin Johnson,Fresno State,7,0.196,1.374,1.374,,WR,2013
+480846,C.J. Brown,Maryland,361,0.196,70.673,57.245,13.428,QB,2013
+534255,Kenneth Goins Jr.,Maryland,11,0.197,2.165,1.705,0.46,RB,2013
+533235,Casey Cochran,Connecticut,168,0.197,33.071,33.666,-0.595,QB,2013
+481338,Caleb Herring,UNLV,472,0.197,92.75,75.407,17.343,QB,2013
+515528,Garrett Grayson,Colorado State,488,0.198,96.487,85.951,10.536,QB,2013
+482594,Taysom Hill,BYU,612,0.198,121.365,65.582,55.783,QB,2013
+480696,James White,Iowa State,39,0.199,7.758,5.818,1.94,RB,2013
+533208,Cole Gautsche,New Mexico,173,0.199,34.375,2.657,31.718,TE,2013
+550169,Dalyn Dawkins,Purdue,39,0.2,7.801,8.516,-0.715,RB,2013
+532974,Marteze Waller,Fresno State,139,0.2,27.801,11.141,16.66,RB,2013
+548240,Tyler Jones,Texas State,156,0.201,31.429,31.841,-0.412,QB,2013
+501882,Blake Bell,Oklahoma,279,0.203,56.737,51.236,5.501,TE,2013
+536139,Neal Burcham,SMU,93,0.203,18.917,17.873,1.044,QB,2013
+536320,Al Riles,Louisiana,1,0.203,0.203,0.203,,WR,2013
+500226,Charles Perkins,Georgia Tech,10,0.204,2.04,,2.04,RB,2013
+481725,Clint Chelf,Oklahoma State,316,0.205,64.82,54.567,10.253,QB,2013
+515457,Josh Ferguson,Illinois,173,0.206,35.623,22.026,13.596,RB,2013
+480442,Jordan Cotton,Iowa,5,0.206,1.029,2.345,-1.316,WR,2013
+543412,Miles Lerch,UT San Antonio,3,0.206,0.619,0.619,,WR,2013
+514230,Joel Stave,Wisconsin,328,0.207,67.946,71.228,-3.282,QB,2013
+531385,Maty Mauk,Missouri,155,0.207,32.086,22.184,9.903,QB,2013
+534757,Marion Grice,Arizona State,219,0.207,45.311,32.41,12.902,RB,2013
+512632,Devin Combs,Nevada,23,0.207,4.764,1.577,3.187,QB,2013
+546669,Scott Orndoff,Pittsburgh,5,0.207,1.033,1.033,,TE,2013
+534865,Brett Bartolone,Washington State,8,0.208,1.668,1.668,,WR,2013
+503802,Clay Cleveland,Syracuse,4,0.208,0.832,0.832,,FB,2013
+552745,Kareem Hunt,Toledo,145,0.208,30.149,0.33,29.82,RB,2013
+545637,Tyler Ferguson,Penn State,14,0.208,2.906,2.906,,QB,2013
+513403,Kenneth Harper,Temple,152,0.208,31.634,17.593,14.04,RB,2013
+552329,Christian Hackenberg,Penn State,392,0.209,82.046,85.305,-3.259,QB,2013
+547342,Jaleel Awini,Air Force,80,0.21,16.776,7.358,9.418,WR,2013
+511260,J.W. Walsh,Oklahoma State,229,0.211,48.392,31.633,16.759,QB,2013
+512032,Josh Robinson,Mississippi State,89,0.212,18.853,8.242,10.611,RB,2013
+545552,Greg Ward Jr.,Houston,51,0.212,10.814,13.943,-3.129,QB,2013
+514778,Danté Butler,Tulane,23,0.212,4.868,6.856,-1.989,RB,2013
+515147,Andrew McNulty,North Texas,9,0.213,1.917,0.087,1.83,QB,2013
+531076,Daje Johnson,Texas,42,0.213,8.95,5.505,3.445,WR,2013
+531051,Travis Wilson,Utah,276,0.214,59.16,39.977,19.182,QB,2013
+552965,Cam Lewis,Western Kentucky,1,0.215,0.215,0.215,,WR,2013
+546104,Mack Leftwich,UTEP,80,0.215,17.211,21.285,-4.074,QB,2013
+481553,Ron Kellogg III,Nebraska,141,0.216,30.526,31.636,-1.11,QB,2013
+514440,Terrel Hunt,Syracuse,332,0.217,72.114,44.626,27.488,QB,2013
+515190,Daniel Sams,Kansas State,187,0.217,40.521,22.296,18.225,QB,2013
+532425,Daz'mond Patterson,Ohio,47,0.217,10.214,6.656,3.558,RB,2013
+552929,Breon Allen,East Carolina,50,0.217,10.836,9.878,0.958,RB,2013
+489481,Tyler Tettleton,Ohio,374,0.217,81.262,81.218,0.044,QB,2013
+552808,Duwhan Alford,Eastern Michigan,12,0.218,2.613,2.613,,TE,2013
+482480,Turner Petersen,Rice,79,0.218,17.255,17.246,0.009,RB,2013
+514894,Driphus Jackson,Rice,34,0.218,7.416,-3.222,10.639,QB,2013
+501075,Chad Abram,Florida State,13,0.218,2.838,3.905,-1.067,FB,2013
+482292,Bruce Johnson,Southern Mississippi,2,0.219,0.438,0.438,,FB,2013
+549804,Mike White,South Florida,170,0.219,37.227,37.25,-0.023,QB,2013
+552962,Aaron Jackson,Western Kentucky,4,0.219,0.876,0.876,,WR,2013
+531678,Brooks Haack,Louisiana,41,0.22,9.002,10.068,-1.066,QB,2013
+537742,Chris Wuestner,Pittsburgh,1,0.22,0.22,0.22,,WR,2013
+514218,Melvin Gordon,Wisconsin,195,0.223,43.439,0.034,43.405,RB,2013
+535150,Sione Houma,Michigan,2,0.223,0.445,0.445,,FB,2013
+516959,Brett Smith,Wyoming,515,0.224,115.407,95.653,19.755,QB,2013
+109907,Jon Lee,Air Force,67,0.225,15.1,-1.71,16.811,RB,2013
+512705,Connor Cook,Michigan State,395,0.225,88.872,82.721,6.151,QB,2013
+513330,Max Wittek,USC,30,0.225,6.755,8.117,-1.362,QB,2013
+511889,Jeff Driskel,Florida,68,0.227,15.467,17.201,-1.733,QB,2013
+501142,Stephen Morris,Miami,328,0.228,74.899,77.852,-2.953,QB,2013
+516357,Kevin Hogan,Stanford,338,0.229,77.386,52.279,25.108,QB,2013
+512423,DeAnthony Arnett,Michigan State,1,0.229,0.229,0.229,,WR,2013
+501571,Logan Kilgore,Middle Tennessee,334,0.23,76.848,75.239,1.61,QB,2013
+550373,Baker Mayfield,Texas Tech,377,0.23,86.73,90.794,-4.063,QB,2013
+480572,David Fisher,Kent State,59,0.23,13.587,-0.506,14.093,QB,2013
+513945,Jakwail Bailey,Old Dominion,15,0.231,3.47,3.47,,WR,2013
+480239,Logan Thomas,Virginia Tech,483,0.231,111.505,114.49,-2.985,QB,2013
+480209,Garrett Gilbert,SMU,516,0.231,119.244,96.233,23.01,QB,2013
+517800,Brandon Armstrong,UT San Antonio,37,0.232,8.598,3.797,4.8,RB,2013
+503970,Tyler Murphy,Florida,211,0.232,49.009,40.633,8.376,QB,2013
+503835,Chas Dodd,Rutgers,146,0.233,34.043,33.275,0.768,QB,2013
+522943,Rob Rice,Cincinnati,3,0.233,0.699,,0.699,RB,2013
+530943,Jalen Whitlow,Kentucky,230,0.233,53.624,36.141,17.483,QB,2013
+530738,Philip Nelson,Minnesota,249,0.233,57.994,40.623,17.37,QB,2013
+513848,Lynquez Blair,Georgia State,7,0.235,1.643,1.643,,WR,2013
+507211,Brandon Bridge,South Alabama,87,0.236,20.569,20.735,-0.166,QB,2013
+531276,Andrew McDonald,New Mexico State,399,0.238,94.997,92.794,2.203,QB,2013
+514209,Sam Arneson,Wisconsin,5,0.239,1.197,4.364,-3.167,TE,2013
+550693,Troy Mangen,Ohio,2,0.24,0.48,0.48,,TE,2013
+483147,Tyler Russell,Mississippi State,119,0.24,28.568,31.168,-2.6,QB,2013
+536603,Vintavious Cooper,East Carolina,190,0.242,45.991,37.234,8.757,RB,2013
+515938,Kiero Small,Arkansas,55,0.242,13.283,11.385,1.898,FB,2013
+550654,Thomas Tyner,Oregon,118,0.242,28.59,8.947,19.643,RB,2013
+550021,Nick Marshall,Auburn,340,0.244,82.851,42.745,40.106,QB,2013
+550386,Davis Webb,Texas Tech,352,0.244,85.795,90.112,-4.317,QB,2013
+500990,Bo Wallace,Ole Miss,504,0.245,123.246,108.302,14.944,QB,2013
+504702,Deantre Lewis,Arizona State,65,0.245,15.908,9.476,6.432,RB,2013
+531373,Sean Culkin,Missouri,1,0.246,0.246,0.246,,TE,2013
+504030,Corey Grant,Auburn,52,0.246,12.792,-0.805,13.597,RB,2013
+531792,Kyle Sloter,Southern Mississippi,4,0.246,0.983,0.983,,WR,2013
+480413,Nathan Scheelhaase,Illinois,469,0.247,115.645,94.475,21.17,QB,2013
+546845,Corey Clement,Wisconsin,62,0.247,15.326,2.224,13.102,RB,2013
+500212,B.J. Bostic,Georgia Tech,22,0.248,5.45,2.696,2.754,RB,2013
+504786,Sean Mannion,Oregon State,556,0.248,137.783,142.506,-4.723,QB,2013
+487964,Ryan Eppes,South Florida,10,0.25,2.503,3.483,-0.981,FB,2013
+552526,Keith Whitely,UNLV,10,0.25,2.499,,2.499,RB,2013
+481332,Ian Thompson,Louisiana,10,0.251,2.514,2.514,,TE,2013
+511558,Blaire Sullivan,UTEP,48,0.251,12.068,2.198,9.87,QB,2013
+506682,Duvall Smith,Georgia State,5,0.251,1.254,1.375,-0.121,RB,2013
+516347,Marquise Williams,North Carolina,284,0.251,71.152,52.442,18.709,QB,2013
+536228,Tyler Stewart,Nevada,35,0.253,8.853,8.683,0.17,QB,2013
+503471,Kevin Pope,SMU,18,0.254,4.581,4.959,-0.379,RB,2013
+508524,Antonio Andrews,Western Kentucky,281,0.255,71.672,31.246,40.427,RB,2013
+504285,Connor McLaurin,South Carolina,1,0.257,0.257,0.257,,FB,2013
+500403,Kain Colter,Northwestern,170,0.257,43.615,27.489,16.127,QB,2013
+550876,Jaquez Johnson,Florida Atlantic,377,0.257,96.972,59.984,36.988,QB,2013
+508743,Ayele Forde,Oregon,36,0.257,9.234,1.352,7.882,RB,2013
+534754,D.J. Foster,Arizona State,147,0.259,38.134,36.324,1.81,WR,2013
+547867,Aregeros Turner,Northern Illinois,16,0.259,4.137,5.767,-1.63,WR,2013
+552224,Travis Johnson,Cincinnati,3,0.26,0.779,0.779,,TE,2013
+480221,Tajh Boyd,Clemson,481,0.262,126.105,105.782,20.323,QB,2013
+501665,Chase Rettig,Boston College,274,0.263,72.043,64.764,7.28,QB,2013
+531152,Sadale Foster,Texas Tech,44,0.263,11.587,10.043,1.544,RB,2013
+531455,Cooper Rush,Central Michigan,303,0.264,80.059,78.261,1.798,QB,2013
+504908,Grant Hedrick,Boise State,266,0.264,70.105,62.207,7.898,QB,2013
+532450,Damion Jones-Moore,Toledo,37,0.266,9.831,2.438,7.394,RB,2013
+532432,Sebastian Smith,Ohio,13,0.266,3.455,3.455,,WR,2013
+481027,Derek Thompson,North Texas,388,0.266,103.187,96.081,7.106,QB,2013
+548149,Jamari Smith,South Carolina,13,0.266,3.463,,3.463,WR,2013
+550110,Quincy Adeboyejo,Ole Miss,7,0.267,1.868,1.868,,WR,2013
+550214,Jared Murphy,Miami (OH),10,0.267,2.674,2.674,,WR,2013
+546130,Nathan Meadors Jr.,Louisiana Monroe,9,0.268,2.416,,2.416,RB,2013
+535825,Nate Sudfeld,Indiana,311,0.268,83.323,75.775,7.549,QB,2013
+536830,David Anaya,New Mexico,16,0.268,4.293,1.222,3.071,RB,2013
+536607,Lance Ray,East Carolina,23,0.269,6.19,6.19,,WR,2013
+500419,Trevor Siemian,Northwestern,309,0.269,83.205,77.601,5.604,QB,2013
+546652,Jaymar Parrish,Pittsburgh,11,0.269,2.954,2.587,0.367,TE,2013
+504176,J.C. Copeland,LSU,13,0.271,3.523,3.075,0.448,FB,2013
+501071,Juwan Thompson,Duke,71,0.271,19.253,4.376,14.877,RB,2013
+504624,David Fluellen,Toledo,186,0.271,50.482,19.535,30.948,RB,2013
+517388,James Wilder Jr.,Florida State,66,0.272,17.947,2.252,15.695,WR,2013
+535113,David Washington,Old Dominion,49,0.274,13.441,6.702,6.739,QB,2013
+512477,Randall Hollimon,Houston,4,0.275,1.099,,1.099,RB,2013
+550158,Jake Waters,Kansas State,328,0.275,90.289,84.774,5.515,QB,2013
+519984,Ya'Keem Griner,Florida International,18,0.276,4.964,3.878,1.085,TE,2013
+548173,Pharoh Cooper,South Carolina,23,0.276,6.338,1.328,5.01,WR,2013
+518239,Austin Brown,UAB,156,0.276,43.025,43.604,-0.579,QB,2013
+550938,Greg Bryant,Notre Dame,3,0.277,0.83,,0.83,RB,2013
+480916,Billy Ray Stutzmann,Hawai'i,25,0.278,6.95,6.95,,WR,2013
+511464,De'Anthony Thomas,Oregon,109,0.278,30.262,20.584,9.677,RB,2013
+511947,Ernst Brun,Iowa State,4,0.278,1.114,1.114,,WR,2013
+480234,Bryn Renner,North Carolina,232,0.278,64.547,67.2,-2.652,QB,2013
+547177,Marcus Langkilde,Hawai'i,19,0.279,5.292,9.534,-4.242,RB,2013
+514510,Taariq Allen,Nebraska,3,0.279,0.837,0.837,,WR,2013
+500571,Jameill Showers,UTEP,179,0.279,49.865,40.856,9.009,QB,2013
+517390,Karlos Williams,Florida State,89,0.28,24.941,3.003,21.938,RB,2013
+547542,Janarion Grant,Rutgers,2,0.28,0.56,0.56,,WR,2013
+516650,Courtney Bynes,Western Michigan,1,0.28,0.28,0.28,,WR,2013
+512052,Cole Stoudt,Clemson,61,0.281,17.154,18.093,-0.939,QB,2013
+503922,Terrance Broadway,Louisiana,338,0.281,95.108,80.743,14.365,QB,2013
+515514,Donnell Alexander,Colorado State,90,0.281,25.266,6.046,19.221,RB,2013
+546046,Wendell Smallwood,West Virginia,50,0.282,14.087,11.792,2.295,RB,2013
+514841,Cody Keith,East Carolina,8,0.282,2.256,2.588,-0.332,QB,2013
+513329,Cody Kessler,USC,350,0.282,98.785,91.481,7.304,QB,2013
+512806,Chuckie Keeton,Utah State,220,0.283,62.219,52.623,9.597,QB,2013
+484080,Derek Carr,Fresno State,602,0.283,170.323,158.911,11.412,QB,2013
+545809,Elijah McGuire,Louisiana,112,0.283,31.657,16.198,15.459,RB,2013
+500672,Josh Bell,UTEP,32,0.287,9.195,6.211,2.985,RB,2013
+510019,James Spencer,Northern Illinois,41,0.287,11.762,13.553,-1.791,RB,2013
+504608,Ricky Pringle,Toledo,10,0.287,2.874,,2.874,RB,2013
+530285,Will Burnham,Florida State,1,0.288,0.288,,0.288,RB,2013
+503643,Nolen Smith,UAB,2,0.29,0.58,0.58,,TE,2013
+533588,Deane Cheatham,James Madison,3,0.291,0.873,0.873,,WR,2013
+501565,Pete Thomas,NC State,276,0.291,80.423,62.329,18.094,QB,2013
+504866,Brandon Doughty,Western Kentucky,355,0.293,103.992,108.986,-4.994,QB,2013
+501393,Parris Lee,Georgia State,17,0.294,4.993,8.513,-3.52,RB,2013
+480215,AJ McCarron,Alabama,320,0.295,94.326,88.052,6.274,QB,2013
+530731,Mitch Leidner,Minnesota,155,0.295,45.7,31.435,14.265,QB,2013
+530917,Jonathan Wallace,Auburn,10,0.295,2.948,0.304,2.644,WR,2013
+480981,Corey Robinson,Troy,384,0.296,113.675,117.435,-3.76,QB,2013
+518267,Rakeem Cato,Marshall,523,0.296,154.745,125.433,29.312,QB,2013
+517818,Jeremiah Moeller,UT San Antonio,9,0.297,2.669,2.669,,TE,2013
+514116,Tom Savage,Pittsburgh,389,0.297,115.562,111.073,4.489,QB,2013
+532173,Devin Powell,Tulane,77,0.298,22.931,21.296,1.635,QB,2013
+549865,Kenny Hill,Texas A&M,25,0.298,7.441,4.895,2.547,QB,2013
+512090,Kamal Abrams,Connecticut,2,0.298,0.596,0.596,,WR,2013
+511722,Nelson Fishback,Western Kentucky,25,0.299,7.477,10.385,-2.908,QB,2013
+534582,Zac Brooks,Clemson,51,0.299,15.244,6.08,9.164,RB,2013
+516311,Trey Norman,Wyoming,6,0.3,1.802,1.802,,WR,2013
+546368,Derrick Henry,Alabama,33,0.3,9.906,,9.906,RB,2013
+512030,Dak Prescott,Mississippi State,363,0.302,109.461,68.435,41.026,QB,2013
+504295,Dylan Thompson,South Carolina,94,0.303,28.438,25.293,3.145,QB,2013
+514915,Darius Joseph,SMU,107,0.303,32.47,33.106,-0.636,WR,2013
+503438,Mario Hull,Rice,14,0.304,4.252,5.509,-1.257,WR,2013
+546483,Clayton Mitchem,New Mexico,116,0.304,35.278,30.569,4.709,QB,2013
+504292,Connor Shaw,South Carolina,383,0.305,116.861,76.24,40.621,QB,2013
+503303,Carlos Hyde,Ohio State,207,0.306,63.25,5.726,57.524,RB,2013
+480746,Bryce Petty,Baylor,432,0.308,132.983,128.614,4.369,QB,2013
+484566,Arlandis Harvey,James Madison,5,0.308,1.541,1.541,,WR,2013
+499807,Nick Montana,Tulane,236,0.309,72.904,68.361,4.543,QB,2013
+530875,Jeff Lockie,Oregon,16,0.309,4.946,4.508,0.438,QB,2013
+502335,Munchie Legaux,Cincinnati,52,0.311,16.148,15.379,0.768,QB,2013
+549759,P.J. Walker,Temple,65,0.311,20.232,,20.232,QB,2013
+517963,Trey Page,Troy,2,0.314,0.628,0.628,,WR,2013
+501376,Kelton Hill,Georgia State,27,0.315,8.498,5.616,2.882,WR,2013
+535897,Dalton Easton,Akron,1,0.315,0.315,0.315,,QB,2013
+534280,Warren Ball,Ohio State,13,0.315,4.094,,4.094,RB,2013
+530457,David Dudeck,Boston College,14,0.315,4.407,6.583,-2.177,RB,2013
+531708,Deon Anthony,Troy,108,0.316,34.133,12.975,21.158,QB,2013
+533214,Ridge Jones,New Mexico,4,0.316,1.263,2.94,-1.677,WR,2013
+532007,Jordan Moore,Texas State,20,0.317,6.341,2.574,3.767,QB,2013
+481587,Ross Metheny,South Alabama,381,0.317,120.917,111.822,9.095,QB,2013
+512967,Ben McCord,Central Michigan,8,0.317,2.536,2.536,,TE,2013
+482934,Jordan Hopgood,Bowling Green,14,0.317,4.439,3.677,0.761,RB,2013
+488049,Billy Skrobacz,Virginia,2,0.317,0.635,0.635,,FB,2013
+514651,Josh Woodrum,Liberty,61,0.318,19.407,17.838,1.57,QB,2013
+500487,Spencer Harris,Illinois,42,0.318,13.353,13.353,,WR,2013
+517815,David Morgan II,UT San Antonio,3,0.32,0.96,0.96,,TE,2013
+481988,Austyn Carta-Samuels,Vanderbilt,314,0.32,100.484,83.049,17.436,QB,2013
+543420,Ryan Davis,UCLA,5,0.322,1.61,1.094,0.516,RB,2013
+501134,Maurice Hagens,Miami,12,0.322,3.859,4.625,-0.765,FB,2013
+501543,Devin Gardner,Michigan,434,0.323,140.335,130.394,9.941,QB,2013
+514188,Sterling Carter,Purdue,8,0.323,2.584,2.584,,TE,2013
+512366,Tim Byerly,Georgia Tech,18,0.323,5.814,-1.521,7.336,QB,2013
+517040,Broderick Snoddy,Georgia Tech,23,0.324,7.445,,7.445,RB,2013
+502997,Taylor Barnhill,UNLV,20,0.325,6.493,6.647,-0.153,TE,2013
+515453,Jon Davis,Illinois,31,0.325,10.075,14.453,-4.378,TE,2013
+503695,Keith Wenning,Ball State,489,0.325,158.85,153.717,5.133,QB,2013
+512337,Effrem Reed,Louisiana,20,0.325,6.509,5.757,0.752,RB,2013
+511943,Kelsey Young,Stanford,15,0.326,4.896,2.655,2.241,RB,2013
+516958,Adam Kennedy,Arkansas State,395,0.328,129.422,100.814,28.608,QB,2013
+514290,Dawan Scott,Miami (OH),62,0.328,20.353,17.162,3.191,WR,2013
+534854,Jesse Milleson,Memphis,7,0.328,2.299,2.299,,TE,2013
+554834,Tristan Henderson,UAB,6,0.329,1.974,1.974,,TE,2013
+535646,A.J. Schurr,Army,49,0.33,16.147,11.229,4.918,QB,2013
+483313,D.J. Banks,Louisiana Tech,45,0.336,15.1,13.347,1.752,WR,2013
+503194,Andrew Gleichert,Michigan State,5,0.336,1.678,1.678,,TE,2013
+480210,Aaron Murray,Georgia,352,0.336,118.289,107.423,10.866,QB,2013
+504578,Dustin White,Miami (OH),9,0.336,3.022,3.022,,TE,2013
+512844,Jamal Turner,Nebraska,13,0.336,4.364,5.029,-0.665,WR,2013
+501241,Cody Fajardo,Nevada,449,0.336,150.75,127.68,23.07,QB,2013
+482599,Keith Price,Washington,366,0.336,122.907,116.021,6.886,QB,2013
+535578,Tyler O'Connor,Michigan State,22,0.338,7.445,9.316,-1.871,QB,2013
+482256,Alex Dennison,Buffalo,5,0.338,1.69,2.021,-0.332,TE,2013
+546812,Freddie Stevenson,Florida State,9,0.338,3.039,1.409,1.631,FB,2013
+536440,Anthony Wales,Western Kentucky,12,0.338,4.055,,4.055,RB,2013
+533604,Michael Birdsong,James Madison,47,0.339,15.943,17.146,-1.203,QB,2013
+531648,Tyler Wilson,Tulsa,11,0.34,3.739,3.739,,TE,2013
+519540,Anthony King,Cincinnati,6,0.343,2.059,,2.059,RB,2013
+535188,Chris Brown,Oregon State,19,0.344,6.527,0.105,6.422,RB,2013
+530662,Josh Parris,Syracuse,11,0.345,3.799,3.799,,TE,2013
+536075,Ernest Calhoun,Kent State,12,0.346,4.155,2.749,1.406,WR,2013
+480550,David Fales,San José State,446,0.346,154.326,141.316,13.01,QB,2013
+505255,Khary Franklin,Troy,30,0.347,10.405,10.146,0.259,RB,2013
+513949,Taylor Heinicke,Old Dominion,485,0.349,169.228,137.717,31.511,QB,2013
+536527,Larry McDuffey,Houston,16,0.349,5.588,5.588,,WR,2013
+552876,Tyre'oune Holmes,Southern Mississippi,58,0.349,20.24,21.453,-1.213,WR,2013
+511308,Garrett Leatham,NC State,17,0.349,5.941,4.645,1.296,QB,2013
+536261,Harold Moleni,Hawai'i,6,0.355,2.133,2.133,,TE,2013
+484845,Duke DeLancellotti,Texas State,32,0.355,11.362,11.124,0.239,QB,2013
+535229,Richard Smith,Arizona State,35,0.356,12.47,9.469,3.002,WR,2013
+531259,Mike Fafaul,UCLA,6,0.356,2.138,4.85,-2.712,QB,2013
+501684,Joe Craig,Memphis,45,0.357,16.079,16.345,-0.265,WR,2013
+504004,Hutson Mason,Georgia,119,0.357,42.474,43.652,-1.178,QB,2013
+516646,Kendrick Roberts,Western Michigan,31,0.358,11.112,11.112,,WR,2013
+511459,Marcus Mariota,Oregon,416,0.358,148.89,108.994,39.896,QB,2013
+517475,Johnny Manziel,Texas A&M,496,0.359,178.26,130.085,48.175,QB,2013
+482745,Kyle Griswould,Middle Tennessee,51,0.359,18.327,19.218,-0.891,WR,2013
+515369,Terry Baggett,Army,142,0.361,51.305,10.499,40.806,RB,2013
+511982,Brett Hundley,UCLA,448,0.361,161.844,133.859,27.985,QB,2013
+518539,Austin Hails,South Carolina,3,0.364,1.092,1.945,-0.853,QB,2013
+518265,Davonte Allen,Marshall,11,0.364,4.005,4.005,,WR,2013
+498943,John Goodlett,Oklahoma State,3,0.364,1.092,1.092,,WR,2013
+545736,Jarveon Williams,UT San Antonio,31,0.364,11.272,10.15,1.122,RB,2013
+532433,JD Sprague,Ohio,4,0.367,1.468,1.462,0.006,QB,2013
+534578,Germone Hopper,Clemson,20,0.367,7.339,7.553,-0.214,WR,2013
+545269,Brisly Estime,Syracuse,32,0.368,11.785,11.823,-0.038,WR,2013
+546202,Jordan Bergstrom,New Mexico State,34,0.369,12.546,12.199,0.347,WR,2013
+501902,Trey Millard,Oklahoma,24,0.37,8.873,6,2.873,FB,2013
+504635,Dwight Macon,Toledo,19,0.371,7.041,7.041,,WR,2013
+535889,Jeremy Sprinkle,Arkansas,5,0.371,1.855,2.578,-0.723,TE,2013
+530315,Vernon Davis,West Virginia,8,0.372,2.975,-0.138,3.112,WR,2013
+501169,Tyler Purvis,NC State,11,0.373,4.102,4.102,,FB,2013
+503831,Michael Burton,Rutgers,27,0.375,10.126,8.143,1.983,FB,2013
+531453,Anthony Rice,Central Michigan,10,0.376,3.765,3.765,,WR,2013
+483461,Joe Southwick,Boise State,215,0.376,80.934,77.647,3.287,QB,2013
+511690,Justice Hayes,Michigan,8,0.377,3.014,2.951,0.064,RB,2013
+482538,Micah Hatfield,Oregon State,9,0.378,3.402,3.402,,WR,2013
+534613,Glenn Gronkowski,Kansas State,3,0.379,1.136,2.098,-0.962,FB,2013
+511698,Joe Kerridge,Michigan,4,0.381,1.525,1.855,-0.331,FB,2013
+503957,Robert Clark,Louisville,25,0.383,9.576,9.473,0.103,WR,2013
+512198,Hunter Joyer,Florida,3,0.383,1.149,0.59,0.559,TE,2013
+531973,Mason Schreck,Buffalo,22,0.383,8.431,8.431,,TE,2013
+535744,Kenyan Drake,Alabama,95,0.384,36.485,7.247,29.238,RB,2013
+530432,Kendrick Singleton,North Carolina,6,0.384,2.306,2.439,-0.132,TE,2013
+512463,Danny Webster,East Carolina,20,0.385,7.71,7.71,,WR,2013
+377963,Brendon Kay,Cincinnati,390,0.386,150.589,130.891,19.698,QB,2013
+513961,Antonio Vaughan,Old Dominion,80,0.387,30.942,39.64,-8.699,WR,2013
+505719,Blake Bortles,UCF,406,0.387,157.155,125.959,31.196,QB,2013
+500382,B.J. Butler,Louisville,3,0.391,1.173,0.462,0.711,FB,2013
+512690,Montrel Carter,Louisiana,16,0.391,6.251,,6.251,RB,2013
+513319,Tony Pierson,Kansas,48,0.391,18.763,15.019,3.744,WR,2013
+514092,David Reeves,Duke,2,0.392,0.785,0.785,,TE,2013
+549811,Ezekiel Elliott,Ohio State,30,0.393,11.78,-0.447,12.227,RB,2013
+503099,Stephen Bravo-Brown,South Florida,7,0.394,2.759,2.759,,WR,2013
+501545,Brian Vogler,Alabama,7,0.395,2.764,2.764,,TE,2013
+547046,Kirk Spellman,Old Dominion,6,0.396,2.373,2.373,,WR,2013
+514158,Keyarris Garrett,Tulsa,10,0.396,3.96,3.96,,WR,2013
+535511,Seth Russell,Baylor,55,0.397,21.811,12.62,9.191,QB,2013
+529585,Dalton Demos,Coastal Carolina,4,0.397,1.587,1.671,-0.084,QB,2013
+501203,E.J. Scott,Virginia,4,0.397,1.588,2.204,-0.616,WR,2013
+512668,Jabari Carr,San José State,24,0.398,9.541,9.541,,WR,2013
+515366,Tony Giovannelli,Army,32,0.401,12.836,5.101,7.735,RB,2013
+515416,Jafus Gaines,Texas State,1,0.401,0.401,0.401,,WR,2013
+486785,Eric Soza,UT San Antonio,374,0.402,150.351,130.821,19.53,QB,2013
+546817,Jesus Wilson,Florida State,3,0.403,1.21,1.21,,WR,2013
+549971,Jordan Cunningham,Vanderbilt,17,0.405,6.89,6.89,,WR,2013
+512421,Vincent Dallas,Tennessee,2,0.406,0.811,0.811,,WR,2013
+546700,Noel Thomas,Connecticut,3,0.41,1.231,1.231,,WR,2013
+519641,Cortney Davis,Louisiana Monroe,16,0.411,6.572,9.74,-3.168,RB,2013
+512808,Lars Gunderson,Utah State,1,0.412,0.412,0.412,,WR,2013
+534294,Cardale Jones,Ohio State,18,0.413,7.436,-1.044,8.48,QB,2013
+503949,Gideon Ajagbe,Florida,3,0.414,1.243,1.243,,TE,2013
+513128,Malcolm Faciane,Alabama,2,0.417,0.834,0.834,,TE,2013
+503432,Jeremy Eddington,Rice,2,0.417,0.834,1.507,-0.674,TE,2013
+547216,Korliss Marshall,Arkansas,17,0.418,7.1,,7.1,RB,2013
+503587,Anthony Stephens,Army,10,0.418,4.182,4.182,,WR,2013
+535264,James Grisom,California,7,0.419,2.932,2.932,,WR,2013
+515767,Anthony Davis,Indiana,10,0.42,4.204,,4.204,RB,2013
+515454,Reilly O'Toole,Illinois,22,0.421,9.266,3.474,5.791,QB,2013
+482097,Tyshon Goode,Kent State,59,0.422,24.878,24.878,,WR,2013
+511607,Matt McIntosh,Northern Illinois,4,0.424,1.695,,1.695,QB,2013
+484019,Jonathan Perry,UAB,179,0.425,76.092,47.18,28.912,QB,2013
+532480,Drew Hare,Northern Illinois,11,0.425,4.673,2.836,1.838,QB,2013
+499789,DiAndre Campbell,Washington,4,0.425,1.7,2.385,-0.685,WR,2013
+486979,Brandon Apon,Liberty,1,0.426,0.426,0.426,,WR,2013
+551114,Ryan Timmons,Kentucky,43,0.426,18.325,18.194,0.131,WR,2013
+531380,Dorial Green-Beckham,Missouri,53,0.426,22.594,22.98,-0.386,WR,2013
+509992,Ryan Williams,Miami,29,0.426,12.352,13.473,-1.121,QB,2013
+530450,Chad Voytik,Pittsburgh,13,0.426,5.544,3.594,1.95,QB,2013
+516198,Brendan Dudeck,Navy,9,0.429,3.86,2.076,1.783,WR,2013
+481073,Antoin Scriven,Western Michigan,17,0.43,7.304,2.001,5.304,RB,2013
+545518,Ty Slanina,TCU,20,0.43,8.596,8.596,,WR,2013
+518150,Kj Myers,West Virginia,2,0.432,0.865,0.865,,WR,2013
+511474,Kellen Clute,Oregon State,17,0.432,7.339,7.339,,TE,2013
+531288,Perris Scoggins,New Mexico State,11,0.433,4.767,4.767,,TE,2013
+482252,Zane Fakes,Ball State,55,0.436,24.007,22.779,1.228,TE,2013
+513398,Jalen Fitzpatrick,Temple,41,0.436,17.896,20.345,-2.448,WR,2013
+547013,Carlis Parker,Virginia Tech,6,0.437,2.621,,2.621,WR,2013
+515368,Trenton Turrentine,Army,56,0.439,24.559,,24.559,RB,2013
+504155,Ronnie Shields,Kentucky,1,0.44,0.44,0.44,,TE,2013
+547028,Sam Rogers,Virginia Tech,15,0.44,6.594,7.951,-1.357,FB,2013
+504648,Zac Rosenbauer,Toledo,5,0.44,2.199,0.632,1.567,TE,2013
+544097,Garrett Brown,Air Force,25,0.443,11.063,13.069,-2.006,WR,2013
+505188,Darryl Surgent,Louisiana,32,0.444,14.193,14.27,-0.077,WR,2013
+552021,Samajie Grant,Arizona,48,0.445,21.34,22.032,-0.692,WR,2013
+482997,Nexon Dorvilus,Florida Atlantic,16,0.45,7.204,7.204,,TE,2013
+385128,Felton Payton,Troy,17,0.45,7.643,7.643,,WR,2013
+500938,Shane Carden,East Carolina,483,0.451,217.75,206.22,11.531,QB,2013
+512100,Deshon Foxx,Connecticut,63,0.451,28.442,25.242,3.2,WR,2013
+534593,Jay Jay McCullough,Clemson,10,0.452,4.52,1.345,3.175,TE,2013
+532471,Jacob Brinlee,Northern Illinois,7,0.452,3.165,3.614,-0.449,WR,2013
+535108,Rokeem Williams,Miami (OH),9,0.456,4.102,3.817,0.285,WR,2013
+553662,Aaron Clinton-Earl,Air Force,2,0.456,0.913,,0.913,RB,2013
+532177,Kedrick Banks,Tulane,17,0.459,7.811,7.41,0.401,WR,2013
+515882,J.D. McKissic,Arkansas State,88,0.459,40.409,37.028,3.382,WR,2013
+531755,Nick Patti,Boise State,14,0.459,6.428,3.203,3.225,QB,2013
+533281,Trey Foster,Nebraska,1,0.461,0.461,0.461,,TE,2013
+513362,Eric Boyden,Western Michigan,19,0.462,8.77,8.77,,TE,2013
+500254,Kyle Prater,Northwestern,9,0.463,4.171,4.171,,WR,2013
+547341,Sam Gagliano,Air Force,41,0.464,19.038,13.197,5.84,WR,2013
+534789,B.J. Knauf,Purdue,27,0.467,12.618,11.921,0.698,WR,2013
+532059,Alton Howard,Tennessee,55,0.467,25.69,27.082,-1.392,WR,2013
+501518,Darius White,Missouri,6,0.468,2.808,2.808,,WR,2013
+531970,Malcolm Robinson,Buffalo,1,0.469,0.469,0.469,,WR,2013
+513588,Chris Gallon,Bowling Green,26,0.469,12.188,12.188,,TE,2013
+487707,Blake Annen,Cincinnati,16,0.469,7.498,7.498,,TE,2013
+511614,Teddy Bridgewater,Louisville,432,0.47,203.22,189.808,13.412,QB,2013
+518907,Alan Cross,Memphis,11,0.47,5.175,5.175,,TE,2013
+517960,Dallas Tidwell,Troy,13,0.473,6.144,6.144,,QB,2013
+518022,Ian Dixon,Ohio,4,0.474,1.894,1.894,,WR,2013
+536375,Shane Smith,San José State,8,0.477,3.815,4.377,-0.561,RB,2013
+550014,Laquon Treadwell,Ole Miss,66,0.478,31.563,35.298,-3.735,WR,2013
+516024,Kevin Miller,UCF,2,0.478,0.957,0.957,,TE,2013
+515943,Kane Whitehurst,South Carolina,3,0.479,1.437,1.437,,WR,2013
+552902,J.J. Green,UAB,3,0.482,1.447,1.447,,WR,2013
+518680,Ty MacArthur,Air Force,15,0.484,7.263,6.572,0.69,WR,2013
+529584,Tyrell Blanks,Coastal Carolina,5,0.484,2.418,2.418,,WR,2013
+518002,Hunter Lee,Louisiana Tech,19,0.484,9.195,11.033,-1.839,RB,2013
+481390,Jairus Williams,Florida International,2,0.484,0.969,0.969,,WR,2013
+534664,Blake Webb,Oklahoma State,1,0.486,0.486,0.486,,WR,2013
+552507,Aaron Criswell,UNLV,5,0.486,2.429,2.429,,WR,2013
+531756,Connor Peters,Boise State,7,0.486,3.4,3.4,,TE,2013
+534212,Anthony Williams,UNLV,23,0.487,11.194,11.194,,WR,2013
+518392,Adam Cox,Iowa,8,0.488,3.903,3.664,0.239,FB,2013
+504175,Connor Neighbors,LSU,9,0.49,4.412,6.329,-1.917,FB,2013
+551222,Tago Smith,Navy,4,0.491,1.965,,1.965,QB,2013
+535520,Taylor Cox,Kansas,6,0.491,2.947,,2.947,RB,2013
+530907,Ricardo Louis,Auburn,40,0.491,19.648,14.186,5.462,WR,2013
+549830,Dontre Wilson,Ohio State,47,0.492,23.101,7.8,15.301,WR,2013
+500871,Fitz Lassing,Vanderbilt,4,0.493,1.972,2.103,-0.131,FB,2013
+550364,Dylan Cantrell,Texas Tech,8,0.494,3.954,3.954,,WR,2013
+536845,Jalen Claiborne,Wyoming,34,0.495,16.839,16.839,,WR,2013
+517250,Kyle Klein,Kansas State,6,0.495,2.97,2.97,,WR,2013
+531879,Carl Caldwell,North Texas,4,0.497,1.988,1.659,0.329,WR,2013
+531502,Quataye Smyre,East Carolina,3,0.498,1.495,1.385,0.11,WR,2013
+548233,Ryan Carden,Texas State,5,0.498,2.491,2.491,,TE,2013
+504639,Cassius McDowell,Toledo,18,0.5,9.002,,9.002,RB,2013
+503260,Demetrius Evans,Marshall,19,0.502,9.546,9.546,,WR,2013
+503759,Cordero Dixon,Buffalo,1,0.505,0.505,0.505,,WR,2013
+482854,Ed Tinker,Pittsburgh,1,0.506,0.506,0.506,,WR,2013
+480573,Joseph Huber,Nevada,2,0.506,1.012,1.012,,WR,2013
+511603,Tommylee Lewis,Northern Illinois,110,0.506,55.709,35.714,19.995,WR,2013
+500691,Jordan Leslie,UTEP,44,0.507,22.302,22.61,-0.308,WR,2013
+535602,Geno Lewis,Penn State,2,0.507,1.014,1.014,,WR,2013
+553932,Joshua Hand,Mississippi State,1,0.507,0.507,,0.507,QB,2013
+485829,Andrew Guillot,Louisiana Tech,30,0.508,15.251,16.232,-0.981,WR,2013
+487943,Ryan Walker,SMU,4,0.509,2.036,2.036,,WR,2013
+531231,Kolby Listenbee,TCU,2,0.51,1.02,1.02,,WR,2013
+514450,Greg Tobias,Syracuse,2,0.511,1.022,,1.022,RB,2013
+517582,Garrett Kidd,Miami,1,0.512,0.512,0.512,,WR,2013
+530308,Jameis Winston,Florida State,393,0.513,201.657,184.133,17.524,QB,2013
+512781,Austin Franklin,New Mexico State,66,0.513,33.839,31.536,2.303,WR,2013
+481476,Asa Watson,NC State,5,0.514,2.568,2.568,,TE,2013
+534457,Chris Black,Alabama,6,0.514,3.085,3.085,,WR,2013
+500333,David Lewis,Texas State,3,0.515,1.545,1.545,,TE,2013
+516955,Samson Anguay,Hawai'i,4,0.516,2.063,1.958,0.106,WR,2013
+537071,Rodney Mills,UMass,6,0.517,3.101,3.801,-0.7,WR,2013
+517795,Kam Jones,UT San Antonio,56,0.518,29.033,27.452,1.581,WR,2013
+501554,Justin McCay,Kansas,12,0.519,6.228,6.228,,WR,2013
+512979,Demarius Reed,Eastern Michigan,19,0.52,9.88,10.035,-0.154,WR,2013
+480251,Zach Mettenberger,LSU,282,0.52,146.64,148.936,-2.297,QB,2013
+515815,K.J. Brent,South Carolina,2,0.521,1.043,1.043,,WR,2013
+534645,Austin Hays,Oklahoma State,1,0.522,0.522,0.522,,WR,2013
+480634,Clark Evans,Hawai'i,43,0.523,22.509,22.509,,TE,2013
+535263,Lucus Gingold,California,5,0.524,2.618,3.734,-1.117,FB,2013
+537012,Nick Schuessler,Clemson,3,0.525,1.576,1.519,0.057,QB,2013
+501223,Jerome Lewis,Akron,2,0.526,1.053,1.053,,TE,2013
+505304,Davis Dudchock,Stanford,5,0.527,2.637,2.637,,TE,2013
+501683,Sam Cooper,Clemson,5,0.527,2.635,2.635,,TE,2013
+514244,Rob Sterling,Northern Illinois,4,0.53,2.119,2.119,,FB,2013
+501934,John Harris,Texas,3,0.535,1.604,1.604,,WR,2013
+550737,Keevan Lucas,Tulsa,46,0.537,24.725,26.141,-1.417,WR,2013
+546140,Tre' Perrier,Louisiana Monroe,3,0.538,1.615,1.615,,WR,2013
+534464,Alex Ross,Oklahoma,3,0.538,1.615,,1.615,RB,2013
+509246,Josh Reese,UCF,22,0.539,11.861,11.861,,WR,2013
+483014,DeAndre Richardson,Florida Atlantic,15,0.54,8.093,8.093,,WR,2013
+514911,Arrius Holleman,SMU,2,0.541,1.081,1.081,,WR,2013
+530345,Jonathan Williams,Wake Forest,20,0.541,10.827,9.374,1.454,WR,2013
+481081,Clark Mussman,Western Michigan,22,0.543,11.949,11.949,,TE,2013
+504758,Keanon Lowe,Oregon,16,0.543,8.687,8.687,,WR,2013
+504910,Holden Huff,Boise State,5,0.543,2.714,2.714,,TE,2013
+518394,Macon Plewa,Iowa,4,0.543,2.173,1.255,0.918,FB,2013
+518057,Darius Powell,UAB,16,0.544,8.697,8.657,0.04,WR,2013
+502870,Kivon Cartwright,Colorado State,32,0.544,17.418,13.474,3.944,TE,2013
+482479,Donte Moore,Rice,29,0.546,15.836,15.361,0.475,WR,2013
+517803,Marcellus Mack,UT San Antonio,22,0.548,12.058,12.058,,WR,2013
+551318,Ahmad Fulwood,Florida,16,0.548,8.771,8.771,,WR,2013
+483900,Rob Blanchflower,UMass,30,0.549,16.467,16.726,-0.259,TE,2013
+535146,Dennis Norfleet,Michigan,10,0.555,5.548,4.066,1.482,WR,2013
+536601,DaQuan Barnes,East Carolina,8,0.555,4.438,4.438,,WR,2013
+505990,Matt Marfisi,Tulane,5,0.556,2.781,2.781,,TE,2013
+482651,Kenny Bell,Alabama,13,0.557,7.238,7.238,,WR,2013
+546676,Dhameer Bradley,Connecticut,14,0.56,7.839,7.839,,WR,2013
+531608,Jacob Corbaley,Middle Tennessee,9,0.56,5.042,5.042,,TE,2013
+531761,Shane Williams-Rhodes,Boise State,73,0.561,40.989,39.663,1.326,WR,2013
+500218,Deon Hill,Georgia Tech,15,0.562,8.431,1.655,6.776,RB,2013
+531958,Devin Campbell,Buffalo,27,0.563,15.206,14.918,0.288,WR,2013
+550212,Airion Kosak,Miami (OH),5,0.564,2.821,3.23,-0.408,WR,2013
+504646,Bernard Reedy,Toledo,61,0.565,34.441,35.516,-1.075,WR,2013
+512667,Daniel Bradbury,San José State,1,0.566,0.566,0.566,,WR,2013
+505053,Shaan Johnson,Utah State,7,0.568,3.977,3.977,,WR,2013
+515412,Isaiah Battle,Texas State,28,0.571,15.979,16.341,-0.362,WR,2013
+535831,Tevaun Smith,Iowa,27,0.572,15.45,15.45,,WR,2013
+531830,Jared Cohen,Bowling Green,9,0.572,5.152,5.152,,WR,2013
+483998,Steve Marck,Miami (OH),12,0.572,6.859,6.859,,TE,2013
+532488,Desroy Maxwell,Northern Illinois,11,0.575,6.33,4.833,1.498,TE,2013
+512014,Collins Moore,Ole Miss,4,0.576,2.306,2.306,,WR,2013
+531309,Jaydrick DeClouette,Louisiana Tech,15,0.577,8.653,8.653,,WR,2013
+518298,Eric Frohnapfel,Marshall,5,0.578,2.888,2.888,,TE,2013
+549866,Ricky Seals-Jones,Texas A&M,2,0.578,1.156,1.156,,WR,2013
+545256,Ryan Switzer,North Carolina,35,0.579,20.253,20.755,-0.502,WR,2013
+550355,Mykel Traylor-Bennett,Akron,9,0.581,5.226,5.226,,WR,2013
+545635,Adam Breneman,Penn State,12,0.582,6.988,6.988,,TE,2013
+549217,Brandon Ravenel,James Madison,5,0.582,2.908,2.908,,WR,2013
+537063,Tajae Sharpe,UMass,71,0.583,41.42,41.42,,WR,2013
+500255,Xavier Grimble,USC,23,0.583,13.399,13.399,,TE,2013
+536154,Stephen Nelson,SMU,14,0.584,8.177,8.177,,WR,2013
+531894,Imani Davis,Akron,7,0.584,4.089,4.089,,WR,2013
+518235,Kennard Backman,UAB,33,0.584,19.277,19.277,,TE,2013
+535857,Aaron Burbridge,Michigan State,27,0.586,15.818,16.963,-1.145,WR,2013
+481448,Rashard Smith,NC State,70,0.586,41.05,34.009,7.041,WR,2013
+480866,Dave Stinebaugh,Maryland,13,0.586,7.62,7.62,,TE,2013
+551334,Chris Thompson,Florida,2,0.587,1.174,1.174,,WR,2013
+514182,Evan Spencer,Ohio State,21,0.587,12.336,12.489,-0.152,WR,2013
+516343,T.J. Thorpe,North Carolina,24,0.59,14.15,17.021,-2.871,WR,2013
+530441,J.P. Holtz,Pittsburgh,28,0.59,16.519,16.519,,TE,2013
+535774,Sean Irwin,Colorado,1,0.59,0.59,0.59,,TE,2013
+515534,Charles Lovett,Colorado State,31,0.591,18.32,18.673,-0.354,WR,2013
+503798,Adrian Flemming,Syracuse,3,0.591,1.772,2.715,-0.943,WR,2013
+537386,Darnell Smith,North Texas,64,0.592,37.909,37.909,,WR,2013
+480674,Jake Sinkovec,Boston College,11,0.593,6.525,6.525,,TE,2013
+501047,Brandon Braxton,Duke,35,0.593,20.766,20.766,,WR,2013
+504267,Malcolm Johnson,Mississippi State,34,0.593,20.16,20.16,,TE,2013
+534246,Malcolm Culmer,Maryland,5,0.594,2.971,2.971,,WR,2013
+530704,Andre Sims Jr.,Michigan State,5,0.595,2.977,2.977,,WR,2013
+486055,Andrew Peacock,Appalachian State,13,0.595,7.737,7.737,,WR,2013
+501822,Jimmie Hunt,Missouri,25,0.595,14.874,14.874,,WR,2013
+502093,Jarvis West,Iowa State,14,0.596,8.339,9.469,-1.13,WR,2013
+536362,Alvin Jelks,San José State,3,0.596,1.789,-0.06,1.849,RB,2013
+530314,Gray Crow,Miami,6,0.598,3.585,2.633,0.952,QB,2013
+533255,Spencer Parker,Connecticut,2,0.598,1.196,1.196,,TE,2013
+513386,Justin Olack,Toledo,18,0.6,10.807,10.807,,WR,2013
+481986,Spencer Bruce,Wyoming,2,0.601,1.202,1.202,,TE,2013
+534318,Levern Jacobs,Maryland,51,0.601,30.657,31.919,-1.262,WR,2013
+482249,Connor Ryan,Ball State,10,0.601,6.015,6.015,,WR,2013
+501044,Issac Blakeney,Duke,14,0.603,8.438,8.438,,WR,2013
+517753,Kenny Harrison,UT San Antonio,24,0.603,14.473,14.806,-0.333,WR,2013
+503912,Ricardo Miller,UMass,6,0.606,3.637,3.637,,TE,2013
+535373,Kwinton Smith,South Carolina,5,0.609,3.044,3.044,,WR,2013
+517148,LaDarius Brown,TCU,37,0.609,22.53,22.53,,WR,2013
+487794,Chris Fields,Ohio State,11,0.61,6.712,6.712,,WR,2013
+532120,Edward Pope,Texas A&M,9,0.611,5.495,5.495,,WR,2013
+482351,Gary Bush,Purdue,8,0.613,4.908,4.908,,WR,2013
+535618,Canaan Severin,Virginia,5,0.613,3.066,3.066,,WR,2013
+511362,Darius Jennings,Virginia,39,0.614,23.947,24.976,-1.028,WR,2013
+531563,Ajalen Holley,Louisiana Monroe,16,0.614,9.819,9.819,,WR,2013
+500543,Jordan Garside,Wake Forest,3,0.615,1.845,1.845,,FB,2013
+549932,Bra'Lon Cherry,NC State,8,0.616,4.932,4.932,,WR,2013
+545462,Donovahn Jones,Minnesota,28,0.617,17.263,16.221,1.042,WR,2013
+533196,Hasaan Henderson,Nevada,35,0.618,21.628,22.064,-0.436,WR,2013
+553072,Melvin Vaughn,Old Dominion,18,0.619,11.138,11.138,,TE,2013
+517750,Josiah Monroe,UT San Antonio,12,0.619,7.424,7.424,,WR,2013
+546314,Demarcus Robinson,Florida,7,0.619,4.331,4.331,,WR,2013
+383491,Jerry Harris,Central Michigan,3,0.621,1.864,1.864,,WR,2013
+511953,Tad Ecby,Iowa State,25,0.622,15.551,15.551,,WR,2013
+532679,Joe Hansley,Colorado State,67,0.622,41.691,37.982,3.709,WR,2013
+512797,Joseph Matthews,New Mexico State,29,0.622,18.031,18.031,,WR,2013
+489461,Mario Dovell,Ohio,18,0.623,11.212,11.212,,WR,2013
+514241,Angelo Sebastiano,Northern Illinois,12,0.624,7.492,5.827,1.665,WR,2013
+482880,Sterling Griffin,Louisiana Tech,35,0.625,21.863,21.863,,WR,2013
+512248,Jake Howton,South Alabama,6,0.629,3.776,3.776,,WR,2013
+536182,Christopher Clark,Syracuse,34,0.631,21.44,21.44,,WR,2013
+536031,Sean Price,South Florida,22,0.632,13.896,13.896,,TE,2013
+517352,Chris Gant,Hawai'i,70,0.633,44.3,46.354,-2.054,WR,2013
+552885,Marquise Ricard,Southern Mississippi,25,0.633,15.816,15.816,,WR,2013
+531249,Griffin Gilbert,TCU,1,0.634,0.634,0.634,,WR,2013
+482569,Jordan Najvar,Baylor,10,0.634,6.338,6.338,,TE,2013
+501539,Solomon Patton,Florida,49,0.635,31.13,33.746,-2.616,WR,2013
+530645,Ashton Broyld,Syracuse,54,0.636,34.357,35.688,-1.331,WR,2013
+503463,Jeremy Johnson,SMU,117,0.637,74.526,74.526,,WR,2013
+504780,Connor Hamlett,Oregon State,34,0.637,21.669,21.669,,TE,2013
+511340,Kris Kentera,Vanderbilt,10,0.637,6.37,6.37,,WR,2013
+503475,Der'rikk Thompson,SMU,37,0.637,23.558,23.558,,WR,2013
+505056,Keegan Andersen,Utah State,12,0.64,7.683,7.683,,TE,2013
+529501,Darrin Peterson,Liberty,16,0.641,10.25,10.25,,WR,2013
+550330,John Ross,Washington,21,0.643,13.504,12.695,0.808,WR,2013
+517452,Jamison Crowder,Duke,117,0.643,75.253,72.28,2.972,WR,2013
+551279,Jonnu Smith,Florida International,41,0.644,26.406,26.406,,TE,2013
+545288,Tyree Harris,Wake Forest,23,0.645,14.838,14.838,,WR,2013
+551092,Javess Blue,Kentucky,43,0.647,27.838,27.958,-0.12,WR,2013
+536229,Richy Turner,Nevada,68,0.648,44.085,41.176,2.91,WR,2013
+514199,Shane Mikesky,Purdue,18,0.649,11.682,11.682,,WR,2013
+502447,Devin Mahina,BYU,7,0.649,4.546,4.546,,TE,2013
+552967,Nicholas Norris,Western Kentucky,37,0.65,24.032,23.335,0.697,WR,2013
+481267,Tavarese Maye,Louisiana Monroe,42,0.653,27.419,28.122,-0.703,WR,2013
+512107,Sean McQuillan,Connecticut,24,0.654,15.694,15.694,,TE,2013
+500815,Justin Sinz,Purdue,39,0.654,25.495,23.408,2.086,TE,2013
+513410,John Christopher,Temple,33,0.656,21.642,23.735,-2.093,WR,2013
+501128,Asante Cleveland,Miami,2,0.657,1.313,1.313,,TE,2013
+552775,Taywan Taylor,Western Kentucky,26,0.658,17.115,17.115,,WR,2013
+535958,C.J. Prosise,Notre Dame,6,0.658,3.946,3.946,,RB,2013
+550340,Fransohn Bickley,Akron,41,0.658,26.965,27.221,-0.256,WR,2013
+516940,Chris Perkins,Middle Tennessee,12,0.659,7.907,7.907,,WR,2013
+519988,T.J. Lowder,Florida International,26,0.662,17.211,17.211,,WR,2013
+511206,Adam Humphries,Clemson,39,0.663,25.852,25.852,,WR,2013
+500475,Kyle Slavin,Colorado,8,0.664,5.31,5.31,,TE,2013
+536525,Xavier Maxwell,Houston,27,0.665,17.963,17.963,,WR,2013
+482271,Jimmy Gordon,Buffalo,8,0.665,5.321,5.321,,TE,2013
+502878,Crockett Gillmore,Colorado State,53,0.666,35.305,35.305,,TE,2013
+481491,Torell Miller,Kansas State,11,0.67,7.367,7.367,,WR,2013
+514251,Josh Boyle,Kent State,22,0.671,14.757,14.924,-0.167,WR,2013
+506139,Andrew Dean,New Mexico State,10,0.672,6.717,6.717,,TE,2013
+535324,Jaydon Mickens,Washington,61,0.674,41.102,39.814,1.288,WR,2013
+511987,Jerry Neuheisel,UCLA,12,0.675,8.094,8.094,,QB,2013
+482056,Adam Fenton,Central Michigan,8,0.676,5.406,5.406,,FB,2013
+503934,Aaron Johnson,Houston,10,0.676,6.762,6.762,,WR,2013
+504922,Isaiah Burse,Fresno State,94,0.676,63.518,63.035,0.483,WR,2013
+534518,Jordan Thompson,West Virginia,22,0.677,14.904,14.787,0.117,WR,2013
+483113,Paul Carrezola,Rutgers,3,0.678,2.033,2.033,,TE,2013
+535225,Darwin Rogers,Arizona State,3,0.679,2.038,2.038,,TE,2013
+482067,Connor Odykirk,Central Michigan,11,0.679,7.47,8.656,-1.186,TE,2013
+545677,Trent Taylor,Louisiana Tech,28,0.679,19.022,19.022,,WR,2013
+505259,B.J. Chitty,Troy,26,0.682,17.734,17.507,0.227,WR,2013
+531137,Dondre Daley,Iowa State,12,0.683,8.191,8.191,,WR,2013
+536086,Alonzo Russell,Toledo,66,0.683,45.088,45.088,,WR,2013
+550039,Marcus Davis,Auburn,22,0.684,15.053,15.053,,WR,2013
+530403,Malcolm Lewis,Miami,7,0.685,4.793,4.793,,WR,2013
+518274,Tommy Shuler,Marshall,115,0.687,79.031,79.031,,WR,2013
+552937,Davon Grayson,East Carolina,15,0.687,10.309,10.309,,WR,2013
+481464,Ryan Cheek,NC State,2,0.688,1.377,1.377,,FB,2013
+517129,Brandon Carter,TCU,36,0.689,24.813,25.823,-1.01,WR,2013
+502758,Trent Smiley,Kansas,2,0.689,1.377,1.377,,TE,2013
+511594,Juwan Brescacin,Northern Illinois,32,0.69,22.092,22.092,,WR,2013
+485826,Lyle Fitte,Louisiana Tech,2,0.691,1.382,1.382,,RB,2013
+512959,Andrew Flory,Central Michigan,32,0.691,22.115,22.115,,WR,2013
+522923,Joshua Bowen,New Mexico State,37,0.692,25.604,25.604,,WR,2013
+518181,Adam Roberts,San Diego State,18,0.693,12.465,12.465,,FB,2013
+487625,JD Falslev,BYU,33,0.694,22.902,21.516,1.386,WR,2013
+512839,Sammy Watkins,Clemson,98,0.694,67.98,70.651,-2.671,WR,2013
+535270,Kenny Lawler,California,35,0.694,24.295,24.295,,WR,2013
+512975,Courtney Williams,Central Michigan,30,0.695,20.855,20.855,,WR,2013
+511458,Colt Lyerla,Oregon,4,0.697,2.79,1.567,1.223,TE,2013
+517290,Jay Lee,Baylor,21,0.697,14.64,14.64,,WR,2013
+480817,Ted Bolser,Indiana,30,0.697,20.897,20.897,,TE,2013
+536281,Taylor Pope,Boise State,1,0.698,0.698,0.698,,WR,2013
+502449,Marcus Mathews,BYU,2,0.7,1.399,1.399,,WR,2013
+503649,Jeff Godfrey,UCF,43,0.702,30.176,27.19,2.986,WR,2013
+535522,Josh Ford,Kansas,12,0.702,8.424,8.424,,WR,2013
+241147,Jay Jones,Eastern Michigan,27,0.702,18.954,18.954,,WR,2013
+503955,Trey Burton,Florida,50,0.704,35.177,36.439,-1.262,WR,2013
+537087,Bernard Davis,UMass,15,0.705,10.568,10.568,,WR,2013
+514113,David Richards,Arizona,14,0.706,9.887,9.887,,WR,2013
+552837,Shakur Nesmith,UMass,2,0.706,1.412,1.412,,WR,2013
+518123,Roosevelt Davis,UCLA,4,0.709,2.838,1.782,1.056,RB,2013
+503206,Keith Mumphery,Michigan State,18,0.709,12.764,13.534,-0.77,WR,2013
+513039,Shane Wynn,Indiana,36,0.71,25.574,26.206,-0.632,WR,2013
+501204,Zachary Swanson,Virginia,20,0.71,14.196,14.196,,TE,2013
+516354,Evan Crower,Stanford,14,0.711,9.954,9.954,,QB,2013
+512086,Shaq Washington,Cincinnati,87,0.711,61.886,59.187,2.699,WR,2013
+514590,Brandon Swindall,Utah State,25,0.711,17.783,17.783,,WR,2013
+515727,Tim Gorski,Western Kentucky,18,0.711,12.807,12.807,,TE,2013
+504818,Rickey Galvin,Washington State,33,0.712,23.502,23.502,,WR,2013
+546491,Tanner Gentry,Wyoming,41,0.713,29.215,29.215,,WR,2013
+504836,Bobby Ratliff,Washington State,25,0.714,17.856,17.856,,WR,2013
+552092,Nate Phillips,Arizona,49,0.715,35.012,35.502,-0.491,WR,2013
+537404,Jenson Stoshak,Florida Atlantic,27,0.716,19.343,19.343,,WR,2013
+503489,Dominique Sullivan,Southern Mississippi,22,0.716,15.763,15.763,,WR,2013
+504300,Jacob Carter,Tennessee,5,0.718,3.589,3.589,,WR,2013
+504873,Kadeem Jones,Western Kentucky,5,0.718,3.591,2.636,0.955,FB,2013
+545837,Robert Davis,Georgia State,54,0.719,38.814,38.814,,WR,2013
+511360,Dominique Terrell,Virginia,14,0.72,10.078,9.595,0.483,WR,2013
+511948,Quenton Bundrage,Iowa State,40,0.72,28.814,30.093,-1.279,WR,2013
+381477,Jefferson Court,Utah State,1,0.721,0.721,0.721,,TE,2013
+519570,Scott Harding,Hawai'i,64,0.722,46.183,46.183,,WR,2013
+530412,Herb Waters,Miami,24,0.723,17.358,17.974,-0.616,WR,2013
+501035,Malcome Kennedy,Texas A&M,52,0.723,37.616,37.616,,WR,2013
+513131,Christion Jones,Alabama,35,0.724,25.341,24.357,0.984,WR,2013
+518250,Rannell Hall,UCF,68,0.724,49.221,46.441,2.78,WR,2013
+480543,Jerry Rice Jr.,UNLV,10,0.725,7.254,7.254,,WR,2013
+517817,Brandon Freeman,UT San Antonio,25,0.725,18.12,18.12,,WR,2013
+503615,Matt Aiken,Navy,6,0.726,4.358,4.358,,WR,2013
+535181,Bryce Treggs,California,77,0.726,55.894,57.822,-1.928,WR,2013
+520522,Ben Ijah,Texas State,19,0.726,13.79,13.606,0.185,WR,2013
+500505,Evan Wilson,Illinois,3,0.727,2.18,2.18,,TE,2013
+537088,Derek Beck,UMass,15,0.729,10.942,10.942,,WR,2013
+482359,Gabe Holmes,Purdue,9,0.73,6.574,6.574,,TE,2013
+505453,Dameon Garrett,Marshall,1,0.731,0.731,0.731,,WR,2013
+515898,Tyreese Russell,Eastern Michigan,51,0.731,37.285,37.285,,TE,2013
+481884,Joe Brown,Colorado State,5,0.732,3.66,,3.66,TE,2013
+536844,Justin Berger,Wyoming,2,0.732,1.464,1.464,,WR,2013
+511258,Josh Stewart,Oklahoma State,66,0.736,48.557,47.839,0.719,WR,2013
+514601,Zach D'Orazio,Akron,46,0.736,33.865,35.213,-1.348,WR,2013
+546125,Kenzee Jackson,Louisiana Monroe,25,0.736,18.395,20.121,-1.726,WR,2013
+515587,Sherman Ragland III,Wake Forest,20,0.737,14.741,14.679,0.062,WR,2013
+511347,Steven Scheu,Vanderbilt,8,0.739,5.91,5.91,,TE,2013
+511216,Stanton Seckinger,Clemson,18,0.74,13.312,13.312,,TE,2013
+518413,Jacob Hillyer,Iowa,12,0.74,8.878,8.878,,WR,2013
+517985,Chandler Worthy,Troy,30,0.74,22.212,20.779,1.433,WR,2013
+550117,Evan Engram,Ole Miss,18,0.74,13.316,13.316,,TE,2013
+513958,Blair Roberts,Old Dominion,46,0.74,34.05,34.05,,WR,2013
+546740,Jordan Leggett,Clemson,11,0.741,8.153,8.153,,TE,2013
+515871,Darion Griswold,Arkansas State,24,0.741,17.775,17.775,,TE,2013
+536854,Jake Maulhardt,Wyoming,7,0.741,5.185,5.185,,WR,2013
+535970,Marcus Hendricks,Air Force,6,0.741,4.448,4.448,,TE,2013
+534448,Sterling Shepard,Oklahoma,48,0.742,35.637,35.23,0.407,WR,2013
+519999,Clinton Taylor,Florida International,19,0.743,14.109,14.109,,WR,2013
+500339,Darius Bell,UCLA,17,0.743,12.626,11.672,0.954,WR,2013
+545543,Demarcus Ayers,Houston,9,0.744,6.694,6.694,,WR,2013
+501006,R.J. Fleming,Arkansas State,15,0.745,11.177,9.935,1.242,WR,2013
+530463,Bobby Wolford,Boston College,9,0.745,6.706,7.001,-0.295,FB,2013
+504791,Tyler Perry,Oregon State,7,0.745,5.217,5.217,,TE,2013
+513572,Herve Coby,Bowling Green,2,0.745,1.491,1.491,,WR,2013
+546731,Jake Butt,Michigan,20,0.748,14.955,14.955,,TE,2013
+512479,Wayne Beadle,Houston,6,0.748,4.489,3.657,0.832,WR,2013
+481935,Julian Jones,Arkansas State,51,0.75,38.244,38.244,,WR,2013
+515402,Chevaughn Lawrence,Army,11,0.751,8.264,8.264,,WR,2013
+483465,Kirby Moore,Boise State,32,0.751,24.031,24.031,,WR,2013
+514486,Jordan Davis,Texas Tech,25,0.754,18.856,18.856,,WR,2013
+517933,Marcus Smith,North Texas,9,0.754,6.789,6.789,,TE,2013
+504939,Jalen Saunders,Oklahoma,60,0.754,45.247,42.344,2.903,WR,2013
+518296,Craig Wilkins,Marshall,41,0.754,30.928,30.928,,WR,2013
+501663,Shakim Phillips,Connecticut,30,0.755,22.64,22.64,,WR,2013
+511550,Landon Smith,Ohio,11,0.756,8.311,8.311,,WR,2013
+511949,Justin Coleman,Iowa State,31,0.756,23.451,23.451,,WR,2013
+534739,Zach Pascal,Old Dominion,43,0.757,32.549,32.549,,WR,2013
+546621,De'Runnya Wilson,Mississippi State,30,0.757,22.723,22.723,,WR,2013
+534203,Maika Mataele,UNLV,32,0.757,24.217,24.217,,WR,2013
+516036,Justin Tukes,UCF,12,0.757,9.084,9.084,,TE,2013
+552816,E.J. Burston,UMass,1,0.757,0.757,0.757,,WR,2013
+536395,Alec Moulton,Western Michigan,7,0.76,5.318,5.318,,WR,2013
+514234,Derek Watt,Wisconsin,3,0.761,2.282,2.27,0.012,FB,2013
+501881,Tyler Wullenwaber,Nebraska,1,0.762,0.762,0.762,,WR,2013
+547195,Marcus Kemp,Hawai'i,12,0.762,9.148,9.148,,WR,2013
+483026,Robert Godhigh,Georgia Tech,93,0.763,70.993,36.268,34.725,RB,2013
+482161,Chris Coyer,Temple,26,0.763,19.844,15.181,4.663,QB,2013
+530669,Justin Hardee,Illinois,11,0.764,8.4,8.4,,WR,2013
+481097,Josh Schaffer,Western Michigan,21,0.765,16.058,16.058,,WR,2013
+546244,Rashard Higgins,Colorado State,67,0.765,51.263,51.263,,WR,2013
+545923,Corey Davis,Western Michigan,76,0.766,58.25,58.467,-0.217,WR,2013
+550507,Mario Alford,West Virginia,36,0.767,27.626,27.043,0.582,WR,2013
+508170,Bryant Lavender,South Alabama,24,0.767,18.409,18.797,-0.388,WR,2013
+512380,Christian Collis,Middle Tennessee,19,0.768,14.588,14.588,,WR,2013
+547194,Vasquez Haynes,Hawai'i,31,0.768,23.813,24.356,-0.543,WR,2013
+511560,Malcolm Trail,UTEP,2,0.768,1.536,1.536,,WR,2013
+546045,Daikiel Shorts,West Virginia,44,0.769,33.854,33.854,,WR,2013
+532436,Matt Waters,Ohio,36,0.77,27.735,27.735,,WR,2013
+503448,Jordan Taylor,Rice,53,0.77,40.797,40.797,,WR,2013
+513743,Tyler McCulloch,Colorado,13,0.77,10.012,10.012,,WR,2013
+482853,Brock DeCicco,Wisconsin,1,0.771,0.771,0.771,,TE,2013
+545671,Eddie Johnson,Louisiana Tech,4,0.771,3.085,3.085,,WR,2013
+500884,Jordan Matthews,Vanderbilt,121,0.772,93.365,90.882,2.483,WR,2013
+501428,Albert Wilson,Georgia State,96,0.773,74.233,72.808,1.424,WR,2013
+504978,Donnie King Jr.,Hawai'i,10,0.775,7.746,7.746,,WR,2013
+518910,Tevin Jones,Memphis,30,0.775,23.246,22.888,0.358,WR,2013
+545339,Jeremiah Gaines,SMU,6,0.776,4.657,4.657,,TE,2013
+537870,Avery Sweeting,Georgia State,9,0.776,6.988,6.988,,WR,2013
+530660,Alvin Cornelius,Syracuse,8,0.776,6.212,6.212,,WR,2013
+534661,Brandon Sheperd,Oklahoma State,16,0.777,12.432,12.352,0.08,WR,2013
+532259,Brandon Smith,Texas State,20,0.777,15.536,15.536,,WR,2013
+515837,Drew Owens,South Carolina,2,0.781,1.562,1.562,,TE,2013
+519995,Fred Porter,Florida International,9,0.782,7.036,7.036,,WR,2013
+518311,Cameron Dickerson,Northwestern,11,0.782,8.597,8.597,,WR,2013
+529506,Dante Shells,Liberty,7,0.782,5.472,5.472,,WR,2013
+515708,Tyler Higbee,Western Kentucky,12,0.784,9.405,9.405,,TE,2013
+517589,Rashawn Scott,Miami,3,0.784,2.351,2.351,,WR,2013
+483352,Jim Teknipp,Troy,2,0.785,1.57,1.57,,TE,2013
+502905,Martize Barr,Illinois,26,0.785,20.419,18.498,1.921,WR,2013
+537094,Daniel McKinney,Florida Atlantic,47,0.786,36.92,36.92,,WR,2013
+536480,Connor Cella,Rice,11,0.786,8.651,8.651,,TE,2013
+535167,Jehu Chesson,Michigan,18,0.787,14.174,15.014,-0.84,WR,2013
+501173,Bryan Underwood,NC State,44,0.791,34.821,26.07,8.751,WR,2013
+505999,Drew Miller,North Texas,16,0.791,12.653,12.653,,TE,2013
+551111,Alexander Montgomery,Kentucky,13,0.794,10.322,10.322,,WR,2013
+482990,Reese Wiggins,East Carolina,21,0.798,16.766,16.766,,WR,2013
+501644,Alex Amidon,Boston College,80,0.799,63.958,62.171,1.786,WR,2013
+535721,Nate Cole,Cincinnati,4,0.799,3.194,3.194,,WR,2013
+531192,Alex Wheat Jr.,Utah State,1,0.799,0.799,0.799,,WR,2013
+511476,Brandin Cooks,Oregon State,142,0.799,113.529,108.397,5.132,WR,2013
+500412,Tony Jones,Northwestern,56,0.799,44.716,45.061,-0.344,WR,2013
+535745,Kurt Freitag,Alabama,1,0.8,0.8,0.8,,TE,2013
+512209,Tevin Westbrook,Florida,3,0.802,2.407,2.407,,TE,2013
+487170,Marquel Thomas,Old Dominion,34,0.803,27.297,27.297,,WR,2013
+501842,Kenny Bell,Nebraska,51,0.803,40.945,40.945,,WR,2013
+511457,B.J. Kelley,Oregon,1,0.804,0.804,0.804,,WR,2013
+504843,Kristoff Williams,Washington State,49,0.804,39.394,40.116,-0.722,WR,2013
+552884,JaMarcus Revies,Southern Mississippi,5,0.804,4.02,4.02,,WR,2013
+502755,Jimmay Mundine,Kansas,17,0.806,13.703,13.703,,TE,2013
+537183,Ja'Juan Story,TCU,6,0.807,4.843,4.843,,WR,2013
+536055,Quincy Jones,Eastern Michigan,6,0.808,4.85,4.85,,WR,2013
+547346,Myles Barnes,Air Force,5,0.809,4.043,4.043,,WR,2013
+502956,Ezell Ruffin,San Diego State,80,0.809,64.712,69.635,-4.923,WR,2013
+535990,Aaron Grubb,UT San Antonio,28,0.809,22.659,17.509,5.15,WR,2013
+513104,Isiah Myers,Washington State,35,0.809,28.3,28.3,,WR,2013
+533228,Carlos Wiggins,New Mexico,23,0.81,18.633,6.791,11.843,WR,2013
+518818,Dominique Rhymes,Florida International,13,0.811,10.547,10.547,,WR,2013
+550634,Vince Mayle,Washington State,35,0.813,28.468,28.468,,WR,2013
+545634,Richy Anderson,Penn State,13,0.814,10.58,10.58,,WR,2013
+534455,Parker Barrineau,Alabama,2,0.815,1.629,1.629,,WR,2013
+505345,Paul Richardson,Colorado,80,0.816,65.269,64.727,0.541,WR,2013
+546387,Steven Borden,Kentucky,3,0.817,2.452,2.452,,TE,2013
+505126,Alex Deleon,Florida Atlantic,7,0.818,5.728,5.728,,TE,2013
+530455,Dan Crimmins,Boston College,9,0.818,7.363,7.363,,WR,2013
+531313,Jon Greenwalt,Louisiana Tech,26,0.819,21.299,21.299,,WR,2013
+480970,Travis Van Leeuwen,Utah State,58,0.819,47.483,47.483,,WR,2013
+517393,Mike Bercovici,Arizona State,12,0.82,9.843,2.279,7.563,QB,2013
+485830,Jacarri Jackson,Louisiana Tech,4,0.82,3.278,3.278,,WR,2013
+505209,Je'Ron Hamm,Louisiana Monroe,24,0.823,19.749,19.749,,WR,2013
+532969,Aaron Peck,Fresno State,14,0.823,11.526,11.526,,WR,2013
+517317,Nigel King,Maryland,34,0.825,28.052,28.052,,WR,2013
+535417,Travares Copeland,NC State,20,0.825,16.507,16.197,0.31,WR,2013
+546546,Josh Walker Smith,Tennessee,13,0.825,10.722,10.722,,WR,2013
+534809,Alex Erickson,Wisconsin,11,0.826,9.085,8.265,0.82,WR,2013
+512073,Chris Moore,Cincinnati,45,0.826,37.156,36.784,0.372,WR,2013
+546052,Kevin White,West Virginia,35,0.827,28.943,28.943,,WR,2013
+531088,Kendall Sanders,Texas,33,0.828,27.337,27.337,,WR,2013
+503727,Heath Jackson,Bowling Green,32,0.828,26.509,26.509,,WR,2013
+499639,Isaiah Roundtree,Indiana,13,0.829,10.78,10.78,,WR,2013
+549907,Darvin Kidsy,North Texas,16,0.829,13.263,13.263,,WR,2013
+535178,Darius Powe,California,25,0.833,20.827,20.827,,WR,2013
+531358,Artimas Samuel,Mississippi State,5,0.834,4.172,4.172,,TE,2013
+504586,Chase Cochran,Ohio,37,0.835,30.901,31.061,-0.16,WR,2013
+514197,Dolapo Macarthy,Purdue,1,0.836,0.836,0.836,,TE,2013
+515818,Damiere Byrd,South Carolina,35,0.836,29.274,28.471,0.804,WR,2013
+151380,Chris Williams,Troy,30,0.836,25.091,25.191,-0.1,WR,2013
+515471,Matt LaCosse,Illinois,15,0.837,12.548,12.548,,TE,2013
+547197,Keith Kirkwood,Hawai'i,11,0.837,9.208,9.208,,WR,2013
+501458,Larry Pinkard,Old Dominion,64,0.837,53.555,52.453,1.102,WR,2013
+534479,Brannon Green,Oklahoma,2,0.838,1.676,1.676,,TE,2013
+500496,Miles Osei,Illinois,40,0.838,33.534,33.534,,WR,2013
+500546,Matt James,Wake Forest,4,0.839,3.354,3.354,,WR,2013
+501194,Jake McGee,Virginia,44,0.841,37.004,37.004,,TE,2013
+534884,Gabe Marks,Washington State,69,0.842,58.116,58.116,,WR,2013
+482808,Jordan Aumiller,Kentucky,12,0.842,10.099,10.099,,TE,2013
+533206,Marquis Bundy,New Mexico,21,0.843,17.71,17.71,,WR,2013
+514255,Chris Humphrey,Kent State,51,0.843,42.985,43.459,-0.473,WR,2013
+531886,Carlos Harris,North Texas,54,0.847,45.716,42.902,2.814,WR,2013
+505233,Brelan Chancellor,North Texas,66,0.847,55.909,50.443,5.466,WR,2013
+514493,Jakeem Grant,Texas Tech,65,0.848,55.138,51.935,3.204,WR,2013
+501832,Bud Sasser,Missouri,26,0.848,22.047,22.047,,WR,2013
+236726,Brandon Wimberly,Nevada,96,0.849,81.467,82.3,-0.833,WR,2013
+518414,Jake Duzey,Iowa,17,0.849,14.426,14.426,,TE,2013
+536357,Billy Freeman,San José State,33,0.85,28.036,28.036,,TE,2013
+545236,Beau Sandland,Miami,8,0.851,6.809,6.809,,TE,2013
+100009,Johnny Jackson,Arizona,12,0.852,10.22,10.22,,WR,2013
+547533,Nick Arcidiacono,Rutgers,5,0.852,4.258,4.258,,TE,2013
+530931,Faton Bauta,Georgia,4,0.852,3.409,,3.409,QB,2013
+500702,Devin Patterson,UTEP,20,0.852,17.038,17.038,,WR,2013
+514157,Conner Floyd,Tulsa,9,0.853,7.678,7.678,,WR,2013
+502538,Da'Ron Brown,Northern Illinois,50,0.853,42.652,40.942,1.709,WR,2013
+504891,Willie McNeal,Western Kentucky,48,0.853,40.942,40.942,,WR,2013
+483380,Craig Wenrick,UTEP,9,0.853,7.68,7.68,,TE,2013
+481158,Colin Lockett,San Diego State,54,0.853,46.061,46.116,-0.055,WR,2013
+520581,Davante Adams,Fresno State,106,0.855,90.665,90.665,,WR,2013
+503124,Deonte Welch,South Florida,9,0.855,7.697,7.697,,WR,2013
+503072,Robert Herron,Wyoming,67,0.856,57.364,56.973,0.391,WR,2013
+514185,Nick Vannett,Ohio State,7,0.856,5.992,5.992,,TE,2013
+517149,Cam White,TCU,18,0.856,15.412,15.412,,WR,2013
+545385,E.J. Bibbs,Iowa State,41,0.857,35.141,35.141,,TE,2013
+481341,Marcus Sullivan,UNLV,50,0.857,42.861,45.28,-2.419,WR,2013
+511433,Nelson Spruce,Colorado,56,0.86,48.175,48.175,,WR,2013
+550871,Lucky Whitehead,Florida Atlantic,9,0.86,7.737,9.799,-2.063,WR,2013
+481655,Spencer Bishop,Wake Forest,18,0.86,15.472,15.472,,TE,2013
+534433,Dillon Gordon,LSU,6,0.861,5.163,5.163,,TE,2013
+501564,Marcus Lucas,Missouri,52,0.862,44.825,44.825,,WR,2013
+513334,Marqise Lee,USC,57,0.864,49.222,49.91,-0.688,WR,2013
+500711,Eric Tomlinson,UTEP,32,0.865,27.665,27.665,,TE,2013
+482187,Chris Parthemore,Temple,5,0.866,4.329,4.329,,TE,2013
+500833,Kevonte Martin-Manley,Iowa,37,0.869,32.168,32.637,-0.469,WR,2013
+533297,Brandon Reilly,Nebraska,3,0.87,2.609,2.609,,WR,2013
+385663,Richie Casey,Louisiana Tech,34,0.87,29.596,29.596,,WR,2013
+517426,Demarco Robinson,Kentucky,23,0.87,20.001,20.001,,WR,2013
+531592,Marcus Henry,Middle Tennessee,40,0.87,34.78,34.78,,WR,2013
+183814,Cody Clay,West Virginia,8,0.871,6.965,6.965,,TE,2013
+534509,Devonte Mathis,West Virginia,8,0.871,6.967,6.967,,WR,2013
+530981,Jordan Payton,UCLA,39,0.872,34.027,34.027,,WR,2013
+532123,Sabian Holmes,Texas A&M,15,0.873,13.1,13.1,,WR,2013
+514181,Devin Smith,Ohio State,36,0.873,31.431,31.431,,WR,2013
+500492,Ryan Lankford,Illinois,20,0.873,17.467,18.885,-1.418,WR,2013
+514279,David Frazier,Miami (OH),34,0.874,29.722,29.722,,WR,2013
+549873,LaQuvionte Gonzalez,Texas A&M,21,0.875,18.367,19.462,-1.096,WR,2013
+511422,Willie Snead,Ball State,108,0.875,94.482,94.482,,WR,2013
+512474,Daniel Spencer,Houston,51,0.877,44.703,42.176,2.527,WR,2013
+535145,Devin Funchess,Michigan,52,0.878,45.68,46.109,-0.429,WR,2013
+547066,Ronnie Moore,Bowling Green,30,0.879,26.378,21.532,4.846,WR,2013
+549918,Dajon Williams,North Texas,5,0.88,4.399,4.399,,QB,2013
+511398,Dylan Curry,Ball State,4,0.881,3.525,3.525,,TE,2013
+517932,Lynrick Pleasant,North Texas,7,0.881,6.17,6.17,,WR,2013
+482270,Fred Lee,Buffalo,57,0.881,50.214,50.974,-0.761,WR,2013
+546536,Marquez North,Tennessee,40,0.884,35.358,33.991,1.366,WR,2013
+501837,Eric Waters,Missouri,6,0.884,5.302,5.302,,TE,2013
+503760,Devon Hughes,Buffalo,4,0.886,3.543,3.543,,WR,2013
+501536,Kadron Boone,LSU,7,0.886,6.2,6.2,,WR,2013
+516997,Stephen Anderson,California,15,0.887,13.304,13.304,,TE,2013
+500253,Randall Telfer,USC,5,0.888,4.442,4.442,,TE,2013
+480908,Chandler Jones,San José State,73,0.889,64.932,66.175,-1.243,WR,2013
+517172,Devante Davis,UNLV,82,0.89,72.961,72.961,,WR,2013
+515601,William Dukes,Florida Atlantic,36,0.89,32.056,32.056,,WR,2013
+481867,Eric Ward,Texas Tech,75,0.891,66.85,66.85,,WR,2013
+480354,Chris Coyle,Arizona State,28,0.893,24.992,24.992,,TE,2013
+504341,Deon Butler,Central Michigan,10,0.895,8.945,8.945,,TE,2013
+549962,Marquez Valdes-Scantling,NC State,24,0.896,21.503,21.503,,WR,2013
+531103,Dennis Andrews,Georgia Tech,13,0.896,11.645,3.076,8.569,WR,2013
+487663,Brett Thompson,BYU,12,0.898,10.773,10.773,,TE,2013
+482272,Alex Neutz,Buffalo,58,0.9,52.201,53.161,-0.96,WR,2013
+504930,Josh Harper,Fresno State,69,0.902,62.21,62.21,,WR,2013
+505407,Justin Hardy,East Carolina,109,0.902,98.339,98.339,,WR,2013
+480346,Terrence Miller,Arizona,39,0.903,35.233,35.233,,WR,2013
+501516,Mike Davis,Texas,41,0.903,37.016,37.016,,WR,2013
+481744,Charlie Moore,Oklahoma State,34,0.903,30.708,30.708,,WR,2013
+504750,Chad Delaney,Oregon,2,0.904,1.808,1.808,,WR,2013
+481520,Jaleel Clark,Missouri,10,0.904,9.04,9.04,,WR,2013
+506134,Jerrel Brown,New Mexico State,35,0.905,31.682,31.682,,WR,2013
+534458,Amari Cooper,Alabama,43,0.907,39.002,37.152,1.85,WR,2013
+546650,Tyler Boyd,Pittsburgh,93,0.907,84.388,82.154,2.234,WR,2013
+482980,Zico Pasut,East Carolina,5,0.908,4.542,4.542,,RB,2013
+502065,Albert Gary,Iowa State,10,0.908,9.083,11.212,-2.13,WR,2013
+534483,Lacoltan Bester,Oklahoma,25,0.909,22.735,22.735,,WR,2013
+504915,Matt Miller,Boise State,81,0.91,73.671,73.671,,WR,2013
+514627,L.T. Smith,Akron,26,0.91,23.666,23.666,,WR,2013
+552748,Rodney Adams,Toledo,3,0.91,2.731,2.602,0.129,WR,2013
+504057,DeAndrew White,Alabama,28,0.911,25.5,25.5,,WR,2013
+503395,Manasseh Garner,Pittsburgh,33,0.912,30.091,30.091,,WR,2013
+500840,Don Shumpert,Iowa,15,0.913,13.699,13.699,,WR,2013
+514758,Mike McFarland,South Florida,24,0.915,21.964,21.964,,TE,2013
+550046,Stacy Coley,Miami,24,0.916,21.988,21.639,0.35,WR,2013
+536514,Deontay Greenberry,Houston,78,0.916,71.468,71.801,-0.333,WR,2013
+482855,Devin Street,Pittsburgh,54,0.916,49.439,51.122,-1.683,WR,2013
+534284,Corey Brown,Ohio State,7,0.916,6.413,5.559,0.853,WR,2013
+535916,Mark Herndon,Florida,5,0.917,4.584,0.729,3.854,RB,2013
+536612,Bryce Williams,East Carolina,13,0.917,11.915,11.915,,TE,2013
+481486,Andre McDonald,Kansas State,3,0.919,2.757,2.757,,TE,2013
+514788,Justyn Shackleford,Tulane,26,0.92,23.914,23.914,,WR,2013
+482322,Sean Fitzgerald,Utah,30,0.921,27.626,27.626,,WR,2013
+484061,Jordan James,Tulsa,46,0.924,42.497,42.497,,WR,2013
+482381,Jared Abbrederis,Wisconsin,74,0.925,68.45,65.155,3.295,WR,2013
+487659,Jamill Smith,Ball State,67,0.926,62.011,63.963,-1.952,WR,2013
+534666,Danny Anthrop,Purdue,18,0.927,16.688,16.989,-0.3,WR,2013
+500679,Katrae Ford,UTEP,3,0.928,2.784,2.784,,TE,2013
+517610,DaVaris Daniels,Notre Dame,48,0.931,44.71,47.468,-2.758,WR,2013
+546463,Cameron Smith,Arizona State,9,0.933,8.4,9.351,-0.951,WR,2013
+531575,Dustin Creel,Eastern Michigan,42,0.933,39.166,39.166,,WR,2013
+550903,Rickey Bradley,Southern Mississippi,18,0.933,16.787,16.787,,WR,2013
+481477,Anthony Talbert,Ohio,8,0.936,7.49,7.49,,TE,2013
+537318,Carlton Agudosi,Rutgers,5,0.936,4.679,4.679,,WR,2013
+531482,Garrett Simpson,UTEP,3,0.937,2.812,2.812,,QB,2013
+519451,Andy Erickson,Texas State,28,0.938,26.262,24.467,1.795,WR,2013
+483101,Ja-Mes Logan,Ole Miss,42,0.938,39.383,39.383,,WR,2013
+514781,Xavier Rush,Tulane,16,0.94,15.046,15.046,,WR,2013
+483528,Jamarielle Brown,Western Kentucky,10,0.941,9.409,9.409,,WR,2013
+536542,Ian Hamilton,UTEP,26,0.942,24.497,24.497,,WR,2013
+530452,Harrison Jackson,Boston College,5,0.942,4.708,4.708,,WR,2013
+504243,Jameon Lewis,Mississippi State,72,0.943,67.897,68.233,-0.336,WR,2013
+500510,Thomas Roberson,Tulsa,25,0.945,23.615,24.329,-0.714,WR,2013
+480589,Tavarres Jefferson,Middle Tennessee,42,0.947,39.777,39.777,,WR,2013
+535598,Jesse James,Penn State,22,0.948,20.864,20.864,,TE,2013
+535370,Shaq Roland,South Carolina,21,0.952,19.982,19.982,,WR,2013
+503960,Quinton Dunbar,Florida,41,0.952,39.016,39.016,,WR,2013
+535265,Chris Harper,California,64,0.952,60.939,59.122,1.816,WR,2013
+551091,Jeff Badet,Kentucky,20,0.953,19.067,19.067,,WR,2013
+504070,Javontee Herndon,Arkansas,36,0.953,34.322,31.699,2.622,WR,2013
+482807,Anthony Kendrick,Kentucky,9,0.953,8.576,8.576,,TE,2013
+517742,Brad Pearson,Texas Tech,4,0.953,3.81,3.81,,WR,2013
+504284,Nick Jones,South Carolina,21,0.953,20.019,20.019,,WR,2013
+534843,Daniel Hurd,Memphis,8,0.954,7.633,7.633,,WR,2013
+488944,Brandon Felder,Penn State,24,0.954,22.905,22.905,,WR,2013
+514242,Tim Semisch,Northern Illinois,6,0.955,5.729,5.729,,TE,2013
+515163,K.D. Edenfield,Troy,20,0.956,19.114,19.114,,WR,2013
+517745,Kenny Bias,UT San Antonio,21,0.957,20.104,17.259,2.844,WR,2013
+500597,Kofi Hughes,Indiana,45,0.958,43.105,43.105,,WR,2013
+515726,Mitchell Henry,Western Kentucky,23,0.958,22.027,22.027,,TE,2013
+481509,Tramaine Thompson,Kansas State,29,0.959,27.806,26.834,0.972,WR,2013
+535497,Corey Coleman,Baylor,32,0.959,30.673,30.673,,WR,2013
+501931,Greg Daniels,Texas,3,0.96,2.879,2.879,,TE,2013
+547020,Kalvin Cline,Virginia Tech,26,0.962,25.005,25.005,,TE,2013
+521256,Elgin Long,UMass,14,0.963,13.476,13.476,,WR,2013
+547253,Marcell Ateman,Oklahoma State,22,0.966,21.246,21.246,,WR,2013
+483463,Aaron Burks,Boise State,20,0.967,19.341,18.99,0.351,WR,2013
+503335,Alex Kenney,Penn State,3,0.97,2.909,2.909,,WR,2013
+500905,Sean Tapley,North Carolina,21,0.971,20.398,21.311,-0.913,WR,2013
+480655,Scott Fernandez,Colorado,6,0.971,5.828,5.828,,TE,2013
+481438,Joe Reynolds,Michigan,4,0.972,3.888,3.888,,WR,2013
+535580,Josiah Price,Michigan State,13,0.973,12.65,12.65,,TE,2013
+517474,Travis Labhart,Texas A&M,41,0.974,39.943,39.943,,WR,2013
+531551,KeVonn Mabon,Ball State,7,0.975,6.826,6.826,,WR,2013
+515854,Bradley Miller,Texas State,23,0.975,22.436,22.436,,TE,2013
+530827,Trey Griffey,Arizona,14,0.976,13.66,13.66,,WR,2013
+504943,Greg Watson,Fresno State,21,0.976,20.489,21.038,-0.549,WR,2013
+501534,Keiwone Malone,Memphis,26,0.978,25.425,24.202,1.223,WR,2013
+514707,Joe Morrow,Mississippi State,16,0.979,15.657,15.657,,WR,2013
+533292,Alonzo Moore,Nebraska,7,0.979,6.85,6.85,,WR,2013
+512755,Brett Thiesen,Troy,2,0.98,1.959,1.959,,WR,2013
+534249,Stefon Diggs,Maryland,40,0.981,39.22,38.201,1.019,WR,2013
+502340,Anthony McClung,Cincinnati,69,0.983,67.861,67.861,,WR,2013
+552922,Jamari Staples,UAB,30,0.983,29.481,29.481,,WR,2013
+530417,Quinshad Davis,North Carolina,40,0.983,39.339,41.138,-1.799,WR,2013
+517962,Bryan Holmes,Troy,34,0.985,33.488,33.488,,WR,2013
+514282,Alvonta Jenkins,Miami (OH),15,0.985,14.782,14.782,,WR,2013
+550624,River Cracraft,Washington State,44,0.986,43.39,43.39,,WR,2013
+504872,Joel German,Western Kentucky,30,0.986,29.585,29.585,,WR,2013
+503104,Jordan Duval,South Florida,2,0.987,1.974,1.974,,WR,2013
+530859,Bralon Addison,Oregon,56,0.99,55.422,54.438,0.984,WR,2013
+532169,Wes Saxton,South Alabama,54,0.99,53.471,53.471,,TE,2013
+500825,C.J. Fiedorowicz,Iowa,25,0.994,24.857,24.857,,TE,2013
+512074,Max Morrison,Cincinnati,29,0.994,28.816,29.228,-0.412,WR,2013
+504593,Donte Foster,Ohio,68,0.995,67.643,67.535,0.108,WR,2013
+501009,Kenneth Rains,Arkansas State,8,0.996,7.971,7.971,,TE,2013
+503461,Keenan Holman,SMU,60,0.996,59.768,59.768,,WR,2013
+518204,Allen Robinson,Penn State,99,0.996,98.584,95.57,3.014,WR,2013
+503036,Dres Anderson,Utah,55,0.998,54.873,57.763,-2.889,WR,2013
+482383,Jeff Duckworth,Wisconsin,13,1.001,13.008,12.72,0.288,WR,2013
+514448,Jeremiah Kobena,Syracuse,18,1.005,18.087,18.087,,WR,2013
+536497,Dennis Parks,Rice,35,1.006,35.223,36.774,-1.551,WR,2013
+515796,Bradley Marquez,Texas Tech,45,1.006,45.249,45.249,,WR,2013
+535869,Macgarrett Kings Jr.,Michigan State,44,1.006,44.278,44.905,-0.627,WR,2013
+503231,Mike Henry,Minnesota,8,1.007,8.059,8.059,,FB,2013
+506046,Gabe Henderson,Liberty,10,1.008,10.082,10.082,,WR,2013
+384793,Allen Muse,Arkansas State,27,1.008,27.224,27.224,,WR,2013
+511845,Jaylon Denson,Auburn,4,1.008,4.033,4.033,,WR,2013
+511213,Charone Peake,Clemson,7,1.01,7.073,7.073,,WR,2013
+512013,Donte Moncrief,Ole Miss,57,1.01,57.562,57.562,,WR,2013
+504685,Garic Wharton,Arizona,14,1.01,14.142,14.142,,WR,2013
+547233,Hunter Henry,Arkansas,27,1.01,27.257,27.257,,TE,2013
+501147,Clive Walford,Miami,31,1.012,31.379,31.379,,TE,2013
+546465,Jaelen Strong,Arizona State,69,1.012,69.852,69.852,,WR,2013
+514744,Andre Davis,South Florida,53,1.015,53.804,53.804,,WR,2013
+502871,Thomas Coffman,Colorado State,17,1.016,17.276,17.391,-0.114,WR,2013
+502274,Levi Norwood,Baylor,40,1.02,40.783,40.783,,WR,2013
+501210,Willie Byrn,Virginia Tech,54,1.02,55.094,55.094,,WR,2013
+487641,Mitch Mathews,BYU,19,1.021,19.396,19.396,,WR,2013
+531142,P.J. Harris,Iowa State,7,1.022,7.156,7.156,,WR,2013
+514480,Jace Amaro,Texas Tech,101,1.023,103.296,103.296,,TE,2013
+531872,William Woods,Kent State,3,1.023,3.068,3.068,,WR,2013
+517819,Seth Grubb,UT San Antonio,16,1.026,16.422,16.422,,WR,2013
+480564,Aaron Bradley,Nevada,39,1.028,40.106,40.106,,WR,2013
+480747,Tevin Reese,Baylor,32,1.028,32.888,32.888,,WR,2013
+530275,Max McCaffrey,Duke,22,1.03,22.659,22.659,,WR,2013
+512182,Jay Rome,Georgia,9,1.03,9.272,9.272,,TE,2013
+489411,Jordan Holder,Ole Miss,15,1.031,15.46,15.46,,WR,2013
+530710,Derrick Engel,Minnesota,24,1.034,24.815,24.434,0.382,WR,2013
+502920,Jeric Magnant,New Mexico,24,1.034,24.813,21.619,3.194,WR,2013
+488429,Devon Smith,Marshall,43,1.035,44.507,43.888,0.619,WR,2013
+501231,Kolby Arendse,Nevada,15,1.035,15.531,15.531,,TE,2013
+517027,Richard Rodgers,California,47,1.036,48.693,46.398,2.295,WR,2013
+500233,Markeith Ambles,Houston,15,1.04,15.602,15.602,,WR,2013
+535473,Devon Johnson,Marshall,13,1.041,13.533,12.424,1.109,RB,2013
+503895,Drew Dileo,Michigan,18,1.042,18.752,18.752,,WR,2013
+531590,Demetrius Frazier,Middle Tennessee,5,1.042,5.21,5.21,,WR,2013
+513736,D.D. Goodson,Colorado,25,1.044,26.106,25.33,0.776,WR,2013
+536313,Conner Smith,Louisiana Tech,1,1.044,1.044,1.044,,WR,2013
+539295,Mike Miller,San Diego State,1,1.044,1.044,,1.044,FB,2013
+499832,Kyle Nunn,San José State,31,1.044,32.366,32.366,,WR,2013
+481588,Tim Smith,Virginia,26,1.047,27.232,27.232,,WR,2013
+484493,C.J. Parsons,Boston College,6,1.047,6.284,6.284,,TE,2013
+536270,Melvin Ray,Auburn,5,1.049,5.244,5.244,,WR,2013
+535870,Jamal Lyles,Michigan State,5,1.05,5.25,5.25,,TE,2013
+546414,Tyler Winston,San José State,54,1.052,56.787,56.787,,WR,2013
+535875,D'Arthur Cowan,Arkansas,4,1.053,4.213,4.213,,WR,2013
+504268,Robert Johnson,Mississippi State,36,1.054,37.948,36.695,1.252,WR,2013
+549857,Robbie Rhodes,Baylor,11,1.056,11.616,10.823,0.794,WR,2013
+503232,Logan Hutton,Minnesota,3,1.056,3.168,3.168,,WR,2013
+511231,David Glidden,Oklahoma State,15,1.056,15.845,15.845,,WR,2013
+480659,Jarrod Darden,Wyoming,7,1.058,7.403,7.403,,WR,2013
+515181,Tyler Lockett,Kansas State,73,1.058,77.202,76.725,0.477,WR,2013
+545251,Bug Howard,North Carolina,17,1.059,17.998,17.998,,WR,2013
+531077,Marcus Johnson,Texas,19,1.059,20.117,20.766,-0.65,WR,2013
+535878,Eric Hawkins,Arkansas,4,1.062,4.248,4.392,-0.143,WR,2013
+482467,Andre Gautreaux,Rice,2,1.064,2.127,2.127,,WR,2013
+515900,Ronald Carswell,West Virginia,19,1.064,20.213,20.213,,WR,2013
+106739,Eric Thomas,Troy,59,1.065,62.824,63.625,-0.801,WR,2013
+513120,Dom Williams,Washington State,38,1.068,40.602,40.602,,WR,2013
+550549,Damore'ea Stringfellow,Washington,19,1.068,20.296,20.296,,WR,2013
+480899,Jeremy Gallon,Michigan,87,1.068,92.933,94.315,-1.382,WR,2013
+535877,Keon Hatcher,Arkansas,38,1.069,40.63,29.698,10.932,WR,2013
+378329,Skyler Ridley,BYU,36,1.069,38.494,38.494,,WR,2013
+512348,Rashon Ceaser,Louisiana Monroe,63,1.069,67.349,67.349,,WR,2013
+550220,Siale Fakailoatonga,Utah,2,1.072,2.143,2.143,,TE,2013
+481179,Dylan Denso,San Diego State,19,1.073,20.385,20.385,,WR,2013
+500863,Jonathan Krause,Vanderbilt,42,1.075,45.135,44.781,0.353,WR,2013
+545877,Quantavius Leslie,LSU,1,1.075,1.075,1.075,,WR,2013
+514156,Zach Epps,Tulsa,1,1.075,1.075,1.075,,WR,2013
+531492,Tony Cook,Louisiana Monroe,17,1.076,18.294,18.294,,WR,2013
+503821,Jarrod West,Syracuse,24,1.076,25.823,25.823,,WR,2013
+500414,Rashad Lawrence,Northwestern,29,1.077,31.232,31.232,,WR,2013
+535353,Jerell Adams,South Carolina,11,1.077,11.849,11.849,,TE,2013
+531609,Terry Pettis,Middle Tennessee,10,1.08,10.805,10.805,,WR,2013
+501053,Braxton Deaver,Duke,42,1.081,45.419,45.419,,TE,2013
+501077,Shayne Broxsie,Florida State,2,1.081,2.161,2.161,,TE,2013
+504517,Casey Pierce,Kent State,27,1.082,29.225,29.225,,TE,2013
+480972,Travis Reynolds,Utah State,51,1.083,55.211,56.278,-1.067,WR,2013
+531907,Andrew Pratt,Akron,9,1.084,9.753,9.753,,WR,2013
+480878,Cory White,Florida International,1,1.085,1.085,1.085,,TE,2013
+514281,Andrew Gudeman,Miami (OH),1,1.085,1.085,1.085,,TE,2013
+238170,Kaneakua Friel,BYU,11,1.087,11.952,11.952,,TE,2013
+536467,Andrew Rodriguez,Houston,9,1.088,9.789,9.789,,WR,2013
+505269,Jarod Lee,Troy,2,1.089,2.179,2.179,,FB,2013
+516363,Ty Montgomery,Stanford,60,1.092,65.492,59.881,5.611,WR,2013
+501562,Ross Apo,BYU,11,1.092,12.013,12.013,,WR,2013
+501848,Quincy Enunwa,Nebraska,43,1.094,47.04,48.897,-1.857,WR,2013
+504757,Josh Huff,Oregon,56,1.094,61.251,59.275,1.976,WR,2013
+485470,Darion Howard,Florida Atlantic,13,1.095,14.235,14.235,,TE,2013
+546622,Fred Ross,Mississippi State,8,1.095,8.758,8.758,,WR,2013
+513388,Zach Rogers,Toledo,1,1.096,1.096,1.096,,WR,2013
+516342,Jack Tabb,North Carolina,7,1.097,7.68,7.68,,TE,2013
+483321,Ryan Grant,Tulane,71,1.097,77.862,77.862,,WR,2013
+512786,Adam Shapiro,New Mexico State,33,1.097,36.199,36.199,,WR,2013
+499814,Kevin Smith,Washington,47,1.098,51.584,50.332,1.252,WR,2013
+516267,Anthony Denham,Utah,22,1.098,24.16,24.16,,WR,2013
+505168,James Butler,Louisiana,26,1.101,28.62,28.62,,WR,2013
+554520,Jalen Robinette,Air Force,13,1.103,14.342,14.342,,WR,2013
+501540,Ivan McCartney,West Virginia,11,1.104,12.146,12.146,,WR,2013
+501524,Gerald Christian,Louisville,24,1.107,26.557,26.557,,TE,2013
+500362,Michaelee Harris,Louisville,14,1.107,15.503,16.732,-1.229,WR,2013
+482901,Damian Copeland,Louisville,57,1.108,63.144,62.538,0.606,WR,2013
+537184,David Porter,TCU,21,1.111,23.327,23.327,,WR,2013
+531558,Efe Scott-Emuakpor,Ball State,1,1.112,1.112,1.112,,WR,2013
+516329,Eric Ebron,North Carolina,66,1.115,73.588,72.241,1.347,TE,2013
+511615,DeVante Parker,Louisville,46,1.116,51.317,51.317,,WR,2013
+504528,Donald Scott,Eastern Michigan,5,1.118,5.59,5.59,,WR,2013
+487636,Cody Hoffman,BYU,64,1.118,71.561,71.561,,WR,2013
+537333,Ruhann Peele,Rutgers,25,1.12,27.99,27.99,,WR,2013
+482532,Kevin Cummings,Oregon State,23,1.121,25.772,25.772,,WR,2013
+481541,L'Damian Washington,Missouri,46,1.122,51.597,51.597,,WR,2013
+537313,Leonte Carroo,Rutgers,19,1.125,21.384,21.384,,WR,2013
+513025,Cody Latimer,Indiana,65,1.125,73.117,73.117,,WR,2013
+481745,Tracy Moore,Oklahoma State,46,1.126,51.81,50.937,0.873,WR,2013
+518302,Joe Woodrum,Marshall,1,1.126,1.126,1.126,,TE,2013
+511635,Eli Rogers,Louisville,39,1.129,44.029,44.029,,WR,2013
+546413,Hansell Wilson,San José State,4,1.129,4.515,4.214,0.3,WR,2013
+482196,Ryan Alderman,Temple,38,1.13,42.944,42.944,,WR,2013
+502546,Luke Eakes,Northern Illinois,9,1.13,10.169,10.169,,TE,2013
+503890,Jeremy Jackson,Michigan,6,1.13,6.778,6.778,,WR,2013
+513640,Matt Weiser,Buffalo,12,1.13,13.564,13.564,,TE,2013
+502414,Kevin Weatherspoon,Pittsburgh,14,1.131,15.841,15.841,,WR,2013
+534660,Jhajuan Seales,Oklahoma State,37,1.133,41.922,40.74,1.183,WR,2013
+549980,Latevius Rayford,Vanderbilt,2,1.133,2.265,2.265,,WR,2013
+503825,Beckett Wales,Syracuse,10,1.133,11.332,11.332,,TE,2013
+517333,Geraldo Boldewijn,Boise State,39,1.133,44.178,44.178,,WR,2013
+530868,Evan Baylis,Oregon,4,1.133,4.531,4.531,,TE,2013
+516301,Josh Doctson,TCU,32,1.135,36.307,36.307,,WR,2013
+552951,Jimmy Williams,East Carolina,6,1.136,6.814,5.912,0.901,WR,2013
+487827,Daryle Hawkins,Oregon,21,1.138,23.904,24.293,-0.39,WR,2013
+514175,Jeff Heuerman,Ohio State,24,1.138,27.322,24.76,2.562,TE,2013
+517255,Richard Mullaney,Oregon State,52,1.14,59.268,59.268,,WR,2013
+483130,Quron Pratt,Rutgers,35,1.141,39.934,40.902,-0.968,WR,2013
+535726,Jared Golden,Cincinnati,3,1.141,3.423,3.423,,FB,2013
+551571,DeAndre Smelter,Georgia Tech,21,1.141,23.969,23.356,0.613,WR,2013
+519703,Danny Woodson,South Alabama,20,1.142,22.84,22.84,,WR,2013
+482783,Arthur Lynch,Georgia,28,1.144,32.036,32.036,,TE,2013
+548066,Keeon Johnson,Virginia,25,1.145,28.626,28.626,,WR,2013
+501427,Danny Williams,Georgia State,21,1.146,24.057,24.057,,WR,2013
+532426,Jordan Reid,Ohio,5,1.147,5.735,5.735,,WR,2013
+518011,Cedric Thompson,East Carolina,3,1.147,3.44,3.44,,WR,2013
+518412,Ray Hamilton,Iowa,8,1.148,9.185,9.185,,TE,2013
+545589,Cethan Carter,Nebraska,9,1.151,10.359,10.359,,TE,2013
+535209,Caleb Smith,Oregon State,19,1.151,21.878,21.878,,TE,2013
+480474,Mike Jensen,Northwestern,7,1.154,8.081,8.081,,WR,2013
+512184,Justin Scott-Wesley,Georgia,17,1.156,19.656,19.656,,WR,2013
+552953,Cam Worthy,East Carolina,19,1.16,22.049,22.049,,WR,2013
+503610,Casey Bolena,Navy,15,1.163,17.449,17.449,,WR,2013
+531670,Breshad Perriman,UCF,40,1.164,46.566,46.566,,WR,2013
+518317,Christian Jones,Northwestern,50,1.164,58.198,58.198,,WR,2013
+480490,De'Von Flournoy,USC,9,1.164,10.474,10.474,,WR,2013
+502261,Antwan Goodley,Baylor,66,1.165,76.908,73.415,3.493,WR,2013
+530582,Devin Crayton,Navy,1,1.166,1.166,1.166,,WR,2013
+482039,Jon Root,Akron,1,1.169,1.169,1.169,,TE,2013
+511192,Brian Miller,Boston College,6,1.17,7.018,7.018,,TE,2013
+538421,Garrett Griffin,Air Force,15,1.18,17.702,14.613,3.09,TE,2013
+516352,Devon Cajuste,Stanford,25,1.18,29.489,29.489,,WR,2013
+501535,Kenny Shaw,Florida State,48,1.184,56.854,56.854,,WR,2013
+481664,Grayson Mazzone,UCLA,12,1.188,14.262,14.262,,WR,2013
+552869,James Cox,Southern Mississippi,13,1.188,15.442,15.442,,WR,2013
+501267,Stephen Johnson,Kansas State,1,1.19,1.19,1.19,,WR,2013
+504959,Bubba Poueu-Luna,Hawai'i,6,1.193,7.16,5.461,1.699,WR,2013
+515826,Bruce Ellington,South Carolina,45,1.193,53.69,53.883,-0.193,WR,2013
+515812,Rory Anderson,South Carolina,17,1.194,20.304,20.304,,TE,2013
+516039,J.J. Worton,UCF,41,1.194,48.942,48.942,,WR,2013
+482925,Alex Bayer,Bowling Green,35,1.195,41.842,41.842,,TE,2013
+503204,Tony Lippett,Michigan State,48,1.196,57.428,57.842,-0.414,WR,2013
+504918,Troy Ware,Boise State,5,1.198,5.992,5.992,,WR,2013
+535528,Tre' Parmalee,Kansas,9,1.2,10.796,10.796,,WR,2013
+518196,Kyle Carter,Penn State,17,1.2,20.399,20.399,,TE,2013
+515949,Sammie Coates,Auburn,33,1.2,39.602,39.602,,WR,2013
+530719,Isaac Fruechte,Minnesota,16,1.204,19.264,20.626,-1.363,WR,2013
+480414,Steve Hull,Illinois,56,1.205,67.492,67.492,,WR,2013
+550020,Tony Stevens,Auburn,4,1.206,4.825,4.825,,WR,2013
+552062,Da'Mari Scott,Fresno State,2,1.207,2.414,2.414,,WR,2013
+524839,Matt Lehman,Penn State,2,1.208,2.416,2.416,,TE,2013
+513075,Kasen Williams,Washington,29,1.209,35.072,34.361,0.711,WR,2013
+504595,Troy Hill,Ohio,19,1.212,23.025,23.025,,TE,2013
+534794,Cameron Posey,Purdue,22,1.214,26.697,26.697,,WR,2013
+535574,Adrian Gamble,Virginia,2,1.216,2.431,2.431,,WR,2013
+503729,Tyler Beck,Bowling Green,8,1.216,9.728,9.728,,TE,2013
+531009,Darreus Rogers,USC,23,1.217,27.984,27.984,,WR,2013
+503742,John Dunmore,Buffalo,3,1.217,3.65,3.65,,WR,2013
+550807,Wyatt Houston,Utah State,6,1.217,7.302,7.302,,TE,2013
+511843,C.J. Uzomah,Auburn,9,1.219,10.973,10.973,,TE,2013
+512742,Drew Goodger,Minnesota,6,1.22,7.323,7.323,,TE,2013
+513050,Marvin Hall,Washington,7,1.222,8.557,8.557,,WR,2013
+545903,DeSean Smith,LSU,1,1.223,1.223,1.223,,TE,2013
+160248,Mike Naples,Boston College,9,1.223,11.003,11.003,,TE,2013
+550190,DeAngelo Yancey,Purdue,33,1.229,40.552,40.552,,WR,2013
+514514,Sam Burtch,Nebraska,7,1.23,8.613,8.613,,WR,2013
+517748,Cole Hubble,UT San Antonio,20,1.231,24.617,24.617,,TE,2013
+535620,Kyle Dockins,Virginia,8,1.231,9.848,9.848,,WR,2013
+481325,Jacob Maxwell,Louisiana,10,1.233,12.329,12.329,,TE,2013
+504230,Vince Sanders,Ole Miss,21,1.235,25.928,25.928,,WR,2013
+501138,Allen Hurns,Miami,62,1.235,76.588,76.368,0.22,WR,2013
+531425,Jared Johnson,Louisiana,5,1.241,6.204,6.204,,WR,2013
+513037,Nick Stoner,Indiana,12,1.244,14.925,14.925,,WR,2013
+548076,Johnell Barnes,Duke,15,1.245,18.671,18.671,,WR,2013
+545697,Devin Clarke,Middle Tennessee,21,1.246,26.163,26.163,,WR,2013
+546744,Shavarez Smith,South Alabama,49,1.247,61.114,61.114,,WR,2013
+515192,Curry Sexton,Kansas State,40,1.248,49.916,49.118,0.799,WR,2013
+503441,Klein Kubiak,Rice,7,1.248,8.735,8.735,,WR,2013
+532069,Jason Croom,Tennessee,17,1.25,21.251,21.251,,TE,2013
+501553,Christian Green,Florida State,12,1.252,15.029,15.029,,WR,2013
+546644,Mike Williams,Clemson,17,1.252,21.29,21.29,,WR,2013
+481389,Rockey Vann,Florida International,8,1.262,10.093,10.093,,WR,2013
+484089,Marcel Jensen,Fresno State,23,1.263,29.055,29.055,,TE,2013
+482034,Jerrod Dillard,Akron,27,1.266,34.173,34.173,,WR,2013
+502295,Geremy Davis,Connecticut,74,1.267,93.732,93.732,,WR,2013
+530377,Ryan Hubbell,Louisville,13,1.27,16.513,16.513,,TE,2013
+546559,Johnathon Johnson,Tennessee,13,1.272,16.532,16.532,,WR,2013
+498387,Matt Hazel,Coastal Carolina,6,1.272,7.63,7.63,,WR,2013
+534252,Amba Etta-Tawo,Maryland,32,1.273,40.723,40.723,,WR,2013
+503416,Jacob Pedersen,Wisconsin,36,1.273,45.821,45.821,,TE,2013
+514216,Jordan Fredrick,Wisconsin,10,1.275,12.751,12.751,,WR,2013
+546370,O.J. Howard,Alabama,12,1.277,15.321,15.321,,TE,2013
+533085,Malachi Jones,Appalachian State,2,1.277,2.555,2.555,,WR,2013
+552826,Shaquille Harris,UMass,5,1.278,6.392,3.007,3.385,TE,2013
+513596,Ryan Burbrink,Bowling Green,28,1.279,35.811,35.811,,WR,2013
+517502,Mike Evans,Texas A&M,57,1.28,72.983,72.983,,WR,2013
+546597,Cameron Clear,Texas A&M,3,1.281,3.844,3.844,,TE,2013
+483338,Wilson Van Hooser,Troy,10,1.282,12.82,12.82,,WR,2013
+500288,Jeremey Chappelle,Mississippi State,3,1.283,3.848,3.848,,WR,2013
+517229,Jarvis Landry,LSU,74,1.287,95.23,95.23,,WR,2013
+503482,Markese Triplett,Southern Mississippi,36,1.288,46.353,46.353,,WR,2013
+483549,Noel Grigsby,San José State,8,1.291,10.331,10.331,,WR,2013
+532466,Alex Zmolik,Toledo,5,1.292,6.458,6.458,,TE,2013
+511290,Jaxon Shipley,Texas,55,1.294,71.196,71.196,,WR,2013
+516277,Jake Murphy,Utah,20,1.296,25.919,25.919,,TE,2013
+513064,Austin Seferian-Jenkins,Washington,26,1.297,33.716,33.716,,TE,2013
+547596,Thomas Duarte,UCLA,13,1.299,16.883,16.883,,WR,2013
+545561,James Quick,Louisville,6,1.3,7.802,7.802,,WR,2013
+532117,Derel Walker,Texas A&M,46,1.306,60.063,60.063,,WR,2013
+531010,Nelson Agholor,USC,52,1.307,67.946,68.432,-0.486,WR,2013
+533303,Jordan Westerkamp,Nebraska,19,1.311,24.912,25.017,-0.106,WR,2013
+502918,Deon Long,Maryland,34,1.313,44.65,44.021,0.629,WR,2013
+501068,Nick Sink,Duke,1,1.313,1.313,1.313,,TE,2013
+381543,D.J. Coles,Virginia Tech,21,1.317,27.654,28.177,-0.523,WR,2013
+480843,Duwyce Wilson,Indiana,15,1.317,19.759,19.759,,WR,2013
+530869,Pharaoh Brown,Oregon,8,1.317,10.536,10.536,,TE,2013
+481478,Quintin Payton,NC State,22,1.321,29.072,29.072,,WR,2013
+515154,Tanner Smith,North Texas,2,1.321,2.642,2.642,,TE,2013
+517624,Troy Niklas,Notre Dame,28,1.323,37.035,37.035,,TE,2013
+501946,Darius Terrell,North Texas,5,1.331,6.656,6.656,,TE,2013
+534393,Eric Judge,San Diego State,11,1.336,14.692,14.458,0.234,WR,2013
+518366,Tyler Kroft,Rutgers,40,1.341,53.654,53.654,,TE,2013
+545582,Kai De La Cruz,Louisville,12,1.345,16.143,16.143,,WR,2013
+537093,Melvin German,Florida Atlantic,3,1.349,4.046,4.046,,WR,2013
+512339,Jamal Robinson,Louisiana,47,1.354,63.655,63.655,,WR,2013
+504153,Tyler Robinson,Kentucky,2,1.355,2.71,2.71,,TE,2013
+514796,Chris Briggs,Southern Mississippi,5,1.359,6.796,6.796,,WR,2013
+500929,Daniel Smith,Notre Dame,1,1.365,1.365,1.365,,WR,2013
+482670,Kevin Norwood,Alabama,31,1.372,42.531,42.531,,WR,2013
+545278,Kendall Moore,Syracuse,5,1.373,6.864,6.864,,TE,2013
+517617,Ben Koyack,Notre Dame,7,1.373,9.614,9.614,,TE,2013
+551025,Dameon Gamblin,New Mexico,2,1.375,2.75,,2.75,WR,2013
+500915,TJ Jones,Notre Dame,66,1.376,90.84,87.806,3.034,WR,2013
+531372,Levi Copelin,Missouri,3,1.378,4.134,4.134,,WR,2013
+487561,Shaun Joplin,Bowling Green,57,1.381,78.718,78.718,,WR,2013
+517570,Phillip Dorsett,Miami,10,1.384,13.841,13.841,,WR,2013
+547563,John Tsimis,Rutgers,4,1.388,5.553,5.553,,WR,2013
+511173,Spiffy Evans,Boston College,6,1.391,8.344,8.344,,WR,2013
+550724,Ronald Butler,Utah State,23,1.397,32.123,33.3,-1.177,WR,2013
+504708,Kevin Ozier,Arizona State,21,1.398,29.354,29.354,,WR,2013
+535947,Chris Brown,Notre Dame,14,1.398,19.57,19.57,,WR,2013
+530860,Chance Allen,Oregon,5,1.4,7.001,6.509,0.492,WR,2013
+546800,Isaiah Jones,Florida State,2,1.401,2.802,2.802,,WR,2013
+505682,Zach Schaubhut,Florida International,2,1.401,2.801,2.801,,TE,2013
+506420,Keanu Nelson,Stanford,1,1.409,1.409,1.409,,WR,2013
+545428,George Kittle,Iowa,5,1.412,7.062,7.062,,TE,2013
+505321,Jeff Trojan,Stanford,6,1.417,8.499,8.499,,WR,2013
+534450,Durron Neal,Oklahoma,13,1.418,18.431,18.431,,WR,2013
+545846,Keith Rucker,Georgia State,13,1.419,18.449,18.449,,TE,2013
+512956,Titus Davis,Central Michigan,63,1.42,89.43,87.819,1.611,WR,2013
+531900,Tyrell Goodman,Akron,15,1.43,21.449,21.449,,WR,2013
+545356,JaBryce Taylor,SMU,14,1.431,20.031,13.129,6.902,WR,2013
+520575,Kurt Henderson,BYU,4,1.434,5.736,5.736,,WR,2013
+534842,Mose Frazier,Memphis,21,1.435,30.137,27.678,2.459,WR,2013
+534552,Nyiakki Height,UAB,6,1.438,8.631,8.631,,WR,2013
+530747,Maxx Williams,Minnesota,22,1.438,31.646,29.457,2.19,TE,2013
+504072,Julian Horton,Arkansas,11,1.439,15.834,15.834,,WR,2013
+540674,DeAndre' Smith,James Madison,6,1.44,8.642,9.673,-1.031,WR,2013
+516366,Jordan Pratt,Stanford,12,1.445,17.339,17.339,,WR,2013
+517336,Jake Hardee,Boise State,6,1.446,8.677,8.677,,TE,2013
+512321,Martavis Bryant,Clemson,36,1.446,52.053,52.053,,WR,2013
+514119,Kelvin Benjamin,Florida State,42,1.45,60.895,60.895,,WR,2013
+530347,Jared Crump,Wake Forest,15,1.451,21.763,21.763,,WR,2013
+505094,Wes Forbush,Clemson,2,1.453,2.907,2.907,,WR,2013
+550484,Austin Bennett,Oklahoma,2,1.456,2.912,2.912,,WR,2013
+547591,Darren Andrews,UCLA,3,1.467,4.402,4.402,,WR,2013
+502901,Andrew Aho,New Mexico,10,1.47,14.697,14.697,,TE,2013
+503641,Bud Pruitt,UAB,1,1.47,1.47,1.47,,TE,2013
+513727,Darren Waller,Georgia Tech,15,1.48,22.201,22.201,,WR,2013
+482511,Jackson Bouza,California,12,1.481,17.772,17.772,,WR,2013
+545371,Damond Powell,Iowa,11,1.484,16.319,16.278,0.041,WR,2013
+530273,Anthony Nash,Duke,3,1.485,4.456,4.456,,WR,2013
+481635,Jaz Reynolds,Oklahoma,13,1.492,19.401,19.401,,WR,2013
+530929,Latroy Pittman,Florida,2,1.5,3,3,,WR,2013
+515924,Quinta Funderburk,Syracuse,3,1.505,4.516,4.516,,WR,2013
+531542,Sam Brunner,Ball State,2,1.508,3.016,3.016,,TE,2013
+536380,Jordan Thiel,San José State,1,1.516,1.516,1.516,,TE,2013
+531150,Derreck Edwards,Texas Tech,5,1.516,7.579,7.579,,WR,2013
+503832,Brandon Coleman,Rutgers,31,1.518,47.045,47.045,,WR,2013
+484843,Tim Vizzi,San Diego State,21,1.518,31.882,31.882,,WR,2013
+517635,CheRod Simpson,UT San Antonio,1,1.526,1.526,1.526,,RB,2013
+517744,Earon Holmes,UT San Antonio,7,1.526,10.681,10.681,,WR,2013
+517377,Nick O'Leary,Florida State,26,1.532,39.831,39.831,,TE,2013
+483319,Devin Figaro,Louisiana,11,1.539,16.934,16.934,,WR,2013
+500498,Jay Prosch,Auburn,4,1.54,6.161,6.161,,RB,2013
+517284,Clay Fuller,Baylor,29,1.545,44.799,44.799,,WR,2013
+502760,Andrew Turzilli,Kansas,7,1.548,10.834,10.834,,WR,2013
+482394,Brian Wozniak,Wisconsin,2,1.555,3.111,3.111,,TE,2013
+486059,Tony Washington,Appalachian State,5,1.562,7.81,7.81,,WR,2013
+545480,Drew Wolitarsky,Minnesota,16,1.564,25.024,24.344,0.68,WR,2013
+513058,Joshua Perkins,Washington,2,1.564,3.128,3.128,,TE,2013
+537589,Robert Ruiz,Colorado State,1,1.577,1.577,1.577,,WR,2013
+521344,Brandon Howard,UMass,4,1.582,6.327,6.327,,TE,2013
+544655,Alex Ludowig,Air Force,6,1.582,9.493,9.493,,WR,2013
+545810,Devin Scott,Louisiana,2,1.591,3.183,2.73,0.453,WR,2013
+501529,Travis Dickson,LSU,6,1.613,9.68,9.68,,TE,2013
+482356,Kurt Freytag,Purdue,4,1.622,6.489,3.414,3.075,FB,2013
+500459,Keenan Canty,Colorado,3,1.624,4.872,4.872,,WR,2013
+512719,Trevon Pendleton,Michigan State,6,1.631,9.784,9.784,,FB,2013
+511983,Devin Lucien,UCLA,18,1.642,29.548,29.765,-0.217,WR,2013
+518129,Logan Sweet,UCLA,3,1.644,4.932,4.932,,WR,2013
+517201,Victor Blackwell,USC,4,1.648,6.592,6.592,,WR,2013
+480743,Jerod Monk,Baylor,2,1.648,3.297,3.297,,TE,2013
+481562,Jake Long,Nebraska,8,1.656,13.247,13.247,,TE,2013
+549210,Rashard Davis,James Madison,1,1.666,1.666,,1.666,WR,2013
+484055,Ricky Johnson,Louisiana,4,1.671,6.685,6.685,,WR,2013
+513601,Chris Pohlman,Bowling Green,3,1.68,5.039,5.039,,TE,2013
+536197,Cody Core,Ole Miss,5,1.692,8.461,8.461,,WR,2013
+532416,Matt Williams,Northern Illinois,5,1.693,8.466,8.466,,WR,2013
+531357,Fred Brown,Mississippi State,5,1.704,8.521,8.521,,WR,2013
+550962,Corey Robinson,Notre Dame,9,1.723,15.507,15.507,,WR,2013
+545415,Rodriguez Coleman,Kansas,9,1.726,15.53,15.53,,WR,2013
+482304,Justin Sims,Southern Mississippi,4,1.737,6.947,6.947,,WR,2013
+530939,A.J. Legree,Kentucky,7,1.741,12.186,12.186,,WR,2013
+518207,Matt Zanellato,Penn State,4,1.75,7.002,7.002,,WR,2013
+500560,Trent Pruitt,Vanderbilt,3,1.753,5.259,5.259,,WR,2013
+518159,Larry Clark,San Diego State,3,1.756,5.268,5.268,,WR,2013
+546076,Tim Clary,Illinois,1,1.759,1.759,1.759,,TE,2013
+543763,Aaron Hepp,Ball State,2,1.761,3.521,3.521,,WR,2013
+511885,Clay Burton,Florida,1,1.765,1.765,1.765,,TE,2013
+501510,Zach Trujillo,Kansas State,4,1.785,7.141,7.141,,TE,2013
+535871,Matt Macksood,Michigan State,1,1.787,1.787,1.787,,WR,2013
+503238,Gabe Mezzenga,Minnesota,1,1.797,1.797,1.797,,TE,2013
+518128,Tyler Scott,UCLA,1,1.826,1.826,1.826,,WR,2013
+515919,Brian Buehner,Arkansas,1,1.849,1.849,1.849,,WR,2013
+482694,Austin Tate,Arkansas,1,1.849,1.849,1.849,,TE,2013
+514751,Ruben Gonzalez,South Florida,5,1.89,9.448,9.448,,WR,2013
+529609,Bruce Mapp,Coastal Carolina,2,1.9,3.8,3.8,,WR,2013
+534444,Travin Dural,LSU,6,1.924,11.543,11.543,,WR,2013
+481395,Carlos McCants,Arkansas State,1,1.932,1.932,1.932,,WR,2013
+503269,Jazz King,Marshall,4,1.937,7.748,7.748,,WR,2013
+518214,Matt Porter,Clemson,2,1.94,3.88,3.88,,WR,2013
+504353,Mike Kinville,Central Michigan,2,1.945,3.89,3.89,,TE,2013
+533072,Barrett Burns,Appalachian State,1,1.975,1.975,1.975,,TE,2013
+536843,Reece White,New Mexico,2,1.996,3.991,3.991,,TE,2013
+535884,Mekale McKay,Cincinnati,10,2.014,20.141,20.907,-0.766,WR,2013
+534747,Alonzo Agwuenu,Arizona State,1,2.025,2.025,2.025,,WR,2013
+535297,Michael Rector,Stanford,12,2.04,24.485,22.106,2.379,WR,2013
+518230,Mark McNeill,North Carolina,5,2.04,10.202,10.202,,WR,2013
+517752,Sean Hesler,UT San Antonio,1,2.067,2.067,2.067,,WR,2013
+532179,Devon Breaux,Tulane,3,2.084,6.252,6.252,,WR,2013
+534477,Derrick Woods,Oklahoma,2,2.103,4.207,4.207,,WR,2013
+503597,Scott Williams,Army,1,2.134,2.134,2.134,,WR,2013
+501177,Miles Gooch,Virginia,2,2.148,4.295,4.295,,WR,2013
+508172,Corey Waldon,South Alabama,2,2.233,4.465,4.465,,WR,2013
+483477,Gabe Linehan,Boise State,2,2.235,4.471,4.471,,TE,2013
+512963,Jesse Kroll,Central Michigan,5,2.261,11.306,11.306,,WR,2013
+546561,A.J. Branisel,Tennessee,1,2.271,2.271,2.271,,TE,2013
+500689,Jim Jones,UTEP,1,2.283,2.283,2.283,,WR,2013
+513639,Ron Willoughby,Buffalo,3,2.303,6.91,6.91,,WR,2013
+500577,LeKendrick Williams,Texas A&M,2,2.352,4.705,4.705,,WR,2013
+534648,Blake Jackson,Oklahoma State,4,2.39,9.562,9.562,,WR,2013
+551024,Tyler Duncan,New Mexico,3,2.398,7.195,7.195,,WR,2013
+514064,John Israel,Coastal Carolina,1,2.435,2.435,2.435,,WR,2013
+547842,Chad Beebe,Northern Illinois,1,2.467,2.467,2.467,,WR,2013
+535978,Jerry Bynum,UT San Antonio,1,2.587,2.587,,2.587,RB,2013
+504037,Harrison Jones,Alabama,1,2.589,2.589,2.589,,TE,2013
+536046,Defarrel Davis,Central Michigan,1,2.658,2.658,2.658,,WR,2013
+517022,Bryce McGovern,California,1,2.679,2.679,2.679,,WR,2013
+534638,C.J. Curry,Oklahoma State,1,2.687,2.687,2.687,,WR,2013
+504504,Tim Erjavec,Kent State,1,2.712,2.712,2.712,,TE,2013
+533611,Rhakeem Stallings,James Madison,1,2.793,2.793,2.793,,WR,2013
+547556,Andre Patton,Rutgers,2,2.851,5.702,5.702,,WR,2013
+504245,Brandon Hill,Mississippi State,2,2.866,5.732,5.732,,TE,2013
+546534,Paul Harris,Tennessee,1,2.92,2.92,2.92,,WR,2013
+552073,Andrew Vollert,San José State,1,2.978,2.978,2.978,,TE,2013
+531064,Alex De La Torre,Texas,1,3.044,3.044,,3.044,TE,2013
+546167,Lonnie Turner,Western Kentucky,1,3.095,3.095,3.095,,WR,2013
+505575,Daniel Brown,James Madison,2,3.204,6.408,6.408,,WR,2013
+504020,Hugh Williams,Georgia,1,3.491,3.491,3.491,,TE,2013
+537000,Brandon Brown,Baylor,1,3.532,3.532,3.532,,WR,2013
+503059,Westlee Tonga,Utah,1,3.77,3.77,3.77,,TE,2013
+531855,Brice Fackler,Kent State,1,4.083,4.083,,4.083,TE,2013
+546474,Francis Owusu,Stanford,1,4.268,4.268,4.268,,WR,2013
+532075,Cody Blanc,Tennessee,1,4.32,4.32,4.32,,WR,2013
