@@ -19,7 +19,7 @@ start = time.time()
 ### IMPORTING AND CLEANING DATA
 ### -----------------------------
 configuration = cfbd.Configuration()
-configuration.api_key['Authorization'] = 'QWYHUYDzAZeL8m+sWHvTMOVWEvL/xPJeI9wTNdI6+TG084QBruYHpnNuiHHiRDKL'
+configuration.api_key['Authorization'] = 'YOUR UNIQUE API KEY HERE'
 configuration.api_key_prefix['Authorization'] = 'Bearer'
 
 # set up the API configs to connect to each CFB data client
